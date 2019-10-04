@@ -8,7 +8,8 @@ tags:
 
 # Stay awhile, and listen!
 
+## System Administration
 
-### Applications
+* [[applications]]
 
-### New Developer
+## Software Development
