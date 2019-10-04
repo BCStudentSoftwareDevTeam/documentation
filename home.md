@@ -2,7 +2,7 @@
 title: Berea College Student Software Development Documation
 description: The home for all of the documentation surrounding the student software development team at Berea College
 published: true
-date: 2019-10-04T17:29:12.946Z
+date: 2019-10-04T21:49:33.532Z
 tags: 
 ---
 
@@ -10,6 +10,9 @@ tags:
 
 ## System Administration
 
-* [[applications]]
+* [Our Applications](applications)
 
 ## Software Development
+
+* [Writing a Good README](writing-good-readme)
+
