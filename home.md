@@ -11,7 +11,15 @@ tags:
 ## System Administration
 
 * [Our Applications](/applications)
+* [Infrastructure](/infrastructure)
+* [Access Control](/access)
+* [Planning](/plans)
 
 ## Software Development
 
-* [Writing a good README](/writing-good-readme)
+* [New Developer Orientation](/new-dev)
+* [Coding Candy](/programming)
+* [Python Perfection](/python)
+* [Javascript Joy](/javascript)
+* [Database Delight](/database)
+* [Git Gud Wit Git](/git)
