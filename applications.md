@@ -2,7 +2,7 @@
 title: Applications
 description: The applications in development or managed by the SSDT
 published: true
-date: 2019-10-14T13:42:03.760Z
+date: 2019-10-14T13:45:16.398Z
 tags: 
 ---
 
@@ -65,7 +65,7 @@ The current production application is using the codebase from https://bitbucket.
 **Setup Documentation:** [README.md](https://bitbucket.org/laborstudents/chemical-inventory-new/src/master/README.md)
 
 #### Ulmann
-Ullman Galleries is a management tool for application entries. It provides an easy way to accept applications. Our main purpose for the system is to accept applications from artists that want to show their work in a Berea College Gallery Showing.
+Ulmann Galleries is a management tool for application entries. It provides an easy way to accept applications. Our main purpose for the system is to accept applications from artists that want to show their work in a Berea College Gallery Showing.
 
 **Point of Contact:** Megan Doherty <dohertym@berea.edu>
 **Application Link:**
