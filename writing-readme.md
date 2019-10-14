@@ -1,8 +1,8 @@
 ---
 title: Writing a good README
-description: How to write a helpful README file for an SSDT repo
+description: How to write a good README for an SSDT repo
 published: true
-date: 2019-10-04T22:01:52.270Z
+date: 2019-10-14T21:13:02.044Z
 tags: 
 ---
 
