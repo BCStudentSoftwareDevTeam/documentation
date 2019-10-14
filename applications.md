@@ -2,7 +2,7 @@
 title: Applications
 description: The applications in development or managed by the SSDT
 published: true
-date: 2019-10-14T13:45:16.398Z
+date: 2019-10-14T13:46:18.084Z
 tags: 
 ---
 
@@ -99,7 +99,7 @@ These applications are not directly developed by the SSDT but we support them ei
 **Setup Documentation:** [README.md](https://bitbucket.org/laborstudents/art-archives/src/master/README.md)
 
 #### SSDT Documentation
-All of the documentation for our team and applications is contained in Wiki.js. The pages are also stored as .md files and are synced with this repository: https://bitbucket.org/laborstudents/documentation. Anything .md files edited or added to this repo will be updated in the wiki.
+All of the documentation for our team and applications is contained in Wiki.js. The pages are also stored as .md files and are synced with this repository: https://bitbucket.org/laborstudents/documentation. Any .md files edited or added to this repo will be updated in the wiki.
 
 **Point of Contact:** Brian Ramsay <ramsayb2@berea.edu>
 **Application Link:** http://172.31.2.178/
