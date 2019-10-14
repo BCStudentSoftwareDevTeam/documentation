@@ -2,7 +2,7 @@
 title: Berea College Student Software Development Documation
 description: The home for all of the documentation surrounding the student software development team at Berea College
 published: true
-date: 2019-10-04T22:02:01.994Z
+date: 2019-10-14T16:16:12.135Z
 tags: 
 ---
 
@@ -22,4 +22,5 @@ tags:
 * [Python Perfection](/python)
 * [Javascript Joy](/javascript)
 * [Database Delight](/database)
-* [Git Gud Wit Git](/git)
+* [Great Git](/git)
+* [Linux Love](/linux)
