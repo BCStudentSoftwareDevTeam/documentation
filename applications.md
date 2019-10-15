@@ -2,11 +2,9 @@
 title: Applications
 description: The applications in development or managed by the SSDT
 published: true
-date: 2019-10-14T13:46:23.926Z
+date: 2019-10-15T15:29:50.736Z
 tags: 
 ---
-
-A list of the applications for which we are responsible for developing or maintaining
 
 # Our applications
 These applications are directly developed by our team.
