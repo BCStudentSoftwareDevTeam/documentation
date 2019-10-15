@@ -2,15 +2,14 @@
 title: Future Planning
 description: Upcoming SSDT projects, upgrades, improvements, and wishlists.
 published: true
-date: 2019-10-15T15:37:57.046Z
+date: 2019-10-15T15:38:32.073Z
 tags: 
 ---
 
-# Process Improvements
+# Process
 
-# Infrastructure Upgrades
+# Infrastructure
 
-# New Applications
-Nothing on the docket.
+# Applications
 
 # Wishlist
