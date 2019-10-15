@@ -2,11 +2,12 @@
 title: Future Planning
 description: Upcoming SSDT projects, upgrades, improvements, and wishlists.
 published: true
-date: 2019-10-15T18:55:48.769Z
+date: 2019-10-15T20:02:56.922Z
 tags: 
 ---
 
 # Infrastructure
+New servers, new networking, new authentication, new support scripts
 
 ## Create new base VM
 * Ubuntu 18.04 LTS
@@ -21,6 +22,7 @@ tags:
 * Add a development and staging machine to test upgrades (currently ada: 10.40.132.97)
 
 # Applications
+Changes to improve the quality of or add new features to our applications.
 
 ## Fast Dev Deployments
 * Base VM with appropriate configuration
@@ -35,6 +37,7 @@ tags:
 * No extraneous or outdated files in repo root
 
 # Wishlist
+We need to do these things eventually, either for our applications' sake or our own sanity.
 
 ## Tests!
 * We need a test framework and an easy entry point to write new tests for features
@@ -78,6 +81,7 @@ tags:
 * wsgi_express with docker?
 
 # Completed
+For posterity. See how far we have come.
 
 ## New Documentation Platform
 * Wiki.js server
