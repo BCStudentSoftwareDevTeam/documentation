@@ -51,7 +51,7 @@ The current production application is using the codebase from https://bitbucket.
 **Repository:** https://bitbucket.org/laborstudents/lsf-flask
 **Setup Documentation:** [README.md](https://bitbucket.org/laborstudents/lsf-flask/src/development/README.md)
 
-## SKYZ
+## Chemical Inventory Management
 < DESCRIPTION >
 
 **Point of Contact:** 
