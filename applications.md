@@ -22,7 +22,7 @@ These applications are directly developed by our team.
 **Setup Documentation:** [README.md](https://bitbucket.org/laborstudents/advancementoffice/src/development/README.md)
 
 ## BCSR
-<DESCRIPTION>
+< DESCRIPTION >
 
 **Point of Contact:** 
 **Application Link:**
@@ -32,7 +32,7 @@ These applications are directly developed by our team.
 **Setup Documentation:** [README.md](https://bitbucket.org/laborstudents/bcsr-flask/src/master/README.md)
 
 ## CAS
-<DESCRIPTION>
+< DESCRIPTION >
 
 **Point of Contact:** 
 **Application Link:**
@@ -42,7 +42,7 @@ These applications are directly developed by our team.
 **Setup Documentation:** [README.md](https://bitbucket.org/laborstudents/cas-flask/src/development/README.md)
 
 ## Labor Status Forms
-<DESCRIPTION>
+< DESCRIPTION >
 
 The current production application is using the codebase from https://bitbucket.org/laborstudents/labor-status-forms.
 
@@ -54,7 +54,7 @@ The current production application is using the codebase from https://bitbucket.
 **Setup Documentation:** [README.md](https://bitbucket.org/laborstudents/lsf-flask/src/development/README.md)
 
 ## SKYZ
-<DESCRIPTION>
+< DESCRIPTION >
 
 **Point of Contact:** 
 **Application Link:**
@@ -74,7 +74,7 @@ Ulmann Galleries is a management tool for application entries. It provides an ea
 **Setup Documentation:** [README.md](https://github.com/BCStudentSoftwareDevTeam/Ullman_Galleries/blob/development/README.md)
 
 ## URCPP
-<DESCRIPTION>
+< DESCRIPTION >
 
 **Point of Contact:** 
 **Application Link:**
@@ -88,7 +88,7 @@ Ulmann Galleries is a management tool for application entries. It provides an ea
 These applications are not directly developed by the SSDT but we support them either for external clients or for our own use.
 
 ## Berea College Art Collection
-<DESCRIPTION>
+< DESCRIPTION >
 
 **Point of Contact:** Megan Doherty <dohertym@berea.edu>
 **Application Link:** https://bcac.berea.edu/
