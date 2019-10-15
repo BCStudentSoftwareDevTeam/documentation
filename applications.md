@@ -65,9 +65,9 @@ The current production application is using the codebase from https://bitbucket.
 Ulmann Galleries is a management tool for application entries. It provides an easy way to accept applications. Our main purpose for the system is to accept applications from artists that want to show their work in a Berea College Gallery Showing.
 
 **Point of Contact:** Megan Doherty <dohertym@berea.edu>
-**Application Link:**
+**Application Link:** http://ulmann.berea.edu
 **Production IP(s):**
-**Production VM(s):**
+**Production VM(s):** in AWS
 **Repository:** https://github.com/BCStudentSoftwareDevTeam/Ullman_Galleries
 **Setup Documentation:** [README.md](https://github.com/BCStudentSoftwareDevTeam/Ullman_Galleries/blob/development/README.md)
 
