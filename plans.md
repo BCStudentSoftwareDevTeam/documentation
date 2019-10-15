@@ -2,7 +2,7 @@
 title: Future Planning
 description: Upcoming SSDT projects, upgrades, improvements, and wishlists.
 published: true
-date: 2019-10-15T18:55:00.759Z
+date: 2019-10-15T18:55:48.769Z
 tags: 
 ---
 
@@ -24,10 +24,10 @@ tags:
 
 ## Fast Dev Deployments
 * Base VM with appropriate configuration
-		* docker.io, docker-compose, mysql, sudo access, ssh set up, user in docker group
+    * docker.io, docker-compose, mysql, sudo access, ssh set up, user in docker group
 * config in git repo and setup.sh should create sensible dev defaults
 * database should be set up easily and as automatically as possible
-		* import existing prod database
+    * import existing prod database
 * Provide Docker container for fast startup
 * Applications should be consistently configured where possible
 * Proper Documentation present in README
