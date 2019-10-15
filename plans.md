@@ -2,7 +2,7 @@
 title: Future Planning
 description: Upcoming SSDT projects, upgrades, improvements, and wishlists.
 published: true
-date: 2019-10-15T20:02:56.922Z
+date: 2019-10-15T20:03:09.695Z
 tags: 
 ---
 
@@ -21,7 +21,7 @@ New servers, new networking, new authentication, new support scripts
     * virsh and libvirt shouldn't need sudo
 * Add a development and staging machine to test upgrades (currently ada: 10.40.132.97)
 
-# Applications
+# Application Development
 Changes to improve the quality of or add new features to our applications.
 
 ## Fast Dev Deployments
