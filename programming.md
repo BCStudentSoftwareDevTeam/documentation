@@ -1,10 +1,11 @@
 ---
-title: programming
-description: 
+title: Software Development
+description: General best practices for software development
 published: true
-date: 2019-10-14T16:22:55.473Z
+date: 2019-10-15T20:04:29.960Z
 tags: 
 ---
+
 
 
 * [Writing a good README](/writing-readme)
