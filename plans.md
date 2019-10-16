@@ -2,14 +2,14 @@
 title: Future Planning
 description: Upcoming SSDT projects, upgrades, improvements, and wishlists.
 published: true
-date: 2019-10-16T14:51:52.086Z
+date: 2019-10-16T14:54:48.056Z
 tags: 
 ---
 
 # Infrastructure In Progress
 New servers, new networking, new authentication, new support scripts.
 
-## Create new base VM
+## Create new base VMs
 * Ubuntu 18.04 LTS
 * Layer requirements (base, application, dev)
 	* Base should be minimal
@@ -72,7 +72,7 @@ We need to do these things eventually, either for our applications' sake or our 
 ## SSH Key Management
 * Ability to add and revoke permissions to servers
 * Avoid having to email private keys
-* Use existing keys
+* Use existing user keys
 * Investigation
 	* https://www.bastillion.io/docs/using/whitepaper/
 	* authpush
