@@ -2,12 +2,12 @@
 title: Future Planning
 description: Upcoming SSDT projects, upgrades, improvements, and wishlists.
 published: true
-date: 2019-10-16T14:42:39.386Z
+date: 2019-10-16T14:46:02.423Z
 tags: 
 ---
 
-# Infrastructure
-New servers, new networking, new authentication, new support scripts
+# Infrastructure In Progress
+New servers, new networking, new authentication, new support scripts.
 
 ## Create new base VM
 * Ubuntu 18.04 LTS
@@ -25,8 +25,12 @@ New servers, new networking, new authentication, new support scripts
     * virsh and libvirt shouldn't need sudo
 * Add a development and staging machine to test upgrades (currently ada: 10.40.132.97)
 
-# Application Development
+# Application Development in Progress
 Changes to improve the quality of or add new features to our applications.
+
+## Labor Status Forms Rewrite
+* Get LSF rewritten as a Flask application
+* All hands on deck
 
 ## Fast Dev Deployments
 * Base VM with appropriate configuration
