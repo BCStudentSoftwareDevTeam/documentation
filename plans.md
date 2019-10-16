@@ -2,7 +2,7 @@
 title: Future Planning
 description: Upcoming SSDT projects, upgrades, improvements, and wishlists.
 published: true
-date: 2019-10-16T14:46:02.423Z
+date: 2019-10-16T14:51:52.086Z
 tags: 
 ---
 
@@ -70,7 +70,10 @@ We need to do these things eventually, either for our applications' sake or our 
 * Alerts based on log events
 
 ## SSH Key Management
-   * Investigation
+* Ability to add and revoke permissions to servers
+* Avoid having to email private keys
+* Use existing keys
+* Investigation
 	* https://www.bastillion.io/docs/using/whitepaper/
 	* authpush
 
