@@ -2,7 +2,7 @@
 title: Future Planning
 description: Upcoming SSDT projects, upgrades, improvements, and wishlists.
 published: true
-date: 2019-10-15T20:03:09.695Z
+date: 2019-10-16T14:42:39.386Z
 tags: 
 ---
 
@@ -12,7 +12,11 @@ New servers, new networking, new authentication, new support scripts
 ## Create new base VM
 * Ubuntu 18.04 LTS
 * Layer requirements (base, application, dev)
-* Easy tools to create new and clone from
+	* Base should be minimal
+  * Application bases should have the necessary packages and configuration for particular types of applications (e.g., flask, docker)
+  * Dev base should have the tools to support a wider variety of development. Multiple shells, editors, different web serving methods
+* Easy tools to create new and clone from bases
+* Existing student and system creation tools should still work
 
 ## Upgrade fee
 * Ubuntu 18.4 LTS and latest libvirt
