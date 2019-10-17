@@ -2,14 +2,14 @@
 title: Applications
 description: The applications in development or managed by the SSDT
 published: true
-date: 2019-10-15T15:29:50.736Z
+date: 2019-10-17T15:40:00.179Z
 tags: 
 ---
 
 # Our applications
 These applications are directly developed by our team.
 
-## Advancement
+## Advancement Office
 < DESCRIPTION >
 
 **Point of Contact:** 
@@ -19,7 +19,7 @@ These applications are directly developed by our team.
 **Repository:** https://bitbucket.org/laborstudents/advancementoffice
 **Setup Documentation:** [README.md](https://bitbucket.org/laborstudents/advancementoffice/src/development/README.md)
 
-## BCSR
+## Berea College Syllabus Repository
 < DESCRIPTION >
 
 **Point of Contact:** 
@@ -61,7 +61,7 @@ The current production application is using the codebase from https://bitbucket.
 **Repository:** https://bitbucket.org/laborstudents/chemical-inventory-new
 **Setup Documentation:** [README.md](https://bitbucket.org/laborstudents/chemical-inventory-new/src/master/README.md)
 
-## Ulmann
+## Ulmann Galleries
 Ulmann Galleries is a management tool for application entries. It provides an easy way to accept applications. Our main purpose for the system is to accept applications from artists that want to show their work in a Berea College Gallery Showing.
 
 **Point of Contact:** Megan Doherty <dohertym@berea.edu>
@@ -71,7 +71,7 @@ Ulmann Galleries is a management tool for application entries. It provides an ea
 **Repository:** https://github.com/BCStudentSoftwareDevTeam/Ullman_Galleries
 **Setup Documentation:** [README.md](https://github.com/BCStudentSoftwareDevTeam/Ullman_Galleries/blob/development/README.md)
 
-## URCPP
+## Undergraduate Research and Creative Projects Program
 < DESCRIPTION >
 
 **Point of Contact:** 
