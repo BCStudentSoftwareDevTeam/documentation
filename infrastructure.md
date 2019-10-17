@@ -2,7 +2,7 @@
 title: Infrastructure
 description: Details of our network and servers
 published: true
-date: 2019-10-17T15:42:45.814Z
+date: 2019-10-17T15:44:00.488Z
 tags: 
 ---
 
@@ -36,7 +36,7 @@ tags:
 * Hosted in ssdt room *temporarily*
 * Used for testing upgrades and deployment scripts
 
-## cs.berea.edu
+## External site - cs.berea.edu
 * Hosted by IS&S
 * Content controlled by CS
 
