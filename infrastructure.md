@@ -2,7 +2,7 @@
 title: Infrastructure
 description: Details of our network and servers
 published: true
-date: 2019-10-17T15:50:54.987Z
+date: 2019-10-17T17:23:09.067Z
 tags: 
 ---
 
@@ -28,12 +28,12 @@ tags:
 	* BCAC
 	* Ulmann Archives
 	* Wiki.js
-* Runs DNS server for resolving \*.ssdt.berea.edu *in progress*
+* Runs DNS server for resolving \*.ssdt.berea.edu *(in progress)*
 
 ## CS - dev VM hypervisor
 * Hostname: ada
 * 10.40.132.97
-* Hosted in ssdt room *temporarily*
+* Hosted in ssdt room *(temporarily)*
 * Used for testing upgrades and deployment scripts
 
 ## External site - cs.berea.edu
