@@ -2,7 +2,7 @@
 title: Infrastructure
 description: Details of our network and servers
 published: true
-date: 2019-10-17T15:41:41.909Z
+date: 2019-10-17T15:42:45.814Z
 tags: 
 ---
 
@@ -45,6 +45,8 @@ tags:
 
 ## Ansible
 
-Our physical and virtual servers are provisioned with Ansible. [Ansible repository](https://bitbucket.org/laborstudents/ansible_proj/src/master/). Instructions for use can be found in the [README](https://bitbucket.org/laborstudents/ansible_proj/src/master/README.md).
+Our physical and virtual servers are provisioned with Ansible. [View Ansible repository](https://bitbucket.org/laborstudents/ansible_proj/src/master/). 
+
+Instructions for use can be found in the [README](https://bitbucket.org/laborstudents/ansible_proj/src/master/README.md).
 
 ## libvirt
