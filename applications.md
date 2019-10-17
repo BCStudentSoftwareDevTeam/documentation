@@ -2,7 +2,7 @@
 title: Applications
 description: The applications in development or managed by the SSDT
 published: true
-date: 2019-10-17T17:31:09.766Z
+date: 2019-10-17T19:11:59.050Z
 tags: 
 ---
 
@@ -100,7 +100,7 @@ All of the documentation for our team and applications is contained in Wiki.js. 
 
 **Point of Contact:** Brian Ramsay <ramsayb2@berea.edu>
 **Application Link:** http://172.31.2.178/
-**Production IP(s):** http://172.31.2.178/
+**Production IP(s):** 172.31.2.178
 **Production VM(s):** documentation
 **Repository:** N/A
 **Setup Documentation:** 
