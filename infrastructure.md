@@ -2,7 +2,7 @@
 title: Infrastructure
 description: Details of our network and servers
 published: true
-date: 2019-10-17T15:41:22.094Z
+date: 2019-10-17T15:41:41.909Z
 tags: 
 ---
 
@@ -17,7 +17,7 @@ tags:
 	* Labor Status Forms
 	* Chemical Inventory
 	* URCPP
-* Created by request to IS&S
+* New VMs created by request to IS&S
 
 ## CS - production VM hypervisor
 * Hostname: fee
