@@ -2,7 +2,7 @@
 title: Future Planning
 description: Upcoming SSDT projects, upgrades, improvements, and wishlists.
 published: true
-date: 2019-10-16T14:54:48.056Z
+date: 2019-10-17T18:26:51.074Z
 tags: 
 ---
 
@@ -55,11 +55,20 @@ We need to do these things eventually, either for our applications' sake or our 
 * Acceptance Testing Framework
 * Smoke tests for each application
 * Physical indicators of build health
+* Investigation
+	* https://travis-ci.com/
+  * https://education.travis-ci.com/
+  * https://jenkins.io/
 
 ## Continuous Delivery
 * Staging Environment for each application
 * Reliable deployment process for each application
 * Pipeline
+	* https://jenkins.io/solutions/pipeline/
+  * https://plugins.jenkins.io/pipeline-utility-steps
+  * https://plugins.jenkins.io/job-dsl
+  * https://stackify.com/continuous-delivery-git-jenkins/
+  * https://docs.travis-ci.com/user/build-stages/
 
 ## Repo Cleanup
 * No outdated files (scripts, cleanup, db management)
