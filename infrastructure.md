@@ -2,7 +2,7 @@
 title: Infrastructure
 description: Details of our network and servers
 published: true
-date: 2019-10-17T15:44:00.488Z
+date: 2019-10-17T15:50:54.987Z
 tags: 
 ---
 
