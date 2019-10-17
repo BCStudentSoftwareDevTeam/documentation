@@ -2,7 +2,7 @@
 title: Berea College Student Software Development Documation
 description: The home for all of the documentation surrounding the student software development team at Berea College
 published: true
-date: 2019-10-17T17:55:46.392Z
+date: 2019-10-17T17:56:23.826Z
 tags: 
 ---
 
@@ -17,7 +17,7 @@ Welcome to the documentation home for the Student Software Development Team! Che
 * [Access Control](/access)
 * [Planning](/plans)
 
-## Software Development
+## Software Development Resources
 
 * [New Developer Orientation](/new-dev)
 * [Coding Candy](/programming)
