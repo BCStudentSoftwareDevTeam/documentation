@@ -2,7 +2,7 @@
 title: Infrastructure
 description: Details of our network and servers
 published: true
-date: 2019-10-15T16:42:57.959Z
+date: 2019-10-17T15:40:48.954Z
 tags: 
 ---
 
@@ -10,7 +10,7 @@ tags:
 
 ## IS&S - VM hypervisor
 
-* Hosts production vms for most student [applications](applications)
+* Hosts production vms for most student [applications](/applications)
 	* Advancement
 	* BCSR
 	* CAS
