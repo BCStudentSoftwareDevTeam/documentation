@@ -2,7 +2,7 @@
 title: Applications
 description: The applications in development or managed by the SSDT
 published: true
-date: 2019-10-18T11:43:11.840Z
+date: 2019-10-18T11:43:42.097Z
 tags: 
 ---
 
@@ -12,7 +12,7 @@ These applications are directly developed by our team.
 ## Advancement Office
 < DESCRIPTION >
 
-**Point of Contact: Dorothy Morgan <morgand@berea.edu>, Sue Johns <johnss@berea.edu>
+**Point of Contact: Dorothy Morgan <morgando@berea.edu>, Sue Johns <johnss@berea.edu>
 **Application Link: https://advancement.berea.edu
 **Production IP(s): 10.40.42.131
 **Production VM(s): IS&S VMs
