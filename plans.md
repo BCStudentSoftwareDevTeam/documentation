@@ -2,7 +2,7 @@
 title: Future Planning
 description: Upcoming SSDT projects, upgrades, improvements, and wishlists.
 published: true
-date: 2019-10-17T18:26:51.074Z
+date: 2019-10-22T13:41:28.210Z
 tags: 
 ---
 
@@ -20,10 +20,13 @@ New servers, new networking, new authentication, new support scripts.
 
 ## Upgrade fee
 * Ubuntu 18.4 LTS and latest libvirt
-    * Add domain lookup to hosts https://libvirt.org/nss.html
-    * Add DNS server https://liquidat.wordpress.com/2017/03/03/howto-automated-dns-resolution-for-kvmlibvirt-guests-with-a-local-domain/
-    * virsh and libvirt shouldn't need sudo
+  * Add domain lookup to hosts https://libvirt.org/nss.html
+  * Add DNS server https://liquidat.wordpress.com/2017/03/03/howto-automated-dns-resolution-for-kvmlibvirt-guests-with-a-local-domain/
+  * virsh and libvirt shouldn't need sudo
+  * accounts for admins
 * Add a development and staging machine to test upgrades (currently ada: 10.40.132.97)
+	* Create ansible playbook to provision server from scratch (and maintain it)
+  * Migration Plan
 
 # Application Development in Progress
 Changes to improve the quality of or add new features to our applications.
