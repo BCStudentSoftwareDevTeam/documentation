@@ -2,7 +2,7 @@
 title: Applications
 description: The applications in development or managed by the SSDT
 published: true
-date: 2019-10-18T18:32:35.496Z
+date: 2019-10-25T12:20:46.492Z
 tags: 
 ---
 
@@ -29,7 +29,7 @@ These applications are directly developed by our team.
 **Repository:** https://bitbucket.org/laborstudents/bcsr-flask
 **Setup Documentation:** [README.md](https://bitbucket.org/laborstudents/bcsr-flask/src/master/README.md)
 
-## CAS
+## Course Administration & Scheduling
 < DESCRIPTION >
 
 **Point of Contact:** Judy Ginter <ginterj@berea.edu>, Scott Steele <steeles@berea.edu>
