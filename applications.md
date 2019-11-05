@@ -2,7 +2,7 @@
 title: Applications
 description: The applications in development or managed by the SSDT
 published: true
-date: 2019-10-25T12:32:26.989Z
+date: 2019-11-05T15:27:23.429Z
 tags: 
 ---
 
@@ -88,6 +88,16 @@ Ulmann Galleries is a management tool for application entries. It provides an ea
 **Repository:** https://bitbucket.org/laborstudents/urcpp-flask
 **Setup Documentation:** [README.md](https://bitbucket.org/laborstudents/urcpp-flask/src/development/README.md)
 
+
+## CELTS Time Tracker
+Records volunteer and labor hours for the CELTS departments across different projects, events, and teams. *In Progress*
+
+**Point of Contact:** Ashley Cochrane <cochranea@berea.edu>
+**Application Link:** Google Spreadsheet
+**Production IP(s):** N/A
+**Production VM(s):** N/A
+**Repository:** https://bitbucket.org/laborstudents/celts-tracker-google-app-script/
+**Setup Documentation:** [README.md](https://bitbucket.org/laborstudents/celts-tracker-google-app-script/src/development/README.md)
 
 # Supported applications
 These applications are not directly developed by the SSDT but we support them either for external clients or for our own use.
