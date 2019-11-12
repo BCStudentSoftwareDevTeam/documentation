@@ -2,7 +2,7 @@
 title: Future Planning
 description: Upcoming SSDT projects, upgrades, improvements, and wishlists.
 published: true
-date: 2019-10-22T13:41:28.210Z
+date: 2019-11-12T16:08:33.846Z
 tags: 
 ---
 
@@ -58,6 +58,7 @@ We need to do these things eventually, either for our applications' sake or our 
 * Acceptance Testing Framework
 * Smoke tests for each application
 * Physical indicators of build health
+* Accessible Dashboard
 * Investigation
 	* https://travis-ci.com/
   * https://education.travis-ci.com/
@@ -102,6 +103,12 @@ We need to do these things eventually, either for our applications' sake or our 
 	* Environment switching
 	* Local overrides
 * wsgi_express with docker?
+
+## Training
+* Documentation for common software development knowledge
+  * git, linux CLI, ssh, docker
+  * code reviews, testing, CI
+* Training path that includes problems to solve
 
 # Completed
 For posterity. See how far we have come.
