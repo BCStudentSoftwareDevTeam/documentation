@@ -2,7 +2,7 @@
 title: Future Planning
 description: Upcoming SSDT projects, upgrades, improvements, and wishlists.
 published: true
-date: 2019-11-12T16:08:33.846Z
+date: 2019-11-22T14:31:50.458Z
 tags: 
 ---
 
@@ -109,6 +109,21 @@ We need to do these things eventually, either for our applications' sake or our 
   * git, linux CLI, ssh, docker
   * code reviews, testing, CI
 * Training path that includes problems to solve
+
+## Web-based VM Management
+* View status of VMs
+* Create single or multiple VMs at once
+  * Limit base VM options for security
+* Associate VMs & images with creators and users
+* View VM detail
+  * Guest OS Info
+  * Users
+  * VM Info
+  * Resource Utilization
+* View host status
+  * CPU, memory, storage
+* Clean up unused VMs
+* https://github.com/kimchi-project/kimchi?
 
 # Completed
 For posterity. See how far we have come.
