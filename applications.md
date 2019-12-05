@@ -2,7 +2,7 @@
 title: Applications
 description: The applications in development or managed by the SSDT
 published: true
-date: 2019-12-05T16:12:38.980Z
+date: 2019-12-05T16:40:43.875Z
 tags: 
 ---
 
@@ -18,6 +18,7 @@ These applications are directly developed by our team.
 **Production VM(s):** IS&S VMs
 **Repository:** https://bitbucket.org/laborstudents/advancementoffice
 **Setup Documentation:** [README.md](https://bitbucket.org/laborstudents/advancementoffice/src/development/README.md)
+**End User Documentation:**
 
 ## Berea College Syllabus Repository
 < DESCRIPTION >
@@ -28,6 +29,7 @@ These applications are directly developed by our team.
 **Production VM(s):** IS&S VMs
 **Repository:** https://bitbucket.org/laborstudents/bcsr-flask
 **Setup Documentation:** [README.md](https://bitbucket.org/laborstudents/bcsr-flask/src/master/README.md)
+**End User Documentation:**
 
 ## Course Administration & Scheduling
 < DESCRIPTION >
@@ -38,6 +40,7 @@ These applications are directly developed by our team.
 **Production VM(s):** IS&S VMs
 **Repository:** https://bitbucket.org/laborstudents/cas-flask
 **Setup Documentation:** [README.md](https://bitbucket.org/laborstudents/cas-flask/src/development/README.md)
+**End User Documentation:**
 
 ## Labor Status Forms
 < DESCRIPTION >
@@ -49,6 +52,7 @@ This is the current production version. The plan is to deprecate this software o
 **Production VM(s):** IIS server hosted and managed by IS&S (contact: Tom House)
 **Repository:** https://bitbucket.org/laborstudents/labor-status-forms
 **Setup Documentation:** [README.md](https://bitbucket.org/laborstudents/labor-status-forms/src/master/README.md)
+**End User Documentation:**
 
 This is the development version, which is in progress:
 **Point of Contact:** Johauna Gosney <gosneyj@berea.edu>
@@ -57,6 +61,7 @@ This is the development version, which is in progress:
 **Production VM(s):** CS VM
 **Repository:** https://bitbucket.org/laborstudents/lsf-flask
 **Setup Documentation:** [README.md](https://bitbucket.org/laborstudents/lsf-flask/src/development/README.md)
+**End User Documentation:**
 
 ## Chemical Inventory Management
 < DESCRIPTION >
@@ -67,6 +72,8 @@ This is the development version, which is in progress:
 **Production VM(s):** IS&S VM
 **Repository:** https://bitbucket.org/laborstudents/chemical-inventory-new
 **Setup Documentation:** [README.md](https://bitbucket.org/laborstudents/chemical-inventory-new/src/master/README.md)
+**End User Documentation:**
+
 
 ## Ulmann Galleries
 Ulmann Galleries is a management tool for application entries. It provides an easy way to accept applications. Our main purpose for the system is to accept applications from artists that want to show their work in a Berea College Gallery Showing.
@@ -77,6 +84,8 @@ Ulmann Galleries is a management tool for application entries. It provides an ea
 **Production VM(s):** AWS EC2
 **Repository:** https://github.com/BCStudentSoftwareDevTeam/Ullman_Galleries
 **Setup Documentation:** [README.md](https://github.com/BCStudentSoftwareDevTeam/Ullman_Galleries/blob/development/README.md)
+**End User Documentation:**
+
 
 ## Undergraduate Research and Creative Projects Program
 < DESCRIPTION >
@@ -87,6 +96,8 @@ Ulmann Galleries is a management tool for application entries. It provides an ea
 **Production VM(s):** IS&S VMs
 **Repository:** https://bitbucket.org/laborstudents/urcpp-flask
 **Setup Documentation:** [README.md](https://bitbucket.org/laborstudents/urcpp-flask/src/development/README.md)
+**End User Documentation:**
+
 
 
 ## CELTS Time Tracker
@@ -98,6 +109,7 @@ Records volunteer, labor, and service learning hours for CELTS across different 
 **Production VM(s):** N/A
 **Repository:** https://bitbucket.org/laborstudents/celts-tracker-google-app-script/
 **Setup Documentation:** [README.md](https://bitbucket.org/laborstudents/celts-tracker-google-app-script/src/development/README.md)
+**End User Documentation:** [Wiki](applications/celts)
 
 # Supported applications
 These applications are not directly developed by the SSDT but we support them either for external clients or for our own use.
@@ -111,6 +123,7 @@ These applications are not directly developed by the SSDT but we support them ei
 **Production VM(s):** CS VM
 **Repository:** https://bitbucket.org/laborstudents/art-archives/
 **Setup Documentation:** [README.md](https://bitbucket.org/laborstudents/art-archives/src/master/README.md)
+**End User Documentation:**
 
 ## SSDT Documentation
 All of the documentation for our team and applications is contained in Wiki.js. The pages are also stored as .md files and are synced with this repository: https://bitbucket.org/laborstudents/documentation. Any .md files edited in this repo will be updated in the wiki.
@@ -121,3 +134,4 @@ All of the documentation for our team and applications is contained in Wiki.js. 
 **Production VM(s):** documentation
 **Repository:** N/A
 **Setup Documentation:** 
+**End User Documentation:**
