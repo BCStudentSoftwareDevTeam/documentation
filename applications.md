@@ -2,7 +2,7 @@
 title: Applications
 description: The applications in development or managed by the SSDT
 published: true
-date: 2019-11-05T15:27:23.429Z
+date: 2019-12-05T16:12:38.980Z
 tags: 
 ---
 
@@ -90,7 +90,7 @@ Ulmann Galleries is a management tool for application entries. It provides an ea
 
 
 ## CELTS Time Tracker
-Records volunteer and labor hours for the CELTS departments across different projects, events, and teams. *In Progress*
+Records volunteer, labor, and service learning hours for CELTS across different projects, events, classes and teams. *In Progress*
 
 **Point of Contact:** Ashley Cochrane <cochranea@berea.edu>
 **Application Link:** Google Spreadsheet
