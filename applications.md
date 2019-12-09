@@ -2,7 +2,7 @@
 title: Applications
 description: The applications in development or managed by the SSDT
 published: true
-date: 2019-12-05T16:40:43.875Z
+date: 2019-12-09T14:10:18.805Z
 tags: 
 ---
 
@@ -14,8 +14,8 @@ These applications are directly developed by our team.
 
 **Point of Contact:** Dorothy Morgan <morgando@berea.edu>, Sue Johns <johnss@berea.edu>
 **Application Link:** https://advancement.berea.edu
-**Production IP(s):** 10.40.42.131
-**Production VM(s):** IS&S VMs
+**Production IP(s):** 172.31.2.146
+**Production VM(s):** CS - advancement
 **Repository:** https://bitbucket.org/laborstudents/advancementoffice
 **Setup Documentation:** [README.md](https://bitbucket.org/laborstudents/advancementoffice/src/development/README.md)
 **End User Documentation:**
