@@ -2,7 +2,7 @@
 title: Applications
 description: The applications in development or managed by the SSDT
 published: true
-date: 2019-12-09T14:10:18.805Z
+date: 2019-12-09T14:26:46.354Z
 tags: 
 ---
 
@@ -10,7 +10,7 @@ tags:
 These applications are directly developed by our team.
 
 ## Advancement Office
-< DESCRIPTION >
+Manages requests for institutional data.
 
 **Point of Contact:** Dorothy Morgan <morgando@berea.edu>, Sue Johns <johnss@berea.edu>
 **Application Link:** https://advancement.berea.edu
@@ -21,7 +21,7 @@ These applications are directly developed by our team.
 **End User Documentation:**
 
 ## Berea College Syllabus Repository
-< DESCRIPTION >
+Stores all course syllabi across campus for SACSCOC compliance.
 
 **Point of Contact:** Scott Steele <steeles@berea.edu>, Sam Cole <colesa@berea.edu>
 **Application Link:** https://bcsr.berea.edu
@@ -32,7 +32,7 @@ These applications are directly developed by our team.
 **End User Documentation:**
 
 ## Course Administration & Scheduling
-< DESCRIPTION >
+Facilitates scheduling and room selection prior to course entry in Banner.
 
 **Point of Contact:** Judy Ginter <ginterj@berea.edu>, Scott Steele <steeles@berea.edu>
 **Application Link:** https://cas.berea.edu
@@ -43,7 +43,7 @@ These applications are directly developed by our team.
 **End User Documentation:**
 
 ## Labor Status Forms
-< DESCRIPTION >
+Entry and tracking of all labor forms and student labor assignments at Berea.
 
 This is the current production version. The plan is to deprecate this software once the Flask version is live.
 **Point of Contact:** Johauna Gosney <gosneyj@berea.edu>
@@ -64,7 +64,7 @@ This is the development version, which is in progress:
 **End User Documentation:**
 
 ## Chemical Inventory Management
-< DESCRIPTION >
+Tracks chemicals from the Berea College chemical bunker and their movements to labs around campus.
 
 **Point of Contact:** Andrew Garrett <garretta@berea.edu>
 **Application Link:** https://chemical.berea.edu
@@ -76,7 +76,7 @@ This is the development version, which is in progress:
 
 
 ## Ulmann Galleries
-Ulmann Galleries is a management tool for application entries. It provides an easy way to accept applications. Our main purpose for the system is to accept applications from artists that want to show their work in a Berea College Gallery Showing.
+Ulmann Galleries is a management tool for gallery application entries. It provides an easy way to accept applications from artists that want to show their work in a Berea College Gallery Showing.
 
 **Point of Contact:** Megan Doherty <dohertym@berea.edu>
 **Application Link:** http://ulmann.berea.edu
@@ -88,7 +88,7 @@ Ulmann Galleries is a management tool for application entries. It provides an ea
 
 
 ## Undergraduate Research and Creative Projects Program
-< DESCRIPTION >
+Collects proposals for summer projects and provides tools for review by the committee.
 
 **Point of Contact:** Sarah Broomfield <broomfields@berea.edu>
 **Application Link:** https://urcpp.berea.edu
@@ -115,7 +115,7 @@ Records volunteer, labor, and service learning hours for CELTS across different 
 These applications are not directly developed by the SSDT but we support them either for external clients or for our own use.
 
 ## Berea College Art Collection
-< DESCRIPTION >
+Keeps track of art and artifacts both on and off-campus.
 
 **Point of Contact:** Megan Doherty <dohertym@berea.edu>
 **Application Link:** https://bcac.berea.edu/
