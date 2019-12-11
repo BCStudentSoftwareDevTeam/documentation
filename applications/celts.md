@@ -2,7 +2,7 @@
 title: CELTS Application Documentation
 description: User documentation for the CELTS form and spreadsheet
 published: true
-date: 2019-12-05T17:02:20.469Z
+date: 2019-12-11T13:45:06.429Z
 tags: 
 ---
 
@@ -29,7 +29,7 @@ Labor hours can be entered for an individual, but the most likely method is to e
 
 ## Volunteer Hours Entry
 
-Volunteers can be entered as individuals and groups. If there is a standard list of students likely to be at an event, you can add them in the SOURCE - Programs sheet so they are available in the form. You can also copy and paste a list of students into the Cust om List field on the form if they all share the same number of hours, or into the Custom List Entry sheet in the spreadsheet, if they each have their own hours.
+Volunteers can be entered as individuals and groups. If there is a standard list of students likely to be at an event, you can add them in the SOURCE - Programs sheet so they are available in the form. You can also copy and paste a list of students into the Custom List field on the form if they all share the same number of hours, or into the Custom List Entry sheet in the spreadsheet, if they each have their own hours.
 
 ## Service Learning Classes Entry
 
