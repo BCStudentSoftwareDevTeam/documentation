@@ -2,7 +2,7 @@
 title: Applications
 description: The applications in development or managed by the SSDT
 published: true
-date: 2019-12-09T14:26:46.354Z
+date: 2019-12-13T13:22:19.350Z
 tags: 
 ---
 
@@ -109,7 +109,7 @@ Records volunteer, labor, and service learning hours for CELTS across different 
 **Production VM(s):** N/A
 **Repository:** https://bitbucket.org/laborstudents/celts-tracker-google-app-script/
 **Setup Documentation:** [README.md](https://bitbucket.org/laborstudents/celts-tracker-google-app-script/src/development/README.md)
-**End User Documentation:** [Wiki](applications/celts)
+**End User Documentation:** [Wiki](celts)
 
 # Supported applications
 These applications are not directly developed by the SSDT but we support them either for external clients or for our own use.
