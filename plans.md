@@ -2,7 +2,7 @@
 title: Future Planning
 description: Upcoming SSDT projects, upgrades, improvements, and wishlists.
 published: true
-date: 2019-11-22T14:34:31.424Z
+date: 2020-01-14T16:01:32.604Z
 tags: 
 ---
 
@@ -124,6 +124,13 @@ We need to do these things eventually, either for our applications' sake or our 
   * CPU, memory, storage
 * Clean up unused VMs
 * https://github.com/kimchi-project/kimchi?
+
+## Application Accessibility
+* Analyze application for accessibility issues
+* Find resources for fixing problems
+* Conferences?
+  * https://accessinghigherground.org/
+  * https://www.csun.edu/cod/conference
 
 # Completed
 For posterity. See how far we have come.
