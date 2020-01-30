@@ -2,7 +2,7 @@
 title: CELTS Application Documentation
 description: User documentation for the CELTS form and spreadsheet
 published: true
-date: 2020-01-30T16:17:50.447Z
+date: 2020-01-30T16:18:07.784Z
 tags: 
 ---
 
@@ -16,7 +16,8 @@ To avoid creating work that could be erased, don't edit the Clean Data spreadshe
 
 **Edit Form:** Ask CELTS administrators for edit privileges
 
-**Use Form:** https://docs.google.com/forms/d/e/1FAIpQLScW--f3r-8TO2KuVD115YjwmEcTq3Xmq8OWuGCnc0l9X0PQjA/viewform
+**Use Form:** 
+https://docs.google.com/forms/d/e/1FAIpQLScW--f3r-8TO2KuVD115YjwmEcTq3Xmq8OWuGCnc0l9X0PQjA/viewform
 
 **Spreadsheet:** Ask CELTS administrators for edit privileges
 
