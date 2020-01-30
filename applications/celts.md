@@ -2,7 +2,7 @@
 title: CELTS Application Documentation
 description: User documentation for the CELTS form and spreadsheet
 published: true
-date: 2020-01-30T16:49:42.511Z
+date: 2020-01-30T16:50:28.671Z
 tags: 
 ---
 
@@ -37,7 +37,7 @@ Volunteers can be entered as individuals and groups. If there is a standard list
 
 ## Service Learning Classes Entry
 
-To enter an entire class for Service Learning, choose the Group entry option in the form, enter the name of the class, and then paste a comma-separated or newline separated list of students into the field.
+To enter an entire class for Service Learning, choose the Group entry option in the form, choose Other and enter the name of the class, and then paste a comma-separated or newline separated list of students into the field.
 
 ## Indicating Bonner Scholars
 
