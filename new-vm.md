@@ -2,7 +2,7 @@
 title: New Development VM
 description: Using your new development virtual machine
 published: true
-date: 2020-02-06T06:14:20.066Z
+date: 2020-02-06T06:18:35.534Z
 tags: 
 ---
 
@@ -39,7 +39,8 @@ Your VM has the database engine MySQL installed. You can access it from the comm
 Both Python versions 2 and 3 are installed on your machine, with Python 3 set as the default. You may have to work on a project that requires you to use python 2, but **you should not use python 2 for new projects.** See our [Python documentation](/python) for more details about setting up virtual environments and general Python usage.
 
 ## Flask Applications
-Blurb coming soon. [Flask](/flask)
+
+A few CS classes and most of the Student Software Development Team applications use the Python web framework [Flask](https://www.palletsprojects.com/p/flask/). Flask is a quick way to get a python application up and running on the web. See our [Flask documentation](/flask) for an overview.
 
 ## Web Configuration
 
