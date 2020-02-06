@@ -2,7 +2,7 @@
 title: SSH - Secure Network Access
 description: 
 published: true
-date: 2020-02-06T22:12:29.373Z
+date: 2020-02-06T22:19:01.029Z
 tags: 
 ---
 
@@ -97,6 +97,17 @@ If you are being prompted for a password even though you should be using a key, 
 
 ## Further Reading
 
+**SSH Configuration** - Make your life easier by customizing your ssh settings
+https://www.digitalocean.com/community/tutorials/how-to-configure-custom-connection-options-for-your-ssh-client
+https://linuxize.com/post/using-the-ssh-config-file/
 
-SSH Tunneling - Communicate using insecure protocols through a secure SSH connection
-X-Forwarding - View graphical applications locally that run on a server
+**SSH Tunneling** - Communicate using insecure or banned protocols through a secure SSH connection.
+https://www.howtogeek.com/168145/how-to-use-ssh-tunneling/
+http://www.augustcouncil.com/~tgibson/tutorial/tunneling_tutorial.html
+
+**X-Forwarding** - View graphical applications locally that run on a server
+https://unix.stackexchange.com/questions/12755/how-to-forward-x-over-ssh-to-run-graphics-applications-remotely
+https://www.businessnewsdaily.com/11035-how-to-use-x11-forwarding.html
+
+**Explore** - You can do a lot of cool stuff with SSH!
+https://www.exoscale.com/syslog/advanced-ssh-6-things/
