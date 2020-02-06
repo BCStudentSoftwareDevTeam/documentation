@@ -2,7 +2,7 @@
 title: New Development VM
 description: Using your new development virtual machine
 published: true
-date: 2020-02-06T06:18:35.534Z
+date: 2020-02-06T06:22:29.393Z
 tags: 
 ---
 
@@ -49,3 +49,7 @@ The default webserver on this VM is Apache. There are many, many different ways 
 ## Docker
 
 This VM has `docker` and `docker-compose` installed. [Docker](https://docs.docker.com/) is an application that lets you run projects and applications in containers with their own controlled and isolated operating environments. It is also a good way to run others' applications, as all dependencies are taken care of by their configuration. Docker is useful in cloud workflows as well, as there are tools that let you spin up multiple docker containers at once. Read our [docker documentation](/docker) for more information.
+
+## Goodies
+
+Check out `zsh`, `vim`, and `tmux` for productivity, or `cmatrix` and `nethack` for fun!
