@@ -2,7 +2,7 @@
 title: SSH - Secure Network Access
 description: 
 published: true
-date: 2020-02-06T20:35:27.193Z
+date: 2020-02-06T20:36:04.498Z
 tags: 
 ---
 
@@ -44,7 +44,7 @@ Public/Private Key Authentication is a powerful authentication pattern that uses
 
 Many services use public key authentication to ensure that only authorized users are able to access their applications. GitHub, Bitbucket, and many development tools have ways to authenticate without passwords by uploading your public keys to the application profile.
 
-For SSH, an `authorized_keys` file is maintained in `~/.ssh/` with all of the public keys that can access a server. Locally, the private keys are stored and referenced in ssh as identity keys. You can specify a specific identity key for a particular server when you are logging in (e.g., `ssh -i ~/.ssh/special-server-key myuser@special-server`), or you can configure this in your ssh configuration file, `~/.ssh/config`.
+For SSH remote access, an `authorized_keys` file is maintained in `~/.ssh/` with all of the public keys that can access a server. Locally, the private keys are stored and referenced in ssh as identity keys. You can specify a specific identity key for a particular server when you are logging in (e.g., `ssh -i ~/.ssh/special-server-key myuser@special-server`), or you can configure this in your ssh configuration file, `~/.ssh/config`.
 
 > Anyone who has your private key can impersonate you, just as anyone with your password can. Do not share your private key!
 {.is-danger}
@@ -61,6 +61,8 @@ For SSH, an `authorized_keys` file is maintained in `~/.ssh/` with all of the pu
 ### Mac Setup
 
 ### Windows Setup
+
+## Troubleshooting
 
 ## Further Reading
 
