@@ -2,7 +2,7 @@
 title: SSH - Secure Network Access
 description: 
 published: true
-date: 2020-02-06T22:11:07.335Z
+date: 2020-02-06T22:12:29.373Z
 tags: 
 ---
 
@@ -76,10 +76,10 @@ For PuTTY, you will need to use pageant.exe, which comes with the PuTTY binary. 
 These steps are only necessary if you are wanting to be able to connect to your local computer from somewhere else.
 
 ### Linux Setup
-In modern Ubuntu, run `sudo systemctl enable ssh` to enable it on startup, and `sudo systemctl start ssh` to start it immediately.
+In modern Ubuntu, run `sudo systemctl enable ssh` to enable it on startup, and `sudo systemctl start ssh` to start it immediately. Server settings can be edited in `/etc/ssh/sshd_config`. You will need to restart the ssh server for configuration changes to take effect.
 
 ### Mac Setup
-In your 'Sharing' pane in System Preferences, enable Remote Login. Then, choose 'Only these users' and add your user to the box with the '+' button.
+In your 'Sharing' pane in System Preferences, enable Remote Login. Then, choose 'Only these users' and add your user to the box with the '+' button. Server settings can be edited in `/etc/ssh/sshd_config`. You will need to restart the ssh server for configuration changes to take effect.
 
 ### Windows Setup
 Follow [this document](https://winscp.net/eng/docs/guide_windows_openssh_server). Good luck.
