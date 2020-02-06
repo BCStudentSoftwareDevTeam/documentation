@@ -2,7 +2,7 @@
 title: New Development VM
 description: Using your new development virtual machine
 published: true
-date: 2020-02-06T04:12:16.233Z
+date: 2020-02-06T06:14:20.066Z
 tags: 
 ---
 
@@ -21,7 +21,7 @@ You can access your VM with a username and password. The initial password is the
 
 ## Administrator Privileges
 
-The super-user in Linux is called `root`. Some system operations and system log files require super-user permissions. You have the ability to perform these tasks by using the `sudo` command. Example: `sudo shutdown -r now` instead of `shutdown -r now`. See the [linux](/linux) page for more details. Also,
+The super-user in Linux is called `root`. Some system operations and system log files require super-user permissions. You have the ability to perform these tasks by using the `sudo` command. Example: `sudo shutdown -r now` instead of `shutdown -r now`. See our [linux documentation](/linux) for more details. Also,
 ![sandwich.png](/sandwich.png)
 https://xkcd.com/149/
 
@@ -32,17 +32,19 @@ If you navigate to http://172.31.2.118/ in your browser, using your own IP addre
 
 ## MySQL
 
-Your VM has the database engine MySQL installed. You can access it from the command line using the `mysql` command, or using [phpMyAdmin](https://www.phpmyadmin.net/docs/) at http://172.31.2.118/phpmyadmin. By default you can access the database with the user *root* and password *root*, and from there you can create any other users and databases you need for your work, either through the CLI or phpmyadmin. Example: `mysql -u root -proot`. Read the [database](/database) documentation for more information.
+Your VM has the database engine MySQL installed. You can access it from the command line using the `mysql` command, or using [phpMyAdmin](https://www.phpmyadmin.net/docs/) at http://172.31.2.118/phpmyadmin. By default you can access the database with the user *root* and password *root*, and from there you can create any other users and databases you need for your work, either through the CLI or phpmyadmin. Example: `mysql -u root -proot`. Read the [database documentation](/database) for more information.
 
-## Python versions
+## Python Versions
 
-Both Python versions 2 and 3 are installed on your machine, with Python 3 set as the default. You may have to work on a project that requires you to use python 2, but **you should not use python 2 for new projects.** See our [Python](/python) documentation for more details about setting up virtual environments and general Python usage.
+Both Python versions 2 and 3 are installed on your machine, with Python 3 set as the default. You may have to work on a project that requires you to use python 2, but **you should not use python 2 for new projects.** See our [Python documentation](/python) for more details about setting up virtual environments and general Python usage.
 
-## Flask applications
+## Flask Applications
 Blurb coming soon. [Flask](/flask)
 
-## Apache configuration
-Blurb coming soon. [Apache](/apache)
+## Web Configuration
+
+The default webserver on this VM is Apache. There are many, many different ways to configure Apache, and by default only your `www` directory is served. For more examples of common use cases, see our [Apache documentation](/apache)
 
 ## Docker
-Blurb coming soon. [Docker](/docker)
+
+This VM has `docker` and `docker-compose` installed. [Docker](https://docs.docker.com/) is an application that lets you run projects and applications in containers with their own controlled and isolated operating environments. It is also a good way to run others' applications, as all dependencies are taken care of by their configuration. Docker is useful in cloud workflows as well, as there are tools that let you spin up multiple docker containers at once. Read our [docker documentation](/docker) for more information.
