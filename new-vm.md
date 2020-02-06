@@ -2,7 +2,7 @@
 title: New Development VM
 description: Using your new development virtual machine
 published: true
-date: 2020-02-06T04:12:03.107Z
+date: 2020-02-06T04:12:16.233Z
 tags: 
 ---
 
@@ -45,5 +45,4 @@ Blurb coming soon. [Flask](/flask)
 Blurb coming soon. [Apache](/apache)
 
 ## Docker
-
 Blurb coming soon. [Docker](/docker)
