@@ -2,7 +2,7 @@
 title: New Development VM
 description: Using your new development virtual machine
 published: true
-date: 2020-02-06T03:33:42.311Z
+date: 2020-02-06T03:40:56.880Z
 tags: 
 ---
 
@@ -14,14 +14,18 @@ You will use an **IP address** to access this system, or, hopefully soon, a **ho
 
 These VMs run Ubuntu, a **Linux** distribution. Linux is the operating system that runs most of the worldwide web, as well as all Android phones, and many other types of computers. This VM uses Ubuntu Server, with no graphical interface, but there are many desktop versions of Linux as well. To learn more about using Linux, [click here](/linux).
 
-## Access
+## Access Control
+
+### Login Credentials
 
 You can access your VM with a username and password. The initial password is the same as your username (likely the same as your Berea College username - check your email), and you will be prompted to change it on your first login. A better way to access your VM is with [public key authentication for SSH](/ssh). A single key can access multiple VMs, and you will not have to enter your password every time you log in.
 
+### Administrator Privileges
+
 ## Personal Website
 
-If you navigate to http://172.31.2.118/ in your browser, using your own IP address, you will see a website that is run from your new VM. You can edit this site to be whatever you want (nothing illegal, please). 
-*Note: Class or application-specific virtual machines mayve have this functionality removed or altered*
+If you navigate to http://172.31.2.118/ in your browser, using your own IP address, you will see a website that is run from your new VM. You can edit this site to be whatever you want (nothing illegal, please). If you wanted to run it using Python or PHP (installed), or another server tech, you can find documentation out there for it.
+*Note: Class-specific or application-specific virtual machines may have this functionality removed or altered*
 
 ## MySQL
 ## Python versions
