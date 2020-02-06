@@ -2,7 +2,7 @@
 title: New Development VM
 description: Using your new development virtual machine
 published: true
-date: 2020-02-06T06:22:29.393Z
+date: 2020-02-06T06:26:04.526Z
 tags: 
 ---
 
@@ -12,7 +12,7 @@ A **virtual machine**, or VM, is an emulation of a computer system. Many differe
 
 You will use an **IP address** to access this system, or, hopefully soon, a **hostname**. The IP address is a set of 4 numbers that uniquely identifies the computer on the network (e.g., 172.31.2.118), and the hostname is the human-readable name of the computer (e.g., test-dev).
 
-These VMs run Ubuntu, a **Linux** distribution. Linux is the operating system that runs most of the worldwide web, as well as all Android phones, and many other types of computers. This VM uses Ubuntu Server with a **command line interface (CLI)**, but there are many desktop versions of Linux as well. To learn more about using Linux, [click here](/linux).
+These VMs run Ubuntu, a **Linux** distribution. Linux is the operating system that runs most of the worldwide web, as well as all Android phones, and many other types of computers. This VM uses Ubuntu Server with a **command line interface (CLI)**, but there are many desktop versions of Linux as well. Read our [Linux documentation](/linux) to learn more about using Linux.
 
 
 ## Login Credentials
