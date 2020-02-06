@@ -2,7 +2,7 @@
 title: Berea College Student Software Development Documation
 description: The home for all of the documentation surrounding the student software development team at Berea College
 published: true
-date: 2019-10-17T18:27:26.546Z
+date: 2020-02-06T01:41:25.105Z
 tags: 
 ---
 
@@ -20,6 +20,7 @@ Welcome to the documentation home for the Student Software Development Team! Che
 ## Software Development Resources
 
 * [New Developer Orientation](/new-dev)
+* [New Developer VM](/new-vm)
 * [Coding Candy](/programming)
 * [Python Perfection](/python)
 * [Javascript Joy](/javascript)
