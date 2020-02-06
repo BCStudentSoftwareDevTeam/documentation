@@ -2,7 +2,7 @@
 title: SSH - Secure Network Access
 description: 
 published: true
-date: 2020-02-06T19:49:09.339Z
+date: 2020-02-06T20:23:27.093Z
 tags: 
 ---
 
@@ -36,7 +36,17 @@ In Windows, you will need an application to start using SSH. [PuTTY](https://www
 
 *You can use whatever GUI client you wish - the settings will be the same.*
 
+*You can avoid entering a password every time you connect by setting up public key auhentication. See below* ↓
+
 ## Public Key Authentication
+
+Public/Private Key Authentication is a powerful authentication pattern that uses modern cryptography. Each user creates a pair of keys: a **private key** that is known only to the user, and a **public key** that is shared everywhere that a user needs to authenticate.
+
+An `authorized_keys` file is maintained in `~/.ssh/` with all of the public keys that can access a server. Locally, the private keys are stored and referenced in ssh as identity keys. You can specify a specific identity key for a particular server when you are logging in (e.g., `ssh -i ~/.ssh/special-server-key myuser@special-server`), or you can configure this in your ssh configuration file, `~/.ssh/config`.
+
+> Anyone who has your private key can impersonate you, just as anyone with your password can log in as you. Do not share your private key!
+{.is-danger}
+
 
 ### Linux / Mac OS Setup
 
