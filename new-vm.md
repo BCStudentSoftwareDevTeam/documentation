@@ -2,7 +2,7 @@
 title: New Development VM
 description: Using your new development virtual machine
 published: true
-date: 2020-02-07T14:05:29.454Z
+date: 2020-02-07T14:06:17.249Z
 tags: 
 ---
 
@@ -29,7 +29,7 @@ https://xkcd.com/149/
 # Capabilities
 ## Personal Website
 
-If you navigate to http://172.31.2.118/ in your browser, using your own IP address, you will see a website that is run from your new VM. You can edit this site to be whatever you want (nothing illegal, please) by changing the files in the `www/` directory inside your home directory. If you wanted to run it using Python,PHP, or NodeJS (installed), or other server tech, you can find documentation out there for it.
+If you navigate to http://172.31.2.118/ in your browser, using your own IP address, you will see a website that is run from your new VM. You can edit this site to be whatever you want (nothing illegal, please) by changing the files in the `www/` directory inside your home directory. If you wanted to run it using Python, PHP, or NodeJS (installed), or other server tech, you can find documentation on the web for it.
 *Note: Class-specific or application-specific virtual machines may have this functionality removed or altered.*
 
 ## MySQL
