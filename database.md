@@ -2,7 +2,7 @@
 title: Databases
 description: 
 published: true
-date: 2020-02-07T14:19:53.408Z
+date: 2020-02-07T14:20:35.104Z
 tags: 
 ---
 
@@ -31,7 +31,8 @@ By default, the mysql root user has no password, but is only accessible when you
 Replace \<PASS> with the password you want, or with nothing for an empty password.
 
 ### Using
-
+TBD
 ## PostgreSQL
-
+TBD
 ## MongoDB
+TBD
