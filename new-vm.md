@@ -2,11 +2,11 @@
 title: New Development VM
 description: Using your new development virtual machine
 published: true
-date: 2020-02-06T14:34:02.255Z
+date: 2020-02-07T14:04:23.187Z
 tags: 
 ---
 
-# Using your new virtual machine
+# What is a VM?
 
 A **virtual machine**, or VM, is an emulation of a computer system. Many different virtual machines can be hosted on one piece of computer hardware, but they each appear as their own individual computer system.
 
@@ -14,6 +14,7 @@ You will use an **IP address** to access this system, or, hopefully soon, a **ho
 
 These VMs run Ubuntu, a **Linux** distribution. Linux is the operating system that runs most of the worldwide web, as well as all Android phones, and many other types of computers. This VM uses Ubuntu Server with a **command line interface (CLI)**, but there are many desktop versions of Linux as well. Read our [Linux documentation](/linux) to learn more about using Linux.
 
+# Access Control
 
 ## Login Credentials
 
@@ -21,10 +22,11 @@ You can access your VM with a username and password. The initial password is the
 
 ## Administrator Privileges
 
-The super-user in Linux is called `root`. Some system operations and system log files require super-user permissions. You have the ability to perform these tasks by using the `sudo` command. Example: `sudo shutdown -r now` instead of `shutdown -r now`. See our [linux documentation](/linux) for more details. Also,
-![sandwich.png](/sandwich.png)
+The super-user in Linux is called `root`. Some system operations and system log files require super-user permissions. You have the ability to perform these tasks by using the `sudo` command. Example: `sudo shutdown -r now` instead of `shutdown -r now`. See our [Linux documentation](/linux) for more details. Also,
+![xkcd-sandwich.png](/xkcd-sandwich.png)
 https://xkcd.com/149/
 
+# Capabilities
 ## Personal Website
 
 If you navigate to http://172.31.2.118/ in your browser, using your own IP address, you will see a website that is run from your new VM. You can edit this site to be whatever you want (nothing illegal, please) by changing the files in the `www/` directory inside your home directory. If you wanted to run it using Python,PHP, or NodeJS (installed), or other server tech, you can find documentation out there for it.
