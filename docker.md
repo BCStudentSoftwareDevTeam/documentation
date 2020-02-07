@@ -2,12 +2,12 @@
 title: Docker
 description: 
 published: true
-date: 2020-02-07T13:55:38.111Z
+date: 2020-02-07T13:55:43.705Z
 tags: dev
 ---
 
 # Using docker
-Coming soong.
+Coming soon.
 
 # Dockerfile
 
