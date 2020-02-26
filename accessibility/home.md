@@ -2,7 +2,7 @@
 title: Accessibility
 description: 
 published: true
-date: 2020-02-26T19:19:22.446Z
+date: 2020-02-26T19:22:16.463Z
 tags: 
 ---
 
@@ -30,7 +30,6 @@ Voice Over Basics:
 [Voice Over Keyboard Commands](https://dequeuniversity.com/screenreaders/voiceover-keyboard-shortcuts)
 
 ## Other Resources
-There are a few more resources that you might be interested in learning about...
 1. [Axe](https://www.deque.com/axe): A Chrome extension that checks for all sorts of accessibility errors.
 2. [Web Accessibility Initiative – Accessible Rich Internet Applications (WAI-ARIA)](https://www.w3.org/TR/wai-aria-practices-1.1/#intro): Aria is a technical spec that is created to solve accessibility errors that native HTML cannot. This guideline explains how to use ARIA.
 3. [A11ycats Google Developers Youtube](https://www.youtube.com/watch?v=fGLp_gfMMGU&list=PLNYkxOF6rcICWx0C9LVWWVqvHlYJyqw7g): This is a great Youtube channel if you are interested in learning more about web accessibility.
