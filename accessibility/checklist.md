@@ -2,11 +2,14 @@
 title: Beginner Checklist
 description: 
 published: true
-date: 2020-03-09T17:34:27.390Z
+date: 2020-03-09T18:35:47.840Z
 tags: 
 ---
 
 # Beginner Checklist
+The following guidelines are the WCAG 2.1 beginner guidelines - excluding the audio and video guidelines which you can find [here](http://172.31.2.178/en/accessibility/Audio&Video). All changes made to the user interface *must* meet these guidelines.
+
+---
 **[Guideline 1.1.1](https://www.w3.org/WAI/WCAG21/quickref/?currentsidebar=%23col_overview&showtechniques=222#non-text-content)**: Text alternatives should be given for all non-text content with few exceptions.
 > Example: The Labor Program logo found on each LSF web page needs an alt text titled “Berea Labor Program Logo.” This can be done by implementing the following: `<img src="/static/laborprogram.png" alt=“Berea Labor Program Logo”/>`
 
