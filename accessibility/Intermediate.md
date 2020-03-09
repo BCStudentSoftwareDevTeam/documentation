@@ -2,7 +2,7 @@
 title: Intermediate Checklist
 description: 
 published: true
-date: 2020-03-09T18:53:33.309Z
+date: 2020-03-09T19:49:30.653Z
 tags: 
 ---
 
@@ -11,56 +11,56 @@ The following guidelines are the WCAG 2.1 intermediate guidelines - excluding th
 
 ---
 
-**[Guideline ]()**: 
+**[Guideline 1.3.4]()**: 
 > Example:
 
-**[Guideline ]()**: 
+**[Guideline 1.3.5]()**: 
 > Example:
 
-**[Guideline ]()**: 
+**[Guideline 1.4.3]()**: 
 > Example:
 
-**[Guideline ]()**: 
+**[Guideline 1.4.4]()**: 
 > Example:
 
-**[Guideline ]()**: 
+**[Guideline 1.4.5]()**: 
 > Example:
 
-**[Guideline ]()**: 
+**[Guideline 1.4.10]()**: 
 > Example:
 
-**[Guideline ]()**: 
+**[Guideline 1.4.11]()**: 
 > Example:
 
-**[Guideline ]()**: 
+**[Guideline 1.4.12]()**: 
 > Example:
 
-**[Guideline ]()**: 
+**[Guideline 1.4.13]()**: 
 > Example:
 
-**[Guideline ]()**: 
+**[Guideline 2.4.5]()**: 
 > Example:
 
-**[Guideline ]()**: 
+**[Guideline 2.4.6]()**: 
 > Example:
 
-**[Guideline ]()**: 
+**[Guideline 2.4.7]()**: 
 > Example:
 
-**[Guideline ]()**: 
+**[Guideline 3.1.2]()**: 
 > Example:
 
-**[Guideline ]()**: 
+**[Guideline 3.2.3]()**: 
 > Example:
 
-**[Guideline ]()**: 
+**[Guideline 3.2.4]()**: 
 > Example:
 
-**[Guideline ]()**: 
+**[Guideline 3.3.3]()**: 
 > Example:
 
-**[Guideline ]()**: 
+**[Guideline 3.3.4]()**: 
 > Example:
 
-**[Guideline ]()**: 
+**[Guideline 4.1.3]()**: 
 > Example:
