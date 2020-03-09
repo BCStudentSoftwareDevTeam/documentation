@@ -2,11 +2,15 @@
 title: Audio & Video Checklist
 description: 
 published: true
-date: 2020-03-09T18:17:05.321Z
+date: 2020-03-09T18:40:52.196Z
 tags: 
 ---
 
 # Audio & Video Checklist
+The following guidelines are the WCAG 2.1 guidelines for audio and video. The Berea College Student Programmers rarely handle audio and video so all guidelines dealing with audio and video have been placed here. All changes made to the user interface that include audio and video *must* meet the beginner guidelines.
+
+---
+
 ## Beginner
 **[Guideline 1.2.1](https://www.w3.org/WAI/WCAG21/quickref/?currentsidebar=%23col_overview&showtechniques=222#audio-only-and-video-only-prerecorded)**: Any pre-recorded audio-only content should have an alternative that gives equivalent information.
 > Example: Myspace used to have the option to add music (audio-only content) to your webpage. They also gave the title of the song and the artist as an alternative with equivalent information.
