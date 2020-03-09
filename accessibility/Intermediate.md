@@ -2,7 +2,7 @@
 title: Intermediate Checklist
 description: 
 published: true
-date: 2020-03-09T18:49:16.308Z
+date: 2020-03-09T18:53:33.309Z
 tags: 
 ---
 
