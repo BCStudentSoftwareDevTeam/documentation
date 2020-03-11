@@ -2,7 +2,7 @@
 title: Intermediate Checklist
 description: 
 published: true
-date: 2020-03-11T18:21:24.695Z
+date: 2020-03-11T18:21:53.856Z
 tags: 
 ---
 
@@ -33,7 +33,8 @@ The following guidelines are the WCAG 2.1 intermediate guidelines - excluding th
 > Example:
 
 **[Guideline 1.4.12](https://www.w3.org/WAI/WCAG21/quickref/?currentsidebar=%23col_overview&showtechniques=222#text-spacing)**: There should be no loss of content or functionality with line height, paragraph spacing, letter spacing, and word spacing.
-> Example: ![overlapping_text_(2).png](/overlapping_text_(2).png)  
+> Example: 
+![overlapping_text_(2).png](/overlapping_text_(2).png)  
 [photo credit](https://www.w3.org/WAI/WCAG21/Understanding/text-spacing.html)
 
 **[Guideline 1.4.13](https://www.w3.org/WAI/WCAG21/quickref/?currentsidebar=%23col_overview&showtechniques=222#content-on-hover-or-focus)**: For any pointer or keyboard focus trigger, the content should be dismissable, hoverable, and persistent.
