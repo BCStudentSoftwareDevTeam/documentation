@@ -2,7 +2,7 @@
 title: Intermediate Checklist
 description: 
 published: true
-date: 2020-03-11T19:38:43.788Z
+date: 2020-03-11T19:51:24.896Z
 tags: 
 ---
 
@@ -53,10 +53,12 @@ Note that as the zoom percentage increases, the navigation changes first to hide
 > Example: There are multiple ways to find the Supervisor Portal web page. However, there is only one way to find the labor history of a specific student - you must go through the process of selecting a student on the Supervisor Portal to find that information.
 
 **[Guideline 2.4.6](https://www.w3.org/WAI/WCAG21/quickref/?currentsidebar=%23col_overview&showtechniques=222#headings-and-labels)**: All headings and labels should describe the topic or purpose.
-> Example:
+> Example: A form asks the name of the user. It consists of two input fields to ask for the first and last name. The first field is labeled "First name", the second is labeled "Last name"."
 
 **[Guideline 2.4.7](https://www.w3.org/WAI/WCAG21/quickref/?currentsidebar=%23col_overview&showtechniques=222#focus-visible)**: There should be a focus indicator instructing the user where the keyboard is located.
 > Example:
+![keyboardfocus_(2).png](/keyboardfocus_(2).png)
+[Photo Credit](https://www.deque.com/blog/give-site-focus-tips-designing-usable-focus-indicators/)
 
 **[Guideline 3.1.2](https://www.w3.org/WAI/WCAG21/quickref/?currentsidebar=%23col_overview&showtechniques=222#language-of-parts)**: The language of passages and phrases should be clear except for a few logical cases such as proper names, technical terms, etc.
 > Example:
