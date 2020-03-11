@@ -2,7 +2,7 @@
 title: Intermediate Checklist
 description: 
 published: true
-date: 2020-03-11T18:21:53.856Z
+date: 2020-03-11T19:03:18.000Z
 tags: 
 ---
 
@@ -12,16 +12,19 @@ The following guidelines are the WCAG 2.1 intermediate guidelines - excluding th
 ---
 
 **[Guideline 1.3.4](https://www.w3.org/WAI/WCAG21/quickref/?currentsidebar=%23col_overview&showtechniques=222#orientation)**: Content should be able to view on both portrait and landscape mode, excluding scenarios where a specific display orientation is essential.
-> Example:
+> Example: If the Student Programmers were to have a video online, it would be required for the video to be viewable in both portrait and landscape mode.
 
 **[Guideline 1.3.5](https://www.w3.org/WAI/WCAG21/quickref/?currentsidebar=%23col_overview&showtechniques=222#identify-input-purpose)**: The purpose of each input field can be programmatically determined.
-> Example:
+> Example: One good example is autofill forms for shipping and billing addresses. 
 
 **[Guideline 1.4.3](https://www.w3.org/WAI/WCAG21/quickref/?currentsidebar=%23col_overview&showtechniques=222#contrast-minimum)**: Any visual presentation - except logos - should have a contrast level of at least 4:5:1.
 > Example:
+![text_contrast.png](/text_contrast.png)
+[photo credit](https://www.google.com/url?sa=i&url=https%3A%2F%2Fincl.ca%2Fwhen-branding-colours-conflict-with-colour-contrast-requirements%2F&psig=AOvVaw0h8e9aMXVpJ_ADsW1Ohdd7&ust=1584039288076000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCJjGwKuMk-gCFQAAAAAdAAAAABAD)
 
 **[Guideline 1.4.4](https://www.w3.org/WAI/WCAG21/quickref/?currentsidebar=%23col_overview&showtechniques=222#resize-text)**: Text should have the possibility of being resized without loss of content or functionality.
-> Example:
+> Example: The following is a screenshot of Google with a zoom of 200%. There is no loss of content or functionality.
+![zoom_(2).png](/zoom_(2).png)
 
 **[Guideline 1.4.5](https://www.w3.org/WAI/WCAG21/quickref/?currentsidebar=%23col_overview&showtechniques=222#images-of-text)**: Text should be used instead of images of text in all cases except when the text can be visually customized or the particular presentation of the text is essential.
 > Example:
