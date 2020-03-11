@@ -2,7 +2,7 @@
 title: Intermediate Checklist
 description: 
 published: true
-date: 2020-03-11T19:25:03.374Z
+date: 2020-03-11T19:38:43.788Z
 tags: 
 ---
 
@@ -37,6 +37,8 @@ Note that as the zoom percentage increases, the navigation changes first to hide
 
 **[Guideline 1.4.11](https://www.w3.org/WAI/WCAG21/quickref/?currentsidebar=%23col_overview&showtechniques=222#non-text-contrast)**: The visual presentation of user interface components and graphical objects have a contrast ratio of at least 3:1.
 > Example:
+![starts_(2).png](/starts_(2).png)
+[Photo Credit](https://www.w3.org/WAI/WCAG21/Understanding/non-text-contrast.html)
 
 **[Guideline 1.4.12](https://www.w3.org/WAI/WCAG21/quickref/?currentsidebar=%23col_overview&showtechniques=222#text-spacing)**: There should be no loss of content or functionality with line height, paragraph spacing, letter spacing, and word spacing.
 > Example: 
@@ -45,9 +47,10 @@ Note that as the zoom percentage increases, the navigation changes first to hide
 
 **[Guideline 1.4.13](https://www.w3.org/WAI/WCAG21/quickref/?currentsidebar=%23col_overview&showtechniques=222#content-on-hover-or-focus)**: For any pointer or keyboard focus trigger, the content should be dismissable, hoverable, and persistent.
 > Example:
+![hoverable_(2).png](/hoverable_(2).png)[Photo Credit](https://www.w3.org/WAI/WCAG21/Understanding/content-on-hover-or-focus.html)
 
 **[Guideline 2.4.5](https://www.w3.org/WAI/WCAG21/quickref/?currentsidebar=%23col_overview&showtechniques=222#multiple-ways)**: There should be multiple ways to find a web page - except when said web page is the result of a process.
-> Example:
+> Example: There are multiple ways to find the Supervisor Portal web page. However, there is only one way to find the labor history of a specific student - you must go through the process of selecting a student on the Supervisor Portal to find that information.
 
 **[Guideline 2.4.6](https://www.w3.org/WAI/WCAG21/quickref/?currentsidebar=%23col_overview&showtechniques=222#headings-and-labels)**: All headings and labels should describe the topic or purpose.
 > Example:
