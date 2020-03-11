@@ -2,7 +2,7 @@
 title: Intermediate Checklist
 description: 
 published: true
-date: 2020-03-11T19:03:18.000Z
+date: 2020-03-11T19:25:03.374Z
 tags: 
 ---
 
@@ -27,10 +27,13 @@ The following guidelines are the WCAG 2.1 intermediate guidelines - excluding th
 ![zoom_(2).png](/zoom_(2).png)
 
 **[Guideline 1.4.5](https://www.w3.org/WAI/WCAG21/quickref/?currentsidebar=%23col_overview&showtechniques=222#images-of-text)**: Text should be used instead of images of text in all cases except when the text can be visually customized or the particular presentation of the text is essential.
-> Example:
+> Example: Instead of using the following picture to showcase the words “hello world,” use CSS to format the same outcome.
+![hello_world.png](/hello_world.png)
+[Photo Credit](https://pngtree.com/freepng/blue-hello-world-word-art-pink-purple-gradient-text-effect_5028797.html)
 
 **[Guideline 1.4.10](https://www.w3.org/WAI/WCAG21/quickref/?currentsidebar=%23col_overview&showtechniques=222#reflow)**: Content can be presented without loss of information or functionality, and without requiring scrolling in two dimensions for vertical scrolling content at a width equivalent to 320 CSS pixels and horizontal scrolling content at a height equivalent to 256 CSS pixels.
-> Example:
+> Example: https://alastairc.uk/w3c/reflow-example-1-BBC.mp4
+Note that as the zoom percentage increases, the navigation changes first to hide options behind a "More" dropdown menu. As zooming continues, most navigation options are eventually behind a "hamburger" menu button. All the information and functionality is still available from this web page. There is no horizontal scrolling.
 
 **[Guideline 1.4.11](https://www.w3.org/WAI/WCAG21/quickref/?currentsidebar=%23col_overview&showtechniques=222#non-text-contrast)**: The visual presentation of user interface components and graphical objects have a contrast ratio of at least 3:1.
 > Example:
