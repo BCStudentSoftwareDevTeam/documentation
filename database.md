@@ -2,7 +2,7 @@
 title: Databases
 description: 
 published: true
-date: 2020-03-26T11:22:43.437Z
+date: 2020-03-26T11:29:24.837Z
 tags: 
 ---
 
@@ -38,11 +38,12 @@ TBD
 If you have root access to your computer but do not have the mysql root password anymore, you can reset it.
 
 1. Stop your running mysql server with `systemctl stop mysql`.
-2. Create missing directory, fix permisisons: `mkdir /var/run/mysqld; chown mysql:adm /var/run/mysqld`
+2. Create missing directory, fix permissions: `mkdir /var/run/mysqld; chown mysql:adm /var/run/mysqld`
 3. Switch to the mysql user: `su - mysql -s /bin/bash`
 4. Start the server in safe mode: `mysqld_safe --skip-grant-tables --skip-networking &`
 5. Connect to the server with `mysql -u root`.
 6. Reset the password:
+
 At the mysql prompt:
    
     mysql> use mysql;
