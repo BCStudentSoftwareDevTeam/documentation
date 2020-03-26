@@ -2,7 +2,7 @@
 title: Databases
 description: 
 published: true
-date: 2020-03-26T11:16:36.826Z
+date: 2020-03-26T11:22:43.437Z
 tags: 
 ---
 
@@ -43,11 +43,14 @@ If you have root access to your computer but do not have the mysql root password
 4. Start the server in safe mode: `mysqld_safe --skip-grant-tables --skip-networking &`
 5. Connect to the server with `mysql -u root`.
 6. Reset the password:
-    
+At the mysql prompt:
+   
     mysql> use mysql;
     mysql> UPDATE user SET authentication_string=password('root') WHERE user='root';
     mysql> FLUSH PRIVILEGES;
 
+7. Exit mysql and stop the existing server: `killall mysqld`
+8. As root, restart mysql properly: `systemctl restart mysqld`
 
 
 ## PostgreSQL
