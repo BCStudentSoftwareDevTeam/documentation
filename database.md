@@ -2,7 +2,7 @@
 title: Databases
 description: 
 published: true
-date: 2020-02-07T14:20:35.104Z
+date: 2020-03-26T11:16:36.826Z
 tags: 
 ---
 
@@ -32,6 +32,24 @@ Replace \<PASS> with the password you want, or with nothing for an empty passwor
 
 ### Using
 TBD
+
+### Recovering Root Access
+
+If you have root access to your computer but do not have the mysql root password anymore, you can reset it.
+
+1. Stop your running mysql server with `systemctl stop mysql`.
+2. Create missing directory, fix permisisons: `mkdir /var/run/mysqld; chown mysql:adm /var/run/mysqld`
+3. Switch to the mysql user: `su - mysql -s /bin/bash`
+4. Start the server in safe mode: `mysqld_safe --skip-grant-tables --skip-networking &`
+5. Connect to the server with `mysql -u root`.
+6. Reset the password:
+    
+    mysql> use mysql;
+    mysql> UPDATE user SET authentication_string=password('root') WHERE user='root';
+    mysql> FLUSH PRIVILEGES;
+
+
+
 ## PostgreSQL
 TBD
 ## MongoDB
