@@ -2,7 +2,7 @@
 title: Berea College Student Software Development Documation
 description: The home for all of the documentation surrounding the student software development team at Berea College
 published: true
-date: 2020-02-25T21:35:55.177Z
+date: 2020-04-27T16:05:18.377Z
 tags: 
 ---
 
@@ -22,11 +22,11 @@ Welcome to the documentation home for the Student Software Development Team! Che
 * [New Developer Orientation](/new-dev)
 * [Accessibility](/accessibility/home)
 * [New Developer VM](/new-vm)
-* [Coding Candy](/programming)
-* [Python Perfection](/python)
-* [Javascript Joy](/javascript)
-* [Database Delight](/database)
-* [Great Git](/git)
-* [Linux Love](/linux)
-* [Docker Dandy](/docker)
-* [SSH Supreme](/ssh)
+* [Programming](/programming)
+* [Python](/python)
+* [Javascript](/javascript)
+* [Databases](/database)
+* [Git](/git)
+* [Linux](/linux)
+* [Docker](/docker)
+* [SSH](/ssh)
