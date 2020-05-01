@@ -2,7 +2,7 @@
 title: Applications
 description: The applications in development or managed by the SSDT
 published: true
-date: 2019-12-17T14:06:17.990Z
+date: 2020-05-01T11:23:25.006Z
 tags: 
 ---
 
@@ -16,6 +16,7 @@ Manages requests for institutional data.
 **Application Link:** https://advancement.berea.edu
 **Production IP(s):** 172.31.2.146
 **Production VM(s):** CS - advancement
+**Available Externally:** No
 **Repository:** https://bitbucket.org/laborstudents/advancementoffice
 **Setup Documentation:** [README.md](https://bitbucket.org/laborstudents/advancementoffice/src/development/README.md)
 **End User Documentation:**
@@ -25,8 +26,9 @@ Stores all course syllabi across campus for SACSCOC compliance.
 
 **Point of Contact:** Scott Steele <steeles@berea.edu>, Sam Cole <colesa@berea.edu>
 **Application Link:** https://bcsr.berea.edu
-**Production IP(s):** 10.40.42.128
-**Production VM(s):** IS&S VMs
+**Production IP(s):** 192.68.112.65
+**Production VM(s):** IS&S VM
+**Available Externally:** Yes
 **Repository:** https://bitbucket.org/laborstudents/bcsr-flask
 **Setup Documentation:** [README.md](https://bitbucket.org/laborstudents/bcsr-flask/src/master/README.md)
 **End User Documentation:**
@@ -36,8 +38,9 @@ Facilitates scheduling and room selection prior to course entry in Banner.
 
 **Point of Contact:** Judy Ginter <ginterj@berea.edu>, Scott Steele <steeles@berea.edu>
 **Application Link:** https://cas.berea.edu
-**Production IP(s):** 10.40.42.131
-**Production VM(s):** IS&S VMs
+**Production IP(s):** 192.68.112.66
+**Production VM(s):** IS&S VM
+**Available Externally:** Yes
 **Repository:** https://bitbucket.org/laborstudents/cas-flask
 **Setup Documentation:** [README.md](https://bitbucket.org/laborstudents/cas-flask/src/development/README.md)
 **End User Documentation:**
@@ -50,6 +53,7 @@ This is the current production version. The plan is to deprecate this software o
 **Application Link:** https://labor.berea.edu/forms
 **Production IP(s):** 192.68.112.198
 **Production VM(s):** IIS server hosted and managed by IS&S (contact: Tom House)
+**Available Externally:** No
 **Repository:** https://bitbucket.org/laborstudents/labor-status-forms
 **Setup Documentation:** [README.md](https://bitbucket.org/laborstudents/labor-status-forms/src/master/README.md)
 **End User Documentation:**
@@ -59,6 +63,7 @@ This is the development version, which is in progress:
 **Application Link:** https://labor.berea.edu/forms (likely)
 **Production IP(s):** TBD
 **Production VM(s):** CS VM
+**Available Externally:** No
 **Repository:** https://bitbucket.org/laborstudents/lsf-flask
 **Setup Documentation:** [README.md](https://bitbucket.org/laborstudents/lsf-flask/src/development/README.md)
 **End User Documentation:**
@@ -70,6 +75,7 @@ Tracks chemicals from the Berea College chemical bunker and their movements to l
 **Application Link:** https://chemical.berea.edu
 **Production IP(s):** 10.40.42.129
 **Production VM(s):** IS&S VM
+**Available Externally:** No
 **Repository:** https://bitbucket.org/laborstudents/chemical-inventory-new
 **Setup Documentation:** [README.md](https://bitbucket.org/laborstudents/chemical-inventory-new/src/master/README.md)
 **End User Documentation:**
@@ -82,6 +88,7 @@ Ulmann Galleries is a management tool for gallery application entries. It provid
 **Application Link:** http://ulmann.berea.edu
 **Production IP(s):** 52.15.206.17
 **Production VM(s):** AWS EC2
+**Available Externally:** Yes
 **Repository:** https://github.com/BCStudentSoftwareDevTeam/Ullman_Galleries
 **Setup Documentation:** [README.md](https://github.com/BCStudentSoftwareDevTeam/Ullman_Galleries/blob/development/README.md)
 **End User Documentation:**
@@ -94,6 +101,7 @@ Collects proposals for summer projects and provides tools for review by the comm
 **Application Link:** https://urcpp.berea.edu
 **Production IP(s):** 10.40.42.107
 **Production VM(s):** IS&S VMs
+**Available Externally:** No
 **Repository:** https://bitbucket.org/laborstudents/urcpp-flask
 **Setup Documentation:** [README.md](https://bitbucket.org/laborstudents/urcpp-flask/src/development/README.md)
 **End User Documentation:**
@@ -107,6 +115,7 @@ Records volunteer, labor, and service learning hours for CELTS across different 
 **Application Link:** Google Spreadsheet
 **Production IP(s):** N/A
 **Production VM(s):** N/A
+**Available Externally:** N/A
 **Repository:** https://bitbucket.org/laborstudents/celts-tracker-google-app-script/
 **Setup Documentation:** [README.md](https://bitbucket.org/laborstudents/celts-tracker-google-app-script/src/master/README.md)
 **End User Documentation:** [Wiki](celts)
@@ -121,6 +130,7 @@ Keeps track of art and artifacts both on and off-campus.
 **Application Link:** https://bcac.berea.edu/
 **Production IP(s):** 172.31.3.177
 **Production VM(s):** CS VM
+**Available Externally:** No
 **Repository:** https://bitbucket.org/laborstudents/art-archives/
 **Setup Documentation:** [README.md](https://bitbucket.org/laborstudents/art-archives/src/master/README.md)
 **End User Documentation:**
@@ -132,6 +142,7 @@ All of the documentation for our team and applications is contained in Wiki.js. 
 **Application Link:** http://172.31.2.178/
 **Production IP(s):** 172.31.2.178
 **Production VM(s):** documentation
+**Available Externally:** No
 **Repository:** N/A
 **Setup Documentation:** 
 **End User Documentation:**
