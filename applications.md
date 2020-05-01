@@ -2,7 +2,7 @@
 title: Applications
 description: The applications in development or managed by the SSDT
 published: true
-date: 2020-05-01T11:23:25.006Z
+date: 2020-05-01T11:27:52.833Z
 tags: 
 ---
 
