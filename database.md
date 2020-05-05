@@ -2,7 +2,7 @@
 title: Databases
 description: 
 published: true
-date: 2020-03-26T11:29:24.837Z
+date: 2020-05-05T18:10:12.765Z
 tags: 
 ---
 
@@ -21,7 +21,7 @@ TBD
 
 ### Default username and password
 
-By default, the mysql root user has no password, but is only accessible when your host user is the superuser (root). This means that this command, `mysql -u root`, will not work out of the box as your normal user. You would need to use sudo, like `sudo mysql -u root`. It is generally not good to have an unsecured root login anywhere, but if you are setting this up in a development environment it is probably ok. To change the user so you can access it without sudo, connect to mysql and run the following SQL:
+By default, the mysql root user has no password and is only accessible when your host user is the superuser (root). This means that this command, `mysql -u root`, will not work out of the box as your normal user. You would need to use sudo, like `sudo mysql -u root`. It is generally not good to have an unsecured root login anywhere, but if you are setting this up in a development environment it is probably ok. To change the user so you can access it without sudo, connect to mysql and run the following SQL:
 
     mysql> DROP USER 'root'@'localhost';
     mysql> CREATE USER 'root'@'%' IDENTIFIED BY '<PASS>';
