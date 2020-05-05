@@ -2,7 +2,7 @@
 title: Databases
 description: 
 published: true
-date: 2020-05-05T18:10:12.765Z
+date: 2020-05-05T18:17:45.189Z
 tags: 
 ---
 
@@ -17,7 +17,12 @@ Your content here
 MySQL and MariaDB are open source database implementations that are fully compatible with each other. MariaDB is a fork of the MySQL project, and is a drop-in replacement. The commands even still use the mysql name.
 
 ### Installing
-TBD
+
+Dev VMs should have mysql installed already. Should you need to, you can install the package `mysql-server` with apt: `sudo apt install mysql-server`.
+
+To access the database with a programming language you will likely need to install a package with the database drive, e.g., `python3-mysqldb`.
+
+If you want a graphical interface to your database, install the package `phpmyadmin`.
 
 ### Default username and password
 
