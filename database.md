@@ -2,7 +2,7 @@
 title: Databases
 description: 
 published: true
-date: 2020-05-05T18:17:45.189Z
+date: 2020-05-05T18:22:28.967Z
 tags: 
 ---
 
@@ -20,7 +20,7 @@ MySQL and MariaDB are open source database implementations that are fully compat
 
 Dev VMs should have mysql installed already. Should you need to, you can install the package `mysql-server` with apt: `sudo apt install mysql-server`.
 
-To access the database with a programming language you will likely need to install a package with the database drive, e.g., `python3-mysqldb`.
+To access the database with a programming language you will likely need to install a package with the database driver, e.g., `python3-mysqldb`.
 
 If you want a graphical interface to your database, install the package `phpmyadmin`.
 
