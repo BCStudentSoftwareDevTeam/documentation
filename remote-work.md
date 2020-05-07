@@ -2,11 +2,9 @@
 title: Remote Work
 description: 
 published: true
-date: 2020-05-07T19:16:22.440Z
+date: 2020-05-07T19:17:56.779Z
 tags: 
 ---
-
-# Surviving Remote Work
 
 ## Communication
 Talk to people!
