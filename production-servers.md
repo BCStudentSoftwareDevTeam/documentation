@@ -2,7 +2,7 @@
 title: Production Servers
 description: How to set up production servers
 published: true
-date: 2020-05-01T11:05:18.579Z
+date: 2020-05-08T19:31:16.692Z
 tags: infra
 ---
 
@@ -28,7 +28,7 @@ Production webservers should use SSL only. An example Apache configuration to di
 
 
 
-If the server is accessible off campus we can use [Lets Encrypt](https://letsencrypt.org/). If not, we will need to get a certificate and set it up manually.
+If the server is accessible off campus we can use [Lets Encrypt](https://letsencrypt.org/). If not, we will need to get a certificate from GlobalSign and set it up manually.
 
 #### Lets Encrypt
 Check up to date instructions from letsencrypt: https://certbot.eff.org/instructions. The gist is as follows.
