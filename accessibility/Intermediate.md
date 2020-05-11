@@ -2,7 +2,7 @@
 title: Intermediate Checklist
 description: 
 published: true
-date: 2020-03-11T19:51:24.896Z
+date: 2020-05-11T14:46:27.329Z
 tags: 
 ---
 
@@ -61,19 +61,21 @@ Note that as the zoom percentage increases, the navigation changes first to hide
 [Photo Credit](https://www.deque.com/blog/give-site-focus-tips-designing-usable-focus-indicators/)
 
 **[Guideline 3.1.2](https://www.w3.org/WAI/WCAG21/quickref/?currentsidebar=%23col_overview&showtechniques=222#language-of-parts)**: The language of passages and phrases should be clear except for a few logical cases such as proper names, technical terms, etc.
-> Example:
+> Example:  In the picture below, a change of language is shown by using lang=”de”.
+![german_wording.png](/german_wording.png)
+[Photo Credit](https://www.w3.org/WAI/WCAG21/Techniques/html/H58.html)
 
 **[Guideline 3.2.3](https://www.w3.org/WAI/WCAG21/quickref/?currentsidebar=%23col_overview&showtechniques=222#consistent-navigation)**: Navigation menus should be consistent each time they are repeated.
-> Example:
+> Example: The sidebar and skip navigation links should be consistent in where they are located and how they look.
 
 **[Guideline 3.2.4](https://www.w3.org/WAI/WCAG21/quickref/?currentsidebar=%23col_overview&showtechniques=222#consistent-identification)**: Components that have the same functionality (icons, buttons, etc) have the same identification.
-> Example:
+> Example: One example would include the buttons. They should all be formatted to look the same. Another example would include the calendar icon, they should look the same wherever a user is expected to enter a date.
 
 **[Guideline 3.3.3](https://www.w3.org/WAI/WCAG21/quickref/?currentsidebar=%23col_overview&showtechniques=222#error-suggestion)**: Suggestions should be given when an input error is detected except when it would jeopardize security or the purpose of the content.
-> Example:
+> Example: On the Labor Status Form page, whenever a use has an input error there should be a correction suggestion. For example, if the user does not put in a start date, there should be a flash that says “please input a start date.”
 
 **[Guideline 3.3.4](https://www.w3.org/WAI/WCAG21/quickref/?currentsidebar=%23col_overview&showtechniques=222#error-prevention-legal-financial-data)**: Any web pages that require legal commitments, financial transactions, modify/delete user-controllable data in data storage systems, or submit user test responses should have either a reverse, check, or confirm before submitting option.
-> Example:
+> Example: This guideline does not pertain to the Student Programmers as of now. However, we are really good at ensuring that there is always an option for reversing, checking, or confirming any input the user must submit.
 
 **[Guideline 4.1.3](https://www.w3.org/WAI/WCAG21/quickref/?currentsidebar=%23col_overview&showtechniques=222#status-messages)**: Status messages should be programmatically determined through role or properties in such a way that they can be presented to the user by assistive technologies without receiving focus.
-> Example:
+> Example: ARIA role=status or role=alert will meet this guideline requirement. You can read more [here](https://www.w3.org/WAI/WCAG21/Understanding/status-messages.html).
