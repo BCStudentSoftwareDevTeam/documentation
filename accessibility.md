@@ -1,8 +1,8 @@
 ---
-title: Accessibility Home
+title: Accessibility
 description: 
 published: true
-date: 2020-05-13T12:53:18.896Z
+date: 2020-05-13T12:55:28.912Z
 tags: 
 ---
 
