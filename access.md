@@ -2,8 +2,8 @@
 title: Access Control
 description: Description of our access control schemes.
 published: true
-date: 2019-10-17T18:03:44.967Z
+date: 2020-05-20T18:37:50.745Z
 tags: 
 ---
 
-We use public key authentication to access servers via SSH, and Active Directory to authenticate users in our applications (where possible).
+We use [public key authentication](/ssh) to access servers with SSH, and our applications, where possible, use [Shibboleth](/shibboleth) to authenticate users against Berea College's network.
