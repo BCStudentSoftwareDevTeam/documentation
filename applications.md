@@ -2,7 +2,7 @@
 title: Applications
 description: The applications in development or managed by the SSDT
 published: true
-date: 2020-05-01T14:10:43.692Z
+date: 2020-05-22T15:36:21.138Z
 tags: 
 ---
 
@@ -133,6 +133,18 @@ Keeps track of art and artifacts both on and off-campus.
 **Available Externally:** No
 **Repository:** https://bitbucket.org/laborstudents/art-archives/
 **Setup Documentation:** [README.md](https://bitbucket.org/laborstudents/art-archives/src/master/README.md)
+**End User Documentation:**
+
+## Loyal Jones Collective Access
+`<NEED DESCRIPTION>`
+
+**Point of Contact:** Christopher A. Miller <millerc@berea.edu>
+**Application Link:** http://172.31.3.117/
+**Production IP(s):** 172.31.3.117
+**Production VM(s):** CS VM
+**Available Externally:** No
+**Repository:** https://github.com/collectiveaccess/providence.git
+**Setup Documentation:** [README.md](https://github.com/collectiveaccess/providence/blob/master/README.md)
 **End User Documentation:**
 
 ## SSDT Documentation
