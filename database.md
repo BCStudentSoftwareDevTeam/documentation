@@ -2,7 +2,7 @@
 title: Databases
 description: 
 published: true
-date: 2020-05-05T18:22:28.967Z
+date: 2020-06-10T15:28:55.866Z
 tags: 
 ---
 
@@ -36,7 +36,7 @@ By default, the mysql root user has no password and is only accessible when your
 Replace \<PASS> with the password you want, or with nothing for an empty password.
 
 ### Using
-TBD
+https://dev.mysql.com/doc/mysql-getting-started/en/#mysql-getting-started-basic-ops
 
 ### Recovering Root Access
 
