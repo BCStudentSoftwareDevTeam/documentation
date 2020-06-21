@@ -2,7 +2,7 @@
 title: Databases
 description: 
 published: true
-date: 2020-06-10T15:28:55.866Z
+date: 2020-06-21T20:29:11.460Z
 tags: 
 ---
 
@@ -58,6 +58,12 @@ At the mysql prompt:
 7. Exit mysql and stop the existing server: `killall mysqld`
 8. As root, restart mysql properly: `systemctl restart mysqld`
 
+## Microsoft SQL Server
+
+Accessing a SQL Server instance from linux requires an extra level of misdirection, FreeTDS.
+https://gist.github.com/rduplain/1293636
+
+`sudo apt-get install build-essential libssl-dev libffi-dev python3-dev lbffi-dev libssl-dev python3.7-dev freetds-dev freetds-bin unixodbc-dev tdsodbc`
 
 ## PostgreSQL
 TBD
