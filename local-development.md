@@ -2,7 +2,7 @@
 title: Creating a Local Development Environment
 description: 
 published: true
-date: 2020-06-29T22:04:37.739Z
+date: 2020-06-29T22:06:32.775Z
 tags: 
 ---
 
@@ -34,14 +34,14 @@ You will need to install the necessary packages for your application. Included h
 
 **Ubuntu**
 
-- `sudo apt install mysql-server`
+- `sudo apt install mysql-server` - if you are prompted for a root password, enter the necessary one for the application. E.g., for LSF it is 'root'. Otherwise, accept defaults.
 - `sudo systemctl start mysql`
 - `sudo systemctl enable mysql`
+- `sudo mysql_secure_installation utility` - if you were unable to change the password on install, run this command.
 
 **Ubuntu pre-18.04 needs python3 also**
 - `sudo apt install python3`
 - `sudo apt install python3-pip`
-
 
 
 #### Clone the application repository
