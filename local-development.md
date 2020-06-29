@@ -2,7 +2,7 @@
 title: Creating a Local Development Environment
 description: 
 published: true
-date: 2020-06-29T22:03:37.736Z
+date: 2020-06-29T22:04:37.739Z
 tags: 
 ---
 
@@ -41,12 +41,6 @@ You will need to install the necessary packages for your application. Included h
 **Ubuntu pre-18.04 needs python3 also**
 - `sudo apt install python3`
 - `sudo apt install python3-pip`
-
-
-#### Configure Dependencies
-
-**Set default python**
-**Set MySQL root password**
 
 
 
