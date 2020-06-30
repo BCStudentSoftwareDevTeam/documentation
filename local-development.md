@@ -2,7 +2,7 @@
 title: Creating a Local Development Environment
 description: 
 published: true
-date: 2020-06-29T22:06:32.775Z
+date: 2020-06-30T16:07:57.059Z
 tags: 
 ---
 
@@ -46,6 +46,9 @@ You will need to install the necessary packages for your application. Included h
 
 #### Clone the application repository
 
+Create an [SSH](/ssh) key for your local machine (or use one from `.ssh/` that is already created). Add the key to your bitbucket profile and use `git clone` to get the application code. Make sure you are using the `git+ssh` url, not `http` or `https`.
+
+Follow your repository README to set up the application properly.
 
 
 
