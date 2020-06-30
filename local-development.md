@@ -2,7 +2,7 @@
 title: Creating a Local Development Environment
 description: 
 published: true
-date: 2020-06-30T16:07:57.059Z
+date: 2020-06-30T16:08:22.086Z
 tags: 
 ---
 
@@ -13,13 +13,13 @@ On a linux machine, you will need to install the necessary dependencies with `ap
 
 Mac OS is Unix based, so the applications have a pretty good chance of working without modification, once you get the dependencies installed.
 
-#### Install Homebrew
+### Install Homebrew
 
 **Mac OS only.**
 Install Homebrew by following the instructions at [brew.sh](https://brew.sh/).
 
 
-#### Install & Configure Application Dependencies
+### Install & Configure Application Dependencies
 You will need to install the necessary packages for your application. Included here are two common ones, Python 3 and MySQL.
 
 **Mac OS**
@@ -44,7 +44,7 @@ You will need to install the necessary packages for your application. Included h
 - `sudo apt install python3-pip`
 
 
-#### Clone the application repository
+### Clone the application repository
 
 Create an [SSH](/ssh) key for your local machine (or use one from `.ssh/` that is already created). Add the key to your bitbucket profile and use `git clone` to get the application code. Make sure you are using the `git+ssh` url, not `http` or `https`.
 
