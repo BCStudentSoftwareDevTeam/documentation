@@ -2,7 +2,7 @@
 title: Creating a Local Development Environment
 description: 
 published: true
-date: 2020-06-30T16:08:22.086Z
+date: 2020-06-30T18:03:24.233Z
 tags: 
 ---
 
@@ -50,6 +50,9 @@ Create an [SSH](/ssh) key for your local machine (or use one from `.ssh/` that i
 
 Follow your repository README to set up the application properly.
 
+### MySQL Access
+
+You can access your mysql server with the command line `mysql` utility. If you want a GUI tool, download [MySQL Workbench](https://www.mysql.com/products/workbench/), and use `localhost:3306` as the server connection.
 
 
 ## Windows
