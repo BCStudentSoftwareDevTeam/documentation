@@ -2,7 +2,7 @@
 title: Production Servers
 description: How to set up production servers
 published: true
-date: 2020-05-08T19:31:16.692Z
+date: 2020-06-30T18:14:39.987Z
 tags: infra
 ---
 
@@ -15,7 +15,11 @@ A guide to setting up production servers, for security and repeatibility. We rea
 Only necessary packages should be installed and only necessary services should be running. Run `nmap URL` to check and see what ports are open on your server.
 
 ### Unattended Upgrades
-Security updates should be installed automatically. For our older servers using Ubuntu 16.04, this document outlines the steps: https://linoxide.com/ubuntu-how-to/enable-disable-unattended-upgrades-ubuntu-16-04/.
+Security updates should be installed automatically. 
+
+For our older servers using Ubuntu 16.04, this document outlines the steps: https://linoxide.com/ubuntu-how-to/enable-disable-unattended-upgrades-ubuntu-16-04/.
+
+For servers using Ubuntu 18.04, this document outlines the steps: https://libre-software.net/ubuntu-automatic-updates/.
 
 ### SSL
 Production webservers should use SSL only. An example Apache configuration to disable http access is here:
