@@ -2,7 +2,7 @@
 title: Production Servers
 description: How to set up production servers
 published: true
-date: 2020-06-30T18:14:39.987Z
+date: 2020-07-01T13:20:36.662Z
 tags: infra
 ---
 
@@ -67,4 +67,8 @@ Verify that the renewal is scheduled with systemd: `systemctl list-timers`.
 ### Shibboleth
 
 ## Backups
+
+## Notes
+
+Don't forget python3 wsgi: `apt-get install libapache2-mod-wsgi-py3`
 
