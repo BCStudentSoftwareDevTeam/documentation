@@ -2,7 +2,7 @@
 title: Databases
 description: 
 published: true
-date: 2020-06-21T20:29:11.460Z
+date: 2020-07-01T12:46:03.223Z
 tags: 
 ---
 
@@ -63,7 +63,7 @@ At the mysql prompt:
 Accessing a SQL Server instance from linux requires an extra level of misdirection, FreeTDS.
 https://gist.github.com/rduplain/1293636
 
-`sudo apt-get install build-essential libssl-dev libffi-dev python3-dev lbffi-dev libssl-dev python3.7-dev freetds-dev freetds-bin unixodbc-dev tdsodbc`
+`sudo apt-get install build-essential libssl-dev libffi-dev python3-dev python3.7-dev freetds-dev freetds-bin unixodbc-dev tdsodbc`
 
 ## PostgreSQL
 TBD
