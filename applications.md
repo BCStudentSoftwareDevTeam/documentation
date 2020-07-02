@@ -2,7 +2,7 @@
 title: Applications
 description: The applications in development or managed by the SSDT
 published: true
-date: 2020-07-02T12:39:55.271Z
+date: 2020-07-02T12:46:26.206Z
 tags: 
 ---
 
@@ -38,7 +38,7 @@ Facilitates scheduling and room selection prior to course entry in Banner.
 
 **Point of Contact:** Judy Ginter <ginterj@berea.edu>, Scott Steele <steeles@berea.edu>
 **Application Link:** https://cas.berea.edu
-**Production IP(s):** 192.68.112.66
+**Production IP(s):** 192.68.112.108
 **Production VM(s):** IS&S VM
 **Available Externally:** Yes
 **Repository:** https://bitbucket.org/laborstudents/cas-flask
