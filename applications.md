@@ -2,7 +2,7 @@
 title: Applications
 description: The applications in development or managed by the SSDT
 published: true
-date: 2020-07-02T12:37:38.033Z
+date: 2020-07-02T12:38:48.846Z
 tags: 
 ---
 
@@ -128,7 +128,7 @@ Keeps track of art and artifacts both on and off-campus.
 
 **Point of Contact:** Megan Doherty <dohertym@berea.edu>
 **Application Link:** https://bcac.berea.edu/
-**Production IP(s):** 172.31.3.177
+**Production IP(s):** 192.68.112.109
 **Production VM(s):** IS&S VM
 **Available Externally:** Yes
 **Repository:** https://bitbucket.org/laborstudents/art-archives/
