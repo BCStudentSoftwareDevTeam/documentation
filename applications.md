@@ -2,7 +2,7 @@
 title: Applications
 description: The applications in development or managed by the SSDT
 published: true
-date: 2020-05-22T15:36:21.138Z
+date: 2020-07-02T12:37:38.033Z
 tags: 
 ---
 
@@ -61,7 +61,7 @@ This is the current production version. The plan is to deprecate this software o
 This is the development version, which is in progress:
 **Point of Contact:** Johauna Gosney <gosneyj@berea.edu>
 **Application Link:** https://lsf.berea.edu
-**Production IP(s):** TBD
+**Production IP(s):** 10.40.42.58
 **Production VM(s):** IS&S VM
 **Available Externally:** No
 **Repository:** https://bitbucket.org/laborstudents/lsf-flask
@@ -99,7 +99,7 @@ Collects proposals for summer projects and provides tools for review by the comm
 
 **Point of Contact:** Sarah Broomfield <broomfields@berea.edu>
 **Application Link:** https://urcpp.berea.edu
-**Production IP(s):** 10.40.42.107
+**Production IP(s):** 192.68.112.107
 **Production VM(s):** IS&S VMs
 **Available Externally:** No
 **Repository:** https://bitbucket.org/laborstudents/urcpp-flask
@@ -129,8 +129,8 @@ Keeps track of art and artifacts both on and off-campus.
 **Point of Contact:** Megan Doherty <dohertym@berea.edu>
 **Application Link:** https://bcac.berea.edu/
 **Production IP(s):** 172.31.3.177
-**Production VM(s):** CS VM
-**Available Externally:** No
+**Production VM(s):** IS&S VM
+**Available Externally:** Yes
 **Repository:** https://bitbucket.org/laborstudents/art-archives/
 **Setup Documentation:** [README.md](https://bitbucket.org/laborstudents/art-archives/src/master/README.md)
 **End User Documentation:**
@@ -151,7 +151,7 @@ Keeps track of art and artifacts both on and off-campus.
 All of the documentation for our team and applications is contained in Wiki.js. The pages are also stored as .md files and are synced with this repository: https://bitbucket.org/laborstudents/documentation. Any .md files edited in this repo will be updated in the wiki.
 
 **Point of Contact:** Brian Ramsay <ramsayb2@berea.edu>
-**Application Link:** http://172.31.2.178/
+**Application Link:** http://ssdt-documentation.berea.edu
 **Production IP(s):** 172.31.2.178
 **Production VM(s):** documentation
 **Available Externally:** No
