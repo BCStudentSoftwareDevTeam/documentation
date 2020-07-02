@@ -2,7 +2,7 @@
 title: Applications
 description: The applications in development or managed by the SSDT
 published: true
-date: 2020-07-02T12:38:48.846Z
+date: 2020-07-02T12:39:55.271Z
 tags: 
 ---
 
@@ -101,7 +101,7 @@ Collects proposals for summer projects and provides tools for review by the comm
 **Application Link:** https://urcpp.berea.edu
 **Production IP(s):** 192.68.112.107
 **Production VM(s):** IS&S VMs
-**Available Externally:** No
+**Available Externally:** Yes
 **Repository:** https://bitbucket.org/laborstudents/urcpp-flask
 **Setup Documentation:** [README.md](https://bitbucket.org/laborstudents/urcpp-flask/src/development/README.md)
 **End User Documentation:**
