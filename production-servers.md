@@ -2,7 +2,7 @@
 title: Production Servers
 description: How to set up production servers
 published: true
-date: 2020-07-01T13:20:36.662Z
+date: 2020-07-06T14:47:03.559Z
 tags: infra
 ---
 
@@ -63,6 +63,8 @@ Verify that the renewal is scheduled with systemd: `systemctl list-timers`.
 ## Authentication
 
 ### SSH
+
+Shibboleth 2 is end of life. Follow this guide for Shibboleth 3: https://www.switch.ch/aai/guides/sp/installation/?os=ubuntu
 
 ### Shibboleth
 
