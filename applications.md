@@ -2,7 +2,7 @@
 title: Applications
 description: The applications in development or managed by the SSDT
 published: true
-date: 2020-07-10T12:36:16.455Z
+date: 2020-07-10T14:17:30.826Z
 tags: 
 ---
 
@@ -100,7 +100,7 @@ Collects proposals for summer projects and provides tools for review by the comm
 **Point of Contact:** Sarah Broomfield <broomfields@berea.edu>
 **Application Link:** https://urcpp.berea.edu
 **Production IP(s):** 192.68.112.107
-**Production VM(s):** IS&S VMs
+**Production VM(s):** IS&S VM
 **Available Externally:** Yes
 **Repository:** https://bitbucket.org/laborstudents/urcpp-flask
 **Setup Documentation:** [README.md](https://bitbucket.org/laborstudents/urcpp-flask/src/development/README.md)
@@ -141,7 +141,7 @@ Keeps track of art and artifacts both on and off-campus.
 **Point of Contact:** Christopher A. Miller <millerc@berea.edu>
 **Application Link:** http://172.31.3.117/
 **Production IP(s):** 172.31.3.117
-**Production VM(s):** CS VM
+**Production VM(s):** CS VM - loyalJones0
 **Available Externally:** No
 **Repository:** https://github.com/collectiveaccess/providence.git
 **Setup Documentation:** [README.md](https://github.com/collectiveaccess/providence/blob/master/README.md)
@@ -153,7 +153,7 @@ All of the documentation for our team and applications is contained in Wiki.js. 
 **Point of Contact:** Brian Ramsay <ramsayb2@berea.edu>
 **Application Link:** http://ssdt-documentation.berea.edu
 **Production IP(s):** 172.31.2.178
-**Production VM(s):** documentation
+**Production VM(s):** CS VM - documentation
 **Available Externally:** No
 **Repository:** N/A
 **Setup Documentation:** 
