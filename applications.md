@@ -2,7 +2,7 @@
 title: Applications
 description: The applications in development or managed by the SSDT
 published: true
-date: 2020-07-02T12:46:26.206Z
+date: 2020-07-10T12:36:16.455Z
 tags: 
 ---
 
@@ -61,9 +61,9 @@ This is the current production version. The plan is to deprecate this software o
 This is the development version, which is in progress:
 **Point of Contact:** Johauna Gosney <gosneyj@berea.edu>
 **Application Link:** https://lsf.berea.edu
-**Production IP(s):** 10.40.42.58
+**Production IP(s):** 192.68.112.111
 **Production VM(s):** IS&S VM
-**Available Externally:** No
+**Available Externally:** Yes
 **Repository:** https://bitbucket.org/laborstudents/lsf-flask
 **Setup Documentation:** [README.md](https://bitbucket.org/laborstudents/lsf-flask/src/development/README.md)
 **End User Documentation:**
