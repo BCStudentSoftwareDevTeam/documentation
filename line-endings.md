@@ -2,7 +2,7 @@
 title: Handling Line Endings
 description: 
 published: true
-date: 2020-05-07T18:45:02.395Z
+date: 2020-07-13T12:56:40.069Z
 tags: dev
 ---
 
@@ -19,7 +19,7 @@ The `file` utility can be used to investigate a file type, producing results lik
     app.wsgi: Python script text executable, ASCII text, with CRLF line terminators`
 
 To check your entire repository for bad line endings, use this command: 
-`find -X . -type f 2< /dev/null | grep -v git | grep -v venv | grep -v pyc | xargs file | grep CRLF`
+`find . -type f 2< /dev/null | grep -v git | grep -v venv | grep -v pyc | xargs file | grep CRLF`
 
 Within the `vim` editor, you can view whitespace with `:set list` while in command mode, and any Carriage Returns will show up as the whitespace character `^M`.
 
