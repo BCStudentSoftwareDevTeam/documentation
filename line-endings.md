@@ -2,7 +2,7 @@
 title: Handling Line Endings
 description: 
 published: true
-date: 2020-07-13T12:56:40.069Z
+date: 2020-07-14T14:00:22.780Z
 tags: dev
 ---
 
@@ -31,7 +31,7 @@ This will be editor-specifc. For Atom, install the [line-ending-selector](https:
 ## Converting line endings
 ### Linux / Mac OS
 
-You can use `dos2unix` and `unix2dos` to convert files back and forth between different line endings. To do a mass convert for your entire repo, use this command: `find -X . -type f 2< /dev/null | grep -v git | grep -v venv | grep -v pyc | xargs dos2unix`
+You can use `dos2unix` and `unix2dos` to convert files back and forth between different line endings. To do a mass convert for your entire repo, use this command: `find . -type f 2< /dev/null | grep -v git | grep -v venv | grep -v pyc | xargs dos2unix`
 
 ### Windows
 
