@@ -2,7 +2,7 @@
 title: Software Requests
 description: This page holds unstarted projects that have been requested by the campus community
 published: true
-date: 2020-07-20T20:26:58.202Z
+date: 2020-07-20T20:28:09.800Z
 tags: 
 ---
 
@@ -15,7 +15,9 @@ Summary: CELTS has inconsistent processes for gathering, storing, and reporting 
 
 Contacts: Ashley Cochrane, Sarah Rorrer, Sheila Lyons
 
-Status (07/20/2020): Currently they are in a lean green belt project to solve the process problem. They are developing the future state in collaboration with Scott Heggen, Brian Ramsay, and Alex Bryant. Student Audrey Craft will be completing this Green belt in Spring 2021 and working on the design/software as her labor position for the 2020-2021 AY. 
+Status: Currently they are in a lean green belt project to solve the process problem. They are developing the future state in collaboration with Scott Heggen, Brian Ramsay, and Alex Bryant. Student Audrey Craft will be completing this Green belt in Spring 2021 and working on the design/software as her labor position for the 2020-2021 AY. 
+
+Last updated: 07/20/2020
 
 ## Office of Strategic Initiatives
 
@@ -23,7 +25,9 @@ Summary: Scott has promised to give OSI priority for the next project. Details a
 
 Contacts: Teri Thompson
 
-Status (07/20/2020): Pre-planning. 
+Status: Pre-planning. 
+
+Last updated: 07/20/2020
 
 ## Continuous Improvement
 
@@ -31,7 +35,9 @@ Summary: The CI would like an application to help manage the CI projects. Primar
 
 Contacts: Heather Schill
 
-Status (07/20/2020): Pre-planning.
+Status: Pre-planning.
+
+Last updated: 07/20/2020
 
 ## EC Nominating Subcommittee
 
@@ -42,3 +48,5 @@ In addition, the Faculty Annual Reports (FAR) could be a related/connected appli
 Contact: Rick Meadows (see email with subject: Could Comp Sci aid EC's Nominating Subcommittee?)
 
 Status: Pre-planning
+
+Last updated: 07/20/2020
