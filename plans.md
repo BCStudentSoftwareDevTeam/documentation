@@ -2,7 +2,7 @@
 title: Future Planning
 description: Upcoming SSDT projects, upgrades, improvements, and wishlists.
 published: true
-date: 2020-01-14T16:01:32.604Z
+date: 2020-08-21T18:10:31.650Z
 tags: 
 ---
 
@@ -28,12 +28,28 @@ New servers, new networking, new authentication, new support scripts.
 	* Create ansible playbook to provision server from scratch (and maintain it)
   * Migration Plan
 
+## Log Management
+* Centralized log viewer
+* Alerts based on log events
+  * Nagios - https://www.nagios.org/
+  * Sensu - https://sensu.io/
+  * ELK Stack - https://www.elastic.co/products/
+  * Graylog - https://www.graylog.org/products/open-source
+
+## Continuous Integration
+* Build Server
+* Acceptance Testing Framework
+* Smoke tests for each application
+* Physical indicators of build health
+* Accessible Dashboard
+* Investigation
+	* https://travis-ci.com/
+  * https://education.travis-ci.com/
+  * https://jenkins.io/
+
 # Application Development in Progress
 Changes to improve the quality of or add new features to our applications.
 
-## Labor Status Forms Rewrite
-* Get LSF rewritten as a Flask application
-* All hands on deck
 
 ## Fast Dev Deployments
 * Base VM with appropriate configuration
@@ -53,17 +69,6 @@ We need to do these things eventually, either for our applications' sake or our 
 ## Tests!
 * We need a test framework and an easy entry point to write new tests for features
 
-## Continuous Integration
-* Build Server
-* Acceptance Testing Framework
-* Smoke tests for each application
-* Physical indicators of build health
-* Accessible Dashboard
-* Investigation
-	* https://travis-ci.com/
-  * https://education.travis-ci.com/
-  * https://jenkins.io/
-
 ## Continuous Delivery
 * Staging Environment for each application
 * Reliable deployment process for each application
@@ -78,10 +83,6 @@ We need to do these things eventually, either for our applications' sake or our 
 * No outdated files (scripts, cleanup, db management)
 * Up-to-date documentation
 
-## Log Management
-* Centralized log viewer
-* Alerts based on log events
-
 ## SSH Key Management
 * Ability to add and revoke permissions to servers
 * Avoid having to email private keys
@@ -94,8 +95,6 @@ We need to do these things eventually, either for our applications' sake or our 
 * re-organize ansible repository
 * playbooks shouldn't need sudo
 
-## Migrate applications from IS&S hypervisor to fee
-* We should control production applications
 
 ## Standardize application configuration and deployment
 * Flexible configuration
@@ -144,4 +143,8 @@ For posterity. See how far we have come.
 * Backed by git repo in ssdt bitbucket
 * New Developer Orientation documentation
 * High level application details
+
+## Labor Status Forms Rewrite
+* Get LSF rewritten as a Flask application
+* All hands on deck
 
