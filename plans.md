@@ -2,7 +2,7 @@
 title: Future Planning
 description: Upcoming SSDT projects, upgrades, improvements, and wishlists.
 published: true
-date: 2020-08-21T18:10:31.650Z
+date: 2020-08-21T18:11:02.131Z
 tags: 
 ---
 
@@ -36,6 +36,9 @@ New servers, new networking, new authentication, new support scripts.
   * ELK Stack - https://www.elastic.co/products/
   * Graylog - https://www.graylog.org/products/open-source
 
+# Application Development in Progress
+Changes to improve the quality of or add new features to our applications.
+
 ## Continuous Integration
 * Build Server
 * Acceptance Testing Framework
@@ -46,10 +49,6 @@ New servers, new networking, new authentication, new support scripts.
 	* https://travis-ci.com/
   * https://education.travis-ci.com/
   * https://jenkins.io/
-
-# Application Development in Progress
-Changes to improve the quality of or add new features to our applications.
-
 
 ## Fast Dev Deployments
 * Base VM with appropriate configuration
