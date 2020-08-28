@@ -2,7 +2,7 @@
 title: Databases
 description: 
 published: true
-date: 2020-08-28T01:05:26.952Z
+date: 2020-08-28T01:06:36.644Z
 tags: 
 ---
 
@@ -64,7 +64,6 @@ Accessing a SQL Server instance from linux requires an extra level of misdirecti
 
 1. Install the necessary packages:
 `sudo apt-get install build-essential libssl-dev libffi-dev python3-dev python3.7-dev freetds-dev freetds-bin unixodbc-dev tdsodbc`
-
 2. Edit `/etc/odbcinst.ini` according to https://gist.github.com/rduplain/1293636
 3. Set up the connection for your language. For examples of doing it with pyodbc, SQLAlchemy, and Flask-SQLAlchemy, check out `db_test.py` in the LSF repo: https://bitbucket.org/laborstudents/lsf-flask/src/development/db_test.py 
 
