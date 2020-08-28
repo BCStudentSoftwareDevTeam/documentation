@@ -2,7 +2,7 @@
 title: Applications
 description: The applications in development or managed by the SSDT
 published: true
-date: 2020-08-28T15:10:27.457Z
+date: 2020-08-28T15:15:50.933Z
 tags: 
 ---
 
@@ -59,8 +59,6 @@ The legacy version of the application can be reached at https://lsf-legacy.berea
 **Repository:** https://bitbucket.org/laborstudents/lsf-flask
 **Setup Documentation:** [README.md](https://bitbucket.org/laborstudents/lsf-flask/src/development/README.md)
 **End User Documentation:**
-
-
 
 
 ## Chemical Inventory Management
