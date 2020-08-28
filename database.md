@@ -2,7 +2,7 @@
 title: Databases
 description: 
 published: true
-date: 2020-07-01T12:46:03.223Z
+date: 2020-08-28T00:58:15.643Z
 tags: 
 ---
 
@@ -64,6 +64,16 @@ Accessing a SQL Server instance from linux requires an extra level of misdirecti
 https://gist.github.com/rduplain/1293636
 
 `sudo apt-get install build-essential libssl-dev libffi-dev python3-dev python3.7-dev freetds-dev freetds-bin unixodbc-dev tdsodbc`
+
+## Oracle
+
+### Client
+To access an existing Oracle database from Ubuntu, you will need to install Oracle instantclient. There is a playbook in the [ansible repo](https://bitbucket.org/laborstudents/ansible_proj/src/master/) that can do this for you. Assuming you are set up to run ansible, run `ansible-playbook --private-key /PATH/TO/PRIVKEY -i SERVER, oracle_client.yml`. Of course, the private key does not have to be specified if ssh knows to use it by default. You may need to use `sudo`, depending on how ansible is set up.
+
+For access from Python, you will also need to install [cx_Oracle](https://cx-oracle.readthedocs.io/en/latest/), `pip install cx_Oracle`.
+
+### Server
+TBD
 
 ## PostgreSQL
 TBD
