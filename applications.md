@@ -2,7 +2,7 @@
 title: Applications
 description: The applications in development or managed by the SSDT
 published: true
-date: 2020-07-10T14:17:30.826Z
+date: 2020-08-28T15:10:27.457Z
 tags: 
 ---
 
@@ -48,25 +48,20 @@ Facilitates scheduling and room selection prior to course entry in Banner.
 ## Labor Status Forms
 Entry and tracking of all labor forms and student labor assignments at Berea.
 
-This is the current production version. The plan is to deprecate this software once the Flask version is live.
-**Point of Contact:** Johauna Gosney <gosneyj@berea.edu>
-**Application Link:** https://labor.berea.edu/forms
-**Production IP(s):** 192.68.112.198
-**Production VM(s):** IIS server hosted and managed by IS&S (contact: Tom House)
-**Available Externally:** Yes
-**Repository:** https://bitbucket.org/laborstudents/labor-status-forms
-**Setup Documentation:** [README.md](https://bitbucket.org/laborstudents/labor-status-forms/src/master/README.md)
-**End User Documentation:**
+The legacy version of the application can be reached at https://lsf-legacy.berea.edu. It is a C# application running on an IIS server at 192.68.112.198 (IT contact: Tom House). The code is at https://bitbucket.org/laborstudents/labor-status-forms.
 
-This is the development version, which is in progress:
 **Point of Contact:** Johauna Gosney <gosneyj@berea.edu>
 **Application Link:** https://lsf.berea.edu
 **Production IP(s):** 192.68.112.111
 **Production VM(s):** IS&S VM
+**Staging IP:** 172.31.2.92
 **Available Externally:** Yes
 **Repository:** https://bitbucket.org/laborstudents/lsf-flask
 **Setup Documentation:** [README.md](https://bitbucket.org/laborstudents/lsf-flask/src/development/README.md)
 **End User Documentation:**
+
+
+
 
 ## Chemical Inventory Management
 Tracks chemicals from the Berea College chemical bunker and their movements to labs around campus.
