@@ -2,7 +2,7 @@
 title: Databases
 description: 
 published: true
-date: 2020-08-31T16:33:49.462Z
+date: 2020-08-31T16:36:37.341Z
 tags: 
 ---
 
