@@ -2,7 +2,7 @@
 title: Databases
 description: 
 published: true
-date: 2020-08-28T01:06:36.644Z
+date: 2020-08-31T16:33:49.462Z
 tags: 
 ---
 
@@ -37,6 +37,15 @@ Replace \<PASS> with the password you want, or with nothing for an empty passwor
 
 ### Using
 https://dev.mysql.com/doc/mysql-getting-started/en/#mysql-getting-started-basic-ops
+
+### Backing Up and Restoring
+To back up a database, dump all of data and objects to a sql file.
+`mysqldump -u root -p database_name > db_backup.sql`
+
+To restore, create the new database and import the sql file.:
+
+    mysql -u root -p -e 'CREATE DATABASE database_name'
+    mysql -u root -p database_name < db_backup.sql
 
 ### Recovering Root Access
 
