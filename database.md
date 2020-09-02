@@ -2,7 +2,7 @@
 title: Databases
 description: 
 published: true
-date: 2020-08-31T16:38:27.071Z
+date: 2020-09-02T13:50:01.092Z
 tags: 
 ---
 
@@ -76,8 +76,8 @@ Accessing a SQL Server instance from linux requires an extra level of misdirecti
 2. Edit `/etc/odbcinst.ini` according to https://gist.github.com/rduplain/1293636
   `[FreeTDS]`
   `Description=FreeTDS Driver`
-  `Driver=/usr/lib/odbc/libtdsodbc.so`
-  `Setup=/usr/lib/odbc/libtdsS.so`
+  `Driver=/usr/lib/x86_64-linux-gnu/odbc/libtdsodbc.so`
+  `Setup=/usr/lib/x86_64-linux-gnu/odbc/libtdsS.so`
 3. Set up the connection for your language. For examples of doing it with pyodbc, SQLAlchemy, and Flask-SQLAlchemy, check out `db_test.py` in the LSF repo: https://bitbucket.org/laborstudents/lsf-flask/src/development/db_test.py 
 
 ## Oracle
