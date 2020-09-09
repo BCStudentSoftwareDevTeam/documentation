@@ -2,7 +2,7 @@
 title: Applications
 description: The applications in development or managed by the SSDT
 published: true
-date: 2020-08-28T15:15:50.933Z
+date: 2020-09-09T19:07:23.427Z
 tags: 
 ---
 
@@ -132,12 +132,13 @@ Keeps track of art and artifacts both on and off-campus.
 `<NEED DESCRIPTION>`
 
 **Point of Contact:** Christopher A. Miller <millerc@berea.edu>
-**Application Link:** http://172.31.3.117/
-**Production IP(s):** 172.31.3.117
-**Production VM(s):** CS VM - loyalJones0
+**Application Link:** https://ljacatc.berea.edu/
+**Production IP(s):** 192.68.112.80
+**Production VM(s):** IS&S VM
 **Available Externally:** No
 **Repository:** https://github.com/collectiveaccess/providence.git
 **Setup Documentation:** [README.md](https://github.com/collectiveaccess/providence/blob/master/README.md)
+http://ssdt-documentation.berea.edu/en/applications/collective-access
 **End User Documentation:**
 
 ## SSDT Documentation
