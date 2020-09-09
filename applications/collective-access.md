@@ -2,7 +2,7 @@
 title: Collective Access
 description: Applications based on the open-source Collective Access application
 published: true
-date: 2020-09-09T18:46:07.631Z
+date: 2020-09-09T18:47:11.334Z
 tags: php
 ---
 
@@ -28,7 +28,7 @@ Installation guide (rough version):
 ## Migrate the db:
 1. Export full db from old server. I prefer through phpmyadmin.
 2. Import full db to new server. It’s likely large if it’s ljacatc/bcac, so I recommend doing the import itself via mysql commands on CLI: 
-2.a. create the database in MySQL (phpmyadmin)
+2.a. create the database in MySQL (in phpmyadmin, or with create <dbname> command in mysql cli)
 2.b. From CLI: mysql -u username -p new_database < data-dump.sql 
 
 ## Migrate the application code:
