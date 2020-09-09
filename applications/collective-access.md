@@ -2,7 +2,7 @@
 title: Collective Access
 description: Applications based on the open-source Collective Access application
 published: true
-date: 2020-09-09T18:14:00.773Z
+date: 2020-09-09T18:46:07.631Z
 tags: php
 ---
 
@@ -22,7 +22,7 @@ Installation guide (rough version):
 7. Install curl: sudo apt-get install curl
 8. Install php-curl: sudo apt-get install php-curl
 9. Install Ziparchive: sudo apt-get install php-zip
-10. Install ntp (for time skew problem in shib: sudo apt-get install ntp
+10. Install ntp (for time skew problem in shib): sudo apt-get install ntp
 10.a. Fix the server’s timezone: sudo dpkg-reconfigure tzdata
 
 ## Migrate the db:
