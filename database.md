@@ -2,7 +2,7 @@
 title: Databases
 description: 
 published: true
-date: 2020-09-02T13:50:01.092Z
+date: 2020-09-09T19:52:15.657Z
 tags: 
 ---
 
@@ -71,6 +71,7 @@ At the mysql prompt:
 
 Accessing a SQL Server instance from linux requires an extra level of misdirection, FreeTDS.
 
+### Ubuntu
 1. Install the necessary packages:
   `sudo apt-get install build-essential libssl-dev libffi-dev python3-dev python3.7-dev freetds-dev freetds-bin unixodbc-dev tdsodbc`
 2. Edit `/etc/odbcinst.ini` according to https://gist.github.com/rduplain/1293636
@@ -78,6 +79,18 @@ Accessing a SQL Server instance from linux requires an extra level of misdirecti
   `Description=FreeTDS Driver`
   `Driver=/usr/lib/x86_64-linux-gnu/odbc/libtdsodbc.so`
   `Setup=/usr/lib/x86_64-linux-gnu/odbc/libtdsS.so`
+3. Set up the connection for your language. For examples of doing it with pyodbc, SQLAlchemy, and Flask-SQLAlchemy, check out `db_test.py` in the LSF repo: https://bitbucket.org/laborstudents/lsf-flask/src/development/db_test.py 
+
+### Mac OS
+1. Install the necessary packages
+  `brew install unixodbc`
+  `brew install freetds`
+2. Edit `/usr/local/etc/odbcinst.ini`
+  `[FreeTDS]`
+  `Description=FreeTDS Driver`
+  `Driver = /usr/local/lib/libtdsodbc.so`
+  `Setup = /usr/local/lib/libtdsodbc.so`
+  `FileUsage = 1`
 3. Set up the connection for your language. For examples of doing it with pyodbc, SQLAlchemy, and Flask-SQLAlchemy, check out `db_test.py` in the LSF repo: https://bitbucket.org/laborstudents/lsf-flask/src/development/db_test.py 
 
 ## Oracle
