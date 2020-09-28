@@ -122,6 +122,7 @@ We need to do these things eventually, either for our applications' sake or our 
   * CPU, memory, storage
 * Clean up unused VMs
 * https://github.com/kimchi-project/kimchi?
+* virt-manager
 
 ## Application Accessibility
 * Analyze application for accessibility issues
