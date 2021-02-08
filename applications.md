@@ -2,24 +2,12 @@
 title: Applications
 description: The applications in development or managed by the SSDT
 published: true
-date: 2020-09-09T19:09:39.597Z
+date: 2021-02-08T16:55:13.291Z
 tags: 
 ---
 
 # Our applications
 These applications are directly developed by our team.
-
-## Advancement Office
-Manages requests for institutional data.
-
-**Point of Contact:** Dorothy Morgan <morgando@berea.edu>, Sue Johns <johnss@berea.edu>
-**Application Link:** https://advancement.berea.edu
-**Production IP(s):** 172.31.2.146
-**Production VM(s):** CS - advancement
-**Available Externally:** No
-**Repository:** https://bitbucket.org/laborstudents/advancementoffice
-**Setup Documentation:** [README.md](https://bitbucket.org/laborstudents/advancementoffice/src/development/README.md)
-**End User Documentation:**
 
 ## Berea College Syllabus Repository
 Stores all course syllabi across campus for SACSCOC compliance.
@@ -152,3 +140,23 @@ All of the documentation for our team and applications is contained in Wiki.js. 
 **Repository:** N/A
 **Setup Documentation:** 
 **End User Documentation:**
+
+# Retired Applications
+These are applications that were developed by the student programmers but have been removed from service.
+
+## Advancement Office
+Manages requests for institutional data.
+
+**Point of Contact:** Dorothy Morgan <morgando@berea.edu>, Sue Johns <johnss@berea.edu>
+**Application Link:** https://advancement.berea.edu
+**Production IP(s):** 172.31.2.146
+**Production VM(s):** CS - advancement
+**Available Externally:** No
+**Repository:** https://bitbucket.org/laborstudents/advancementoffice
+**Setup Documentation:** [README.md](https://bitbucket.org/laborstudents/advancementoffice/src/development/README.md)
+**End User Documentation:**
+
+## LSF in C#
+Entry and tracking of all labor forms and student labor assignments at Berea.
+
+The legacy version of the application can be reached at https://lsf-legacy.berea.edu. It is a C# application running on an IIS server at 192.68.112.198 (IT contact: Tom House). The code is at https://bitbucket.org/laborstudents/labor-status-forms.
