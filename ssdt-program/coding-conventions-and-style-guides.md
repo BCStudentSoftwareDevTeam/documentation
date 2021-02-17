@@ -2,13 +2,11 @@
 title: Coding Conventions and Style Guide
 description: Gives a brief summary of JavaScript and Python Coding Conventions and links to resources on the topic. 
 published: true
-date: 2021-02-17T15:40:07.201Z
+date: 2021-02-17T15:53:07.299Z
 tags: guidelines
 ---
 
-# Coding Conventions and Style Guide
-
-## JavaScript Style Guide 
+# JavaScript Style Guide 
 
 **Below is a summary of coding conventions and style guides discussed in the [W3 School Style Guide](https://www.w3schools.com/js/js_conventions.asp) and [JavaScript Code Convention and Best Practices](https://coursework.vschool.io/javascript-code-conventions/) articles. Make sure to read those two articles, and come back to them when you have questions.**
 
@@ -54,3 +52,9 @@ var instruments = ["guitar", "drums", "bass", "keyboard"];
 ```
 var animal = {type: "cow"})
 ```
+
+# Python Style Guide 
+PEP 8 is a style guide for Python code. We follow the PEP 8 guidelines to write more readable code. 
+
+Make sure to read [PEP 8: The Style Guide for Python Code](https://pep8.org/) before coding. 
+
