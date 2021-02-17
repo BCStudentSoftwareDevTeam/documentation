@@ -2,16 +2,16 @@
 title: Coding Conventions and Style Guide
 description: Gives a brief summary of JavaScript and Python Coding Conventions and links to resources on the topic. 
 published: true
-date: 2021-02-17T15:54:26.632Z
+date: 2021-02-17T16:01:31.799Z
 tags: guidelines
 ---
 
 # JavaScript Style Guide 
 
-**Below is a summary of coding conventions and style guides discussed in the [W3 School Style Guide](https://www.w3schools.com/js/js_conventions.asp) and [JavaScript Code Convention and Best Practices](https://coursework.vschool.io/javascript-code-conventions/) articles. Make sure to read those two articles, and come back to them when you have questions.**
+**Below is the basics of JavaScript coding conventions and style guides discussed in the [W3 School Style Guide](https://www.w3schools.com/js/js_conventions.asp) and [JavaScript Code Convention and Best Practices](https://coursework.vschool.io/javascript-code-conventions/) articles. Make sure to read those two articles, and come back to them when you have questions.**
 
 
-### JavaScript Style Guide Summary
+### JavaScript Style Guide Basics
 
 1. Write variable and function names in camelCase. 
 1. All names have to start with a letter. 
