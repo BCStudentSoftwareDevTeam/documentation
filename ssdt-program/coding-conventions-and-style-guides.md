@@ -2,7 +2,7 @@
 title: Coding Conventions and Style Guide
 description: Gives a brief summary of JavaScript and Python Coding Conventions and links to resources on the topic. 
 published: true
-date: 2021-02-17T15:53:07.299Z
+date: 2021-02-17T15:54:26.632Z
 tags: guidelines
 ---
 
@@ -54,7 +54,7 @@ var animal = {type: "cow"})
 ```
 
 # Python Style Guide 
-PEP 8 is a style guide for Python code. We follow the PEP 8 guidelines to write more readable code. 
+**PEP 8 is a style guide for Python code. We follow the PEP 8 guidelines to write more readable code.** 
 
-Make sure to read [PEP 8: The Style Guide for Python Code](https://pep8.org/) before coding. 
+**Make sure to read [PEP 8: The Style Guide for Python Code](https://pep8.org/) before coding.** 
 
