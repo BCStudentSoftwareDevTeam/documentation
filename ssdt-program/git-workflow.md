@@ -2,13 +2,16 @@
 title: Git Workflow
 description: 
 published: true
-date: 2021-04-06T15:56:00.346Z
+date: 2021-04-06T15:58:25.197Z
 tags: 
 ---
 
 # Git Workflow
 
-**Creating a new branch:**
+**[Git Cheat Sheet](https://about.gitlab.com/images/press/git-cheat-sheet.pdf) for your reference.** 
+
+
+**1. Creating a new branch:**
 
 The first three commands are to make sure your branch will be up to date with the development branch. 
 ```
@@ -21,7 +24,7 @@ The first three commands are to make sure your branch will be up to date with th
 4. git checkout -b BRANCH_NAME
 ```
 
-**Add, Commit, and Push:**
+**2. Add, Commit, and Push:**
 ```
 1. git status 
 
@@ -36,7 +39,7 @@ The first three commands are to make sure your branch will be up to date with th
 git add app*
 ```
 
-**Steps to take before creating a Pull Request:**
+**3. Steps to take before creating a Pull Request:**
 Make sure your branch is up to date with development 
 ```
 1. git checkout development 
@@ -48,10 +51,10 @@ Make sure your branch is up to date with development
 4. git merge development
 ```
 
-**Fix Merge Conflicts:**
+**4. Fix Merge Conflicts:**
 If there are merge conflicts between your branch and development, make sure to fix those. It is important to ask other developers about which code to keep. We do not want to delete other people's code. 
 Fixing merge conflict does not only speed up the review process, but it makes sure your code works with the existing code in the development. 
 
-**Create Pull Request:**
+**5. Create Pull Request:**
 Finally, go to Bitbucket and [create a PR](/ssdt-program/pull-request), tagging the reviewers and leaving useful and clear comments for easy review and merging. 
 
