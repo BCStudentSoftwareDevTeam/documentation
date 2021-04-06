@@ -2,7 +2,7 @@
 title: Git Workflow
 description: 
 published: true
-date: 2021-04-06T15:30:29.893Z
+date: 2021-04-06T15:31:07.242Z
 tags: 
 ---
 
@@ -24,8 +24,11 @@ The first three commands are to make sure your branch will be up to date with th
 **Add, Commit, and Push:**
 ```
 1. git status 
+
 2. git add CHANGED_FILE_DIRECTORY_NAME
+
 3. git commit -m "USEFUL_MESSAGE_DESCRIBING_THE_CHANGES"
+
 4. git push origin BRANCH_NAME
 ```
 *Tip: In step 2, instead of adding each file separately you can do the following. It means add all ( * ) the directories that start with (app)*
@@ -37,8 +40,11 @@ git add app*
 Make sure your branch is up to date with development 
 ```
 1. git checkout development 
+
 2. git pull origin development 
+
 3. git checkout BRANCH_NAME
+
 4. git merge development
 ```
 If there are merge conflicts between your branch and development, make sure to fix those. It is important to ask other developers about which code to keep. We do not want to delete other people's code. 
