@@ -2,7 +2,7 @@
 title: Git Workflow
 description: 
 published: true
-date: 2021-04-06T15:58:25.197Z
+date: 2021-04-06T16:09:05.763Z
 tags: 
 ---
 
@@ -34,10 +34,16 @@ The first three commands are to make sure your branch will be up to date with th
 
 4. git push origin BRANCH_NAME
 ```
-*Tip: In step 2, instead of adding each file separately you can do the following. It means add all ( * ) the directories that start with (app)*
+*Tip 1: In step 2, instead of adding each file separately you can do the following. It means add all ( * ) the directories that start with (app)*
 ```
 git add app*
 ```
+
+*Tip 2: If you want to check the difference between the original file and the new changes you have made, run the following command:*
+```
+git diff
+```
+
 
 **3. Steps to take before creating a Pull Request:**
 Make sure your branch is up to date with development 
