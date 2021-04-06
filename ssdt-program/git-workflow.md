@@ -2,7 +2,7 @@
 title: Git Workflow
 description: 
 published: true
-date: 2021-04-06T15:55:15.784Z
+date: 2021-04-06T15:56:00.346Z
 tags: 
 ---
 
@@ -36,7 +36,7 @@ The first three commands are to make sure your branch will be up to date with th
 git add app*
 ```
 
-**Steps before creating a Pull Request:**
+**Steps to take before creating a Pull Request:**
 Make sure your branch is up to date with development 
 ```
 1. git checkout development 
