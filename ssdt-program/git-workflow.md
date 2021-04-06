@@ -2,7 +2,7 @@
 title: Git Workflow
 description: 
 published: true
-date: 2021-04-06T15:31:31.538Z
+date: 2021-04-06T15:44:29.288Z
 tags: 
 ---
 
@@ -49,5 +49,5 @@ Make sure your branch is up to date with development
 ```
 If there are merge conflicts between your branch and development, make sure to fix those. It is important to ask other developers about which code to keep. We do not want to delete other people's code. 
 
-Finally, go to Bitbucket and create a PR, tagging the reviewers and leaving useful and clear comments for easy review and merging. 
+Finally, go to Bitbucket and [create a PR](/ssdt-program/pull-request), tagging the reviewers and leaving useful and clear comments for easy review and merging. 
 
