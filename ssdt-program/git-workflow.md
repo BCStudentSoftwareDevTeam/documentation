@@ -2,7 +2,7 @@
 title: Git Workflow
 description: 
 published: true
-date: 2021-04-06T15:44:29.288Z
+date: 2021-04-06T15:55:15.784Z
 tags: 
 ---
 
@@ -47,7 +47,11 @@ Make sure your branch is up to date with development
 
 4. git merge development
 ```
-If there are merge conflicts between your branch and development, make sure to fix those. It is important to ask other developers about which code to keep. We do not want to delete other people's code. 
 
+**Fix Merge Conflicts:**
+If there are merge conflicts between your branch and development, make sure to fix those. It is important to ask other developers about which code to keep. We do not want to delete other people's code. 
+Fixing merge conflict does not only speed up the review process, but it makes sure your code works with the existing code in the development. 
+
+**Create Pull Request:**
 Finally, go to Bitbucket and [create a PR](/ssdt-program/pull-request), tagging the reviewers and leaving useful and clear comments for easy review and merging. 
 
