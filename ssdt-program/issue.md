@@ -2,7 +2,7 @@
 title: What Should My Issue Look Like?
 description: 
 published: true
-date: 2021-04-07T15:34:06.067Z
+date: 2021-04-19T14:44:01.118Z
 tags: 
 ---
 
@@ -13,3 +13,8 @@ Before adding a new issue to the issue queue, make sure you are following the gu
 1. Have an informative description about the issue
 1. Include files that may be associated with the issue
 1. Include possible solutions (If applicable)
+
+**Issue Example** 
+For more examples go to Issues in Bitbucket. 
+
+![capture.png](/capture.png)
