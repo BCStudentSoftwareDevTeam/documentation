@@ -2,7 +2,7 @@
 title: Applications
 description: The applications in development or managed by the SSDT
 published: true
-date: 2021-02-08T16:55:13.291Z
+date: 2021-04-22T20:05:24.690Z
 tags: 
 ---
 
@@ -113,7 +113,7 @@ Keeps track of art and artifacts both on and off-campus.
 **Production VM(s):** IS&S VM
 **Available Externally:** Yes
 **Repository:** https://bitbucket.org/laborstudents/art-archives/
-**Setup Documentation:** [README.md](https://bitbucket.org/laborstudents/art-archives/src/master/README.md)
+**Setup Documentation:** [README.md](https://bitbucket.org/laborstudents/art-archives/src/master/README.md) and [bcac_sftp](bcac_sftp)
 **End User Documentation:**
 
 ## Loyal Jones Collective Access
