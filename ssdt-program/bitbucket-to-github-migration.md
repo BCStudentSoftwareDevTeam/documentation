@@ -2,7 +2,7 @@
 title: Bitbucket to Github Migration
 description: 
 published: true
-date: 2021-04-28T15:48:44.230Z
+date: 2021-04-28T16:10:20.039Z
 tags: 
 ---
 
@@ -62,7 +62,7 @@ python migrate.py --map-user users_mapping_file.txt --bb-user bitbucket_username
 **Important Note: After running the command you will be prompted to write your bitbucket and github passwords. 
 You can write your bibucket password like you would in Mobaxterm. However, for github password you need to [generate a token](https://docs.github.com/en/github/authenticating-to-github/creating-a-personal-access-token). You might have to manually type in the token every time you are asked for the password. In my case, copy-pasting did not work**
 
-**Example: Migrating URCPP**
+### Example: Migrating URCPP
 1. First migrating the repository
 ```   
 git clone --mirror https://manalaih@bitbucket.org/laborstudents/urcpp-flask.git
@@ -81,8 +81,9 @@ cd bitbucket-issue-migration
 python migrate.py --map-user urcpp_users_mapping_file.txt --bb-user manalaih laborstudents/urcpp-flask BCStudentSoftwareDevTeam/urcpp hmanalai
 ```
 
-
-
+### User mapping
+I have collected these user mappings so far.
+[ssdt_users_mapping.txt](/ssdt_users_mapping.txt)
 
 
 
