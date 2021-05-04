@@ -2,7 +2,7 @@
 title: Bitbucket to Github Migration
 description: 
 published: true
-date: 2021-04-28T16:10:45.558Z
+date: 2021-05-04T17:02:33.083Z
 tags: 
 ---
 
@@ -83,7 +83,7 @@ python migrate.py --map-user urcpp_users_mapping_file.txt --bb-user manalaih lab
 
 
 
-
+[ssdt_users_mapping.txt](/ssdt_users_mapping.txt)
 
 
 
