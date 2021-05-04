@@ -2,7 +2,7 @@
 title: Bitbucket to Github Migration
 description: 
 published: true
-date: 2021-05-04T17:09:25.798Z
+date: 2021-05-04T17:19:53.541Z
 tags: 
 ---
 
@@ -10,7 +10,7 @@ tags:
 
 ### Migrating the Repository
 
-1. Create an empty repository in github. Make sure there are no starter files such as README. 
+1. Create an empty repository in github. Make sure there are no starter files such as README, and make sure the repository is public (we will need it to be public for the issue migration script).
 
 2. Take a mirror clone of the bitbucket repository and push the mirror to github. 
 ```
@@ -29,6 +29,9 @@ git remote update
 ```
 
 ### Migrating Repository Issues
+
+**Before starting this process, make sure the issue tracker in Bitbucket is set made public. The script does not work for private issue trackers.** 
+
 The code we will be using for migrating repositories is an open-source [Bitbucket Issues Migration](https://github.com/jeffwidman/bitbucket-issue-migration) tool. For more details about the project you can checkout their repository. 
 
 1. First, go to the [repository](https://github.com/jeffwidman/bitbucket-issue-migration) and clone the repo.
