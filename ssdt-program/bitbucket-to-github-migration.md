@@ -2,7 +2,7 @@
 title: Bitbucket to Github Migration
 description: 
 published: true
-date: 2021-05-04T17:02:33.083Z
+date: 2021-05-04T17:06:54.391Z
 tags: 
 ---
 
@@ -82,6 +82,8 @@ python migrate.py --map-user urcpp_users_mapping_file.txt --bb-user manalaih lab
 ```
 
 
+### SSDT Members' Github-to-Bitbucket Username Mapping File
+After making sure all the username mapping are correct, copy-paste this list to a `.txt.` file that is located in the same folder as the migrations script or in `bitbucket-issue-migration` folder.
 
 [ssdt_users_mapping.txt](/ssdt_users_mapping.txt)
 
