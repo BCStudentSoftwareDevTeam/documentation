@@ -2,7 +2,7 @@
 title: Bitbucket to Github Migration
 description: 
 published: true
-date: 2021-05-04T17:19:53.541Z
+date: 2021-05-04T17:20:31.534Z
 tags: 
 ---
 
@@ -30,7 +30,7 @@ git remote update
 
 ### Migrating Repository Issues
 
-**Before starting this process, make sure the issue tracker in Bitbucket is set made public. The script does not work for private issue trackers.** 
+**Before starting this process, make sure the issue tracker in Bitbucket is public. The script does not work for private issue trackers.** 
 
 The code we will be using for migrating repositories is an open-source [Bitbucket Issues Migration](https://github.com/jeffwidman/bitbucket-issue-migration) tool. For more details about the project you can checkout their repository. 
 
