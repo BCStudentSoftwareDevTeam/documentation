@@ -2,9 +2,13 @@
 title: Coding Conventions and Style Guide
 description: Gives a brief summary of JavaScript and Python Coding Conventions and links to resources on the topic. 
 published: true
-date: 2021-02-17T16:01:31.799Z
+date: 2021-05-05T15:14:42.471Z
 tags: guidelines
 ---
+
+# HTML and CSS Style Guide
+We will be using [BEM (Block, Element, Modifer)](https://en.bem.info/methodology/quick-start/) coding conventions for HTML and CSS, with an emphasis on the [Naming Conventions](https://en.bem.info/methodology/naming-convention/). 
+Additionally, refer to [BEM CSS Documentation](https://en.bem.info/methodology/css/) and [BEM HTML Documentation](https://en.bem.info/methodology/html/) as a reference when you are coding. 
 
 # JavaScript Style Guide 
 
