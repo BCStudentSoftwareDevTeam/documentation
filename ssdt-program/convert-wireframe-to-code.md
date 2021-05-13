@@ -2,7 +2,7 @@
 title: Convert a Wireframe to Code
 description: 
 published: true
-date: 2021-05-13T15:59:34.357Z
+date: 2021-05-13T16:00:25.362Z
 tags: 
 ---
 
@@ -67,11 +67,11 @@ For this example, I will just write the HTML code. However, in real life we woul
 ```
 <!DOCTYPE html>
 	<html>
-		<body>
+	 <body>
     	<h1>The form element</h1>
       	<form action="/home" method='post'>
           <div>
-            <label for="full-name">First name</label><br/>
+            <label for="full-name">Full Name</label><br/>
             <input type="text" id="full-name" name='full-name'>
           </div>
           <div>
