@@ -2,7 +2,7 @@
 title: Convert a Wireframe to Code
 description: 
 published: true
-date: 2021-05-13T16:00:25.362Z
+date: 2021-05-13T16:01:51.167Z
 tags: 
 ---
 
@@ -131,8 +131,7 @@ def store_form_data():
                        end_time = end_time)
 ```
 
-
-
+That's it! At this point, the data should be saved in the database.
 
 
 
