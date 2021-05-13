@@ -2,7 +2,7 @@
 title: Convert a Wireframe to Code
 description: 
 published: true
-date: 2021-05-13T16:01:51.167Z
+date: 2021-05-13T16:24:26.097Z
 tags: 
 ---
 
@@ -115,8 +115,8 @@ def store_form_data():
   This function retireves the form data from frontend and populates the database with the data. 
   '''
   
-	# Retrieve all the data from View
-	data = request.form
+  # Retrieve all the data from View
+  data = request.form
   full_name = data.get("full-name")
   error_type = data.get("type-of-error")
   correction_date = data.get("correction-date")
