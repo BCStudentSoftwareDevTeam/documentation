@@ -2,7 +2,7 @@
 title: Convert a Wireframe to Code
 description: 
 published: true
-date: 2021-05-13T15:52:51.854Z
+date: 2021-05-13T15:59:34.357Z
 tags: 
 ---
 
