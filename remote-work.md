@@ -2,7 +2,7 @@
 title: Remote Work
 description: 
 published: true
-date: 2020-05-07T19:18:31.854Z
+date: 2021-06-01T14:20:19.988Z
 tags: 
 ---
 
@@ -25,7 +25,7 @@ If you are set up for local development, you can avoid using a VPN.
 
 #### Atom + Teletype
 
-The editor [Atom](atom.io) has a plugin called [Teletype](https://teletype.atom.io/) that enables collaboration on individual files. It requires a GitHub login to work. 
+The editor [Atom](https://atom.io) has a plugin called [Teletype](https://teletype.atom.io/) that enables collaboration on individual files. It requires a GitHub login to work. 
 
 Once you have installed the plugin:
 * Click the teletype radio tower icon in the bottom right of your editor
