@@ -2,7 +2,7 @@
 title: Virtual Machine Management
 description: Creating, Maintaining, and Destroying Virtual Machines
 published: true
-date: 2021-06-02T14:47:57.713Z
+date: 2021-06-02T15:06:30.376Z
 tags: infra
 ---
 
@@ -13,12 +13,12 @@ Sometimes the initial size of a VM's storage was too small and it is necessary t
 
 If the partition table uses logical partitions inside an Extended partition (partition number starts with 5 or higher - e.g., `/dev/sda5`), you cannot use `virt-resize`. Unfortunately, this is how the Ubuntu 20.04 image from `virt-builder` is set up, so partitions on those machines have to be resized manually.
 
-This is an example partition table that `virt-resize` **CAN** mess with:
+This is an example partition table that `virt-resize` **CAN** expand:
 
     Device     Boot Start      End  Sectors Size Id Type
     /dev/vda1  *     2048 12580863 12578816   6G 83 Linux
 
-This is an example partition table that `virt-resize` **CANNOT** mess with:
+This is an example partition table that `virt-resize` **CANNOT** expand:
 
     Device     Boot   Start      End  Sectors  Size Id Type
     /dev/vda1  *       2048  1050623  1048576  512M  b W95 FAT32
