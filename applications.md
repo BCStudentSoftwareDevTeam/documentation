@@ -2,8 +2,10 @@
 title: Applications
 description: The applications in development or managed by the SSDT
 published: true
-date: 2021-04-22T20:05:24.690Z
+date: 2021-09-28T14:09:22.317Z
 tags: 
+editor: markdown
+dateCreated: 2019-10-04T20:30:08.140Z
 ---
 
 # Our applications
@@ -117,7 +119,7 @@ Keeps track of art and artifacts both on and off-campus.
 **End User Documentation:**
 
 ## Loyal Jones Collective Access
-`<NEED DESCRIPTION>`
+Inventory and catalog of physical artifacts in the Loyal Jones Appalachian Center.
 
 **Point of Contact:** Christopher A. Miller <millerc@berea.edu>
 **Application Link:** https://ljacatc.berea.edu/
