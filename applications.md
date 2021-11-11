@@ -2,7 +2,7 @@
 title: Applications
 description: The applications in development or managed by the SSDT
 published: true
-date: 2021-09-28T14:09:22.317Z
+date: 2021-11-11T19:46:18.487Z
 tags: 
 editor: markdown
 dateCreated: 2019-10-04T20:30:08.140Z
@@ -31,8 +31,8 @@ Facilitates scheduling and room selection prior to course entry in Banner.
 **Production IP(s):** 192.68.112.108
 **Production VM(s):** IS&S VM
 **Available Externally:** Yes
-**Repository:** https://bitbucket.org/laborstudents/cas-flask
-**Setup Documentation:** [README.md](https://bitbucket.org/laborstudents/cas-flask/src/development/README.md)
+**Repository:** https://github.com/BCStudentSoftwareDevTeam/cas
+**Setup Documentation:** [README.md](https://github.com/BCStudentSoftwareDevTeam/cas#readme)
 **End User Documentation:**
 
 ## Labor Status Forms
@@ -90,17 +90,16 @@ Collects proposals for summer projects and provides tools for review by the comm
 **End User Documentation:**
 
 
-
-## CELTS Time Tracker
-Records volunteer, labor, and service learning hours for CELTS across different projects, events, classes and teams. *In Progress*
+## CELTS Manager
+Records volunteer, labor, and service learning hours for CELTS participants across different projects, events, classes and teams. *In Progress*
 
 **Point of Contact:** Ashley Cochrane <cochranea@berea.edu>
-**Application Link:** Google Spreadsheet
+**Application Link:** N/A
 **Production IP(s):** N/A
 **Production VM(s):** N/A
 **Available Externally:** N/A
-**Repository:** https://bitbucket.org/laborstudents/celts-tracker-google-app-script/
-**Setup Documentation:** [README.md](https://bitbucket.org/laborstudents/celts-tracker-google-app-script/src/master/README.md)
+**Repository:** https://github.com/BCStudentSoftwareDevTeam/celts
+**Setup Documentation:** [README.md](https://github.com/BCStudentSoftwareDevTeam/celts#readme)
 **End User Documentation:** [Wiki](celts)
 
 # Supported applications
@@ -162,3 +161,16 @@ Manages requests for institutional data.
 Entry and tracking of all labor forms and student labor assignments at Berea.
 
 The legacy version of the application can be reached at https://lsf-legacy.berea.edu. It is a C# application running on an IIS server at 192.68.112.198 (IT contact: Tom House). The code is at https://bitbucket.org/laborstudents/labor-status-forms.
+
+
+## CELTS Time Tracker
+Records volunteer, labor, and service learning hours for CELTS across different projects, events, classes and teams. *In Progress*
+
+**Point of Contact:** Ashley Cochrane <cochranea@berea.edu>
+**Application Link:** Google Spreadsheet
+**Production IP(s):** N/A
+**Production VM(s):** N/A
+**Available Externally:** N/A
+**Repository:** https://bitbucket.org/laborstudents/celts-tracker-google-app-script/
+**Setup Documentation:** [README.md](https://bitbucket.org/laborstudents/celts-tracker-google-app-script/src/master/README.md)
+**End User Documentation:** [Wiki](celts)
