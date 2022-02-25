@@ -2,8 +2,10 @@
 title: Infrastructure
 description: Details of our network and servers
 published: true
-date: 2019-10-17T17:23:09.067Z
+date: 2022-02-25T15:25:51.134Z
 tags: 
+editor: markdown
+dateCreated: 2019-10-15T16:42:57.959Z
 ---
 
 # Physical Servers
@@ -50,3 +52,12 @@ Our physical and virtual servers are provisioned with Ansible. [View Ansible rep
 Instructions for use can be found in the [README](https://bitbucket.org/laborstudents/ansible_proj/src/master/README.md).
 
 ## libvirt
+
+We use `virt-builder`, `virt-install`, and `virt-customize` to modify virtual machine images in place.
+
+There is currently a problem with these `libguestfs` tools, where they can't resize logical partitions. This means we have to manually resize our base image after creation, rather than being able to have it happen automatically in a script. Here are the steps to resize the disk:
+
+* Resize the disk (located in `/var/lib/libvirt/images/`): `qemu-img resize base.img 32G`
+* Start the VM and log in
+* Expand the partitions: https://unix.stackexchange.com/a/320454
+* Resize the filesystem: `resize2fs /dev/vda5`
