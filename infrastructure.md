@@ -2,7 +2,7 @@
 title: Infrastructure
 description: Details of our network and servers
 published: true
-date: 2022-02-25T15:25:51.134Z
+date: 2022-03-01T20:22:13.217Z
 tags: 
 editor: markdown
 dateCreated: 2019-10-15T16:42:57.959Z
@@ -19,6 +19,8 @@ dateCreated: 2019-10-15T16:42:57.959Z
 	* Labor Status Forms
 	* Chemical Inventory
 	* URCPP
+  * Ulmann Archives
+  * Loyal Jones Appalachian Center
 * New VMs created by request to IS&S
 
 ## CS - production VM hypervisor
