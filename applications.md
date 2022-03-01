@@ -2,7 +2,7 @@
 title: Applications
 description: The applications in development or managed by the SSDT
 published: true
-date: 2021-11-11T19:46:18.487Z
+date: 2022-03-01T20:41:46.099Z
 tags: 
 editor: markdown
 dateCreated: 2019-10-04T20:30:08.140Z
@@ -95,8 +95,9 @@ Records volunteer, labor, and service learning hours for CELTS participants acro
 
 **Point of Contact:** Ashley Cochrane <cochranea@berea.edu>
 **Application Link:** N/A
-**Production IP(s):** N/A
-**Production VM(s):** N/A
+**Production IP(s):** 192.68.112.131
+**Staging IP:** N/A
+**Production VM(s):** IS&S VM
 **Available Externally:** N/A
 **Repository:** https://github.com/BCStudentSoftwareDevTeam/celts
 **Setup Documentation:** [README.md](https://github.com/BCStudentSoftwareDevTeam/celts#readme)
@@ -122,7 +123,7 @@ Inventory and catalog of physical artifacts in the Loyal Jones Appalachian Cente
 
 **Point of Contact:** Christopher A. Miller <millerc@berea.edu>
 **Application Link:** https://ljacatc.berea.edu/
-**Production IP(s):** 192.68.112.80
+**Production IP(s):** 192.68.112.80 (new VM: 192.68.112.130)
 **Production VM(s):** IS&S VM
 **Available Externally:** Yes
 **Repository:** https://github.com/collectiveaccess/providence.git
