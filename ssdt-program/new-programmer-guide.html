@@ -2,7 +2,7 @@
 title: New Programmer Guide
 description: 
 published: true
-date: 2022-03-24T21:09:47.146Z
+date: 2022-03-24T21:29:42.024Z
 tags: 
 editor: ckeditor
 dateCreated: 2021-04-03T20:20:08.415Z
@@ -17,7 +17,7 @@ dateCreated: 2021-04-03T20:20:08.415Z
 </ul>
 <p><span class="text-small"><i>* The articles include links at the top. Scroll past them to the article. Feel free to go back to those links for more context after reading the main article.</i></span></p>
 <h2>Model View Controller</h2>
-<p>In SSDT, we use the <a href="https://www.tutorialspoint.com/mvc_framework/mvc_framework_introduction.htm"><u>Model View Controller</u></a> (MVC) framework for developing applications. MVC is a common way to separate the application into three logical units (1) the data-related logic (Model), (2) User Interface logic (View), (3) and business or request logic (Controller):&nbsp;</p>
+<p>In SSDT, we use the <a href="https://www.tutorialspoint.com/mvc_framework/mvc_framework_introduction.htm"><u>Model View Controller</u></a> (MVC) framework for developing applications. MVC is a common way to separate the application into three logical units (1) the data-handling and business logic (Model), (2) User Interface logic (View), (3) and input and request logic (Controller):&nbsp;</p>
 <figure class="image"><img src="https://lh5.googleusercontent.com/I-mOt_UsWHaTeP4L4Kd8Oc6vRNX474dTe-9PiQXR1AZe4G8YhNS0XWy9lvFp0gMw3Krvdjm85_XUaTTQf9wLnoIub7IPOzqgF-Y2dEx83RlgXt89MQGro2wUZPZWjQuBTWAzXZR9"></figure>
 <p style="text-align:center;"><span class="text-small"><i>Image Source: https://i.ytimg.com/vi/CPBqBA2qK8U/maxresdefault.jpg</i></span></p>
 <p>Following the diagram above, we can see that the <strong>User</strong> interacts with the <strong>View</strong>. The <strong>User</strong> might take an <i>Action</i> in the <strong>View</strong>, which triggers the <strong>Controller</strong>. The <strong>Controller</strong> might need to <i>Update</i> data via the <strong>Model</strong>, so the <strong>Model</strong> then makes the change in the database. After the change is made, the <strong>Controller</strong> is <i>Notified</i> of the change, which then <i>Updates</i> the <strong>View</strong> to the <strong>User</strong>.&nbsp;</p>
