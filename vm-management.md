@@ -2,8 +2,10 @@
 title: Virtual Machine Management
 description: Creating, Maintaining, and Destroying Virtual Machines
 published: true
-date: 2021-06-02T15:06:30.376Z
+date: 2022-09-14T19:13:16.966Z
 tags: infra
+editor: markdown
+dateCreated: 2021-06-02T14:47:57.713Z
 ---
 
 # Common Tasks
@@ -48,11 +50,11 @@ You can get a view into the disk image without booting the VM with `virt-filesys
 3. Rename the old image (for backup purposes) and rename the new image to replace the old one.
 4. Boot into the VM
 5. To resize without rebooting, follow the steps in https://medium.com/100-days-of-linux/how-to-resize-a-linux-root-file-system-af3e5096b4e4
-    a. Using `fdisk`, delete and recreate the main filesystem partition
-    b. Use `partprobe` to reload the partition table
-    c. Resize the filesystem in the new partition to use the new available space
-6. If `partprobe` gives you an error, the machine will not boot properly. You may need to adjust the starting sector of the new partition in expert mode so that it matches the starting sector of the old partition. https://unix.stackexchange.com/a/320447
-7. Boot the virtual machine - it may take awhile the first time. Cross your fingers.
+    a. Using `fdisk`, delete and recreate the main filesystem partition (the Extended and Linux partition)
+    b. Make sure the starting sector of the new Linux partition matches the old one. You may need to adjust the starting sector of the new partition in expert mode so that it matches the starting sector of the old partition. https://unix.stackexchange.com/a/320447
+    c. Use `partprobe` to reload the partition table
+    d. Resize the filesystem in the new partition to use the new available space
+7. Reboot the virtual machine - it may take awhile the first time. Cross your fingers.
 
 
 **References**
