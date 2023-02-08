@@ -2,7 +2,7 @@
 title: Applications
 description: The applications in development or managed by the SSDT
 published: true
-date: 2023-02-08T20:07:23.060Z
+date: 2023-02-08T20:16:41.742Z
 tags: 
 editor: markdown
 dateCreated: 2019-10-04T20:30:08.140Z
@@ -54,9 +54,9 @@ Tracks chemicals from the Berea College chemical bunker and their movements to l
 
 **Point of Contact:** Andrew Garrett <garretta@berea.edu>
 **Application Link:** https://chemical.berea.edu
-**Production IP(s):** 10.40.42.129
+**Production IP(s):** 192.68.112.214
 **Production VM(s):** IS&S VM `Chemical`
-**Available Externally:** No
+**Available Externally:** Yes
 **Repository:** https://github.com/BCStudentSoftwareDevTeam/chemical-inventory
 **Setup Documentation:** [README.md](https://github.com/BCStudentSoftwareDevTeam/chemical-inventory#readme)
 **End User Documentation:**
@@ -96,7 +96,7 @@ Records volunteer, labor, and service learning hours for CELTS participants acro
 **Production IP(s):** 192.68.112.131
 **Staging IP:** https://celts-staging.berea.edu
 **Production VM(s):** IS&S VM `CS-CELTS`
-**Available Externally:** N/A
+**Available Externally:** Yes
 **Repository:** https://github.com/BCStudentSoftwareDevTeam/celts
 **Setup Documentation:** [README.md](https://github.com/BCStudentSoftwareDevTeam/celts#readme)
 **End User Documentation:** [Wiki](celts)
