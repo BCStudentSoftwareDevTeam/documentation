@@ -2,7 +2,7 @@
 title: Infrastructure
 description: Details of our network and servers
 published: true
-date: 2023-03-08T21:27:09.933Z
+date: 2023-03-08T21:27:46.006Z
 tags: 
 editor: markdown
 dateCreated: 2019-10-15T16:42:57.959Z
@@ -53,4 +53,4 @@ There is currently a problem with these `libguestfs` tools, where they can't res
 
 
 # Runbooks
-* [Upgrade Jenkins](runbooks/upgrade-jenkins)
+* [Upgrade Jenkins](runbook/upgrade-jenkins)
