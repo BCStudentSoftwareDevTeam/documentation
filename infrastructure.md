@@ -2,7 +2,7 @@
 title: Infrastructure
 description: Details of our network and servers
 published: true
-date: 2022-03-01T20:22:13.217Z
+date: 2023-03-08T21:24:09.227Z
 tags: 
 editor: markdown
 dateCreated: 2019-10-15T16:42:57.959Z
@@ -13,14 +13,6 @@ dateCreated: 2019-10-15T16:42:57.959Z
 ## IS&S - VM hypervisor
 
 * Hosts production VMs for most student [applications](/applications)
-	* Advancement
-	* BCSR
-	* CAS
-	* Labor Status Forms
-	* Chemical Inventory
-	* URCPP
-  * Ulmann Archives
-  * Loyal Jones Appalachian Center
 * New VMs created by request to IS&S
 
 ## CS - production VM hypervisor
@@ -28,11 +20,6 @@ dateCreated: 2019-10-15T16:42:57.959Z
 * 10.40.16.12
 * Hosted in IS&S rack
 * Hosts student, class, and faculty VMs
-* Hosts a few production application vms  
-	* BCAC
-	* Ulmann Archives
-	* Wiki.js
-* Runs DNS server for resolving \*.ssdt.berea.edu *(in progress)*
 
 ## CS - dev VM hypervisor
 * Hostname: ada
@@ -63,3 +50,7 @@ There is currently a problem with these `libguestfs` tools, where they can't res
 * Start the VM and log in
 * Expand the partitions: https://unix.stackexchange.com/a/320454
 * Resize the filesystem: `resize2fs /dev/vda5`
+
+
+# Runbooks
+* [Upgrade Jenkins](upgrade-jenkins)
