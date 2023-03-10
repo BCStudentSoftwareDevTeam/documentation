@@ -2,7 +2,7 @@
 title: Applications
 description: The applications in development or managed by the SSDT
 published: true
-date: 2023-03-10T16:01:24.815Z
+date: 2023-03-10T16:02:34.393Z
 tags: 
 editor: markdown
 dateCreated: 2019-10-04T20:30:08.140Z
@@ -159,7 +159,7 @@ Manages requests for institutional data.
 ## LSF in C#
 Entry and tracking of all labor forms and student labor assignments at Berea.
 
-The legacy version of the application can be reached at https://lsf-legacy.berea.edu. It is a C# application running on an IIS server at 192.68.112.198 (IT contact: Tom House). The code is at https://bitbucket.org/laborstudents/labor-status-forms.
+The servers have been decommissioned. The code is at https://bitbucket.org/laborstudents/labor-status-forms.
 
 
 ## CELTS Time Tracker
