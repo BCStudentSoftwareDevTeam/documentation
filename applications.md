@@ -2,7 +2,7 @@
 title: Applications
 description: The applications in development or managed by the SSDT
 published: true
-date: 2023-02-08T20:16:41.742Z
+date: 2023-03-10T16:01:24.815Z
 tags: 
 editor: markdown
 dateCreated: 2019-10-04T20:30:08.140Z
@@ -130,7 +130,7 @@ http://ssdt-documentation.berea.edu/en/applications/collective-access
 **End User Documentation:**
 
 ## SSDT Documentation
-All of the documentation for our team and applications is contained in Wiki.js. The pages are also stored as .md files and are synced with this repository: https://bitbucket.org/laborstudents/documentation. Any .md files edited in this repo will be updated in the wiki.
+All of the documentation for our team and applications is contained in Wiki.js. The pages are also stored as .md files and are synced with this repository: https://github.com/BCStudentSoftwareDevTeam/documentation. Any .md files edited in this repo will be updated in the wiki.
 
 **Point of Contact:** Brian Ramsay <ramsayb2@berea.edu>
 **Application Link:** http://ssdt-documentation.berea.edu
