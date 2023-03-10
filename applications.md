@@ -2,7 +2,7 @@
 title: Applications
 description: The applications in development or managed by the SSDT
 published: true
-date: 2023-03-10T16:02:34.393Z
+date: 2023-03-10T16:04:43.739Z
 tags: 
 editor: markdown
 dateCreated: 2019-10-04T20:30:08.140Z
@@ -135,9 +135,21 @@ All of the documentation for our team and applications is contained in Wiki.js. 
 **Point of Contact:** Brian Ramsay <ramsayb2@berea.edu>
 **Application Link:** http://ssdt-documentation.berea.edu
 **Production IP(s):** 172.31.2.178
-**Production VM(s):** CS VM - documentation
+**Production VM(s):** CS VM - `documentation`
 **Available Externally:** No
 **Repository:** https://github.com/BCStudentSoftwareDevTeam/documentation
+**Setup Documentation:** 
+**End User Documentation:**
+
+## SSDT Jenkins
+Our continuous integration and deployment server runs Jenkins in a docker container. SETUP IN PROGRESS.
+
+**Point of Contact:** Brian Ramsay <ramsayb2@berea.edu>
+**Application Link:** http://172.31.3.151
+**Production IP(s):** 172.31.3.151
+**Production VM(s):** CS VM - `jenkins`
+**Available Externally:** No
+**Repository:** 
 **Setup Documentation:** 
 **End User Documentation:**
 
