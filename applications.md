@@ -2,7 +2,7 @@
 title: Applications
 description: The applications in development or managed by the SSDT
 published: true
-date: 2023-03-10T16:04:43.739Z
+date: 2023-03-30T16:37:48.794Z
 tags: 
 editor: markdown
 dateCreated: 2019-10-04T20:30:08.140Z
@@ -145,11 +145,35 @@ All of the documentation for our team and applications is contained in Wiki.js. 
 Our continuous integration and deployment server runs Jenkins in a docker container. SETUP IN PROGRESS.
 
 **Point of Contact:** Brian Ramsay <ramsayb2@berea.edu>
-**Application Link:** http://172.31.3.151
-**Production IP(s):** 172.31.3.151
+**Application Link:** http://172.31.2.60
+**Production IP(s):** 172.31.2.60
 **Production VM(s):** CS VM - `jenkins`
 **Available Externally:** No
 **Repository:** 
+**Setup Documentation:** 
+**End User Documentation:**
+
+## CELTS Staging
+A staging server for the celts-link application.
+
+**Point of Contact:** Brian Ramsay <ramsayb2@berea.edu>
+**Application Link:** http://172.31.2.60
+**Production IP(s):** 172.31.2.60
+**Production VM(s):** CS VM - `jenkins`
+**Available Externally:** No
+**Repository:** 
+**Setup Documentation:** 
+**End User Documentation:**
+
+## EE Signals
+Documentation for the Electrical Engineering lab.
+
+**Point of Contact:** Brian Ramsay <ramsayb2@berea.edu>
+**Application Link:** http://172.31.3.95
+**Production IP(s):** 172.31.3.95
+**Production VM(s):** CS VM - `ee-lab-documentation`
+**Available Externally:** No
+**Repository:** https://github.com/BCStudentSoftwareDevTeam/ee-lab-documentation
 **Setup Documentation:** 
 **End User Documentation:**
 
