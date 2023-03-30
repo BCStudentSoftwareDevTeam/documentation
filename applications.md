@@ -2,7 +2,7 @@
 title: Applications
 description: The applications in development or managed by the SSDT
 published: true
-date: 2023-03-30T16:59:04.852Z
+date: 2023-03-30T20:07:47.882Z
 tags: 
 editor: markdown
 dateCreated: 2019-10-04T20:30:08.140Z
@@ -169,11 +169,11 @@ A staging server for the celts-link application.
 A staging server for the lsf application.
 
 **Point of Contact:** Brian Ramsay <ramsayb2@berea.edu>
-**Application Link:** http://172.31.2.98/
-**Production IP(s):** 172.31.2.98
-**Production VM(s):** CS VM - `celts-staging`
+**Application Link:** http://172.31.2.92/
+**Production IP(s):** 172.31.2.92
+**Production VM(s):** CS VM - `lsf-staging`
 **Available Externally:** No
-**Repository:** https://github.com/BCStudentSoftwareDevTeam/celts
+**Repository:** https://github.com/BCStudentSoftwareDevTeam/lsf
 **Setup Documentation:** 
 **End User Documentation:**
 
