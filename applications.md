@@ -2,7 +2,7 @@
 title: Applications
 description: The applications in development or managed by the SSDT
 published: true
-date: 2023-03-30T20:07:47.882Z
+date: 2023-03-31T18:32:07.237Z
 tags: 
 editor: markdown
 dateCreated: 2019-10-04T20:30:08.140Z
@@ -101,7 +101,7 @@ Records volunteer, labor, and service learning hours for CELTS participants acro
 **Setup Documentation:** [README.md](https://github.com/BCStudentSoftwareDevTeam/celts#readme)
 **End User Documentation:** [Wiki](celts)
 
-# Supported applications
+# Supported applications and tools
 These applications are not directly developed by the SSDT but we support them either for external clients or for our own use.
 
 ## Berea College Art Collection
