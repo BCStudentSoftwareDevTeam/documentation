@@ -2,7 +2,7 @@
 title: Applications
 description: The applications in development or managed by the SSDT
 published: true
-date: 2023-03-31T18:32:07.237Z
+date: 2023-03-31T18:32:52.165Z
 tags: 
 editor: markdown
 dateCreated: 2019-10-04T20:30:08.140Z
@@ -177,7 +177,7 @@ A staging server for the lsf application.
 **Setup Documentation:** 
 **End User Documentation:**
 
-## EE Signals Documentation
+## EE Sensors Documentation
 Documentation for the Electrical Engineering lab.
 
 **Point of Contact:** Brian Ramsay <ramsayb2@berea.edu>
