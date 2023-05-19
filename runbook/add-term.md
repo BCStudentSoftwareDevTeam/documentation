@@ -2,7 +2,7 @@
 title: Add BCSR Courses
 description: 
 published: true
-date: 2023-05-19T18:29:10.152Z
+date: 2023-05-19T18:29:35.632Z
 tags: 
 editor: markdown
 dateCreated: 2023-05-19T18:19:19.212Z
@@ -16,3 +16,4 @@ dateCreated: 2023-05-19T18:19:19.212Z
   - update file variables to match your .csv
   - make sure column indices match your .csv
   - execute `addNewTerm.py`
+- Verify courses exist in your new term: https://bcsr.berea.edu/courses
