@@ -2,7 +2,7 @@
 title: Applications
 description: The applications in development or managed by the SSDT
 published: true
-date: 2023-03-31T18:32:52.165Z
+date: 2023-06-02T15:13:04.831Z
 tags: 
 editor: markdown
 dateCreated: 2019-10-04T20:30:08.140Z
@@ -22,6 +22,7 @@ Stores all course syllabi across campus for SACSCOC compliance.
 **Repository:** https://github.com/BCStudentSoftwareDevTeam/bcsr
 **Setup Documentation:** [README.md](https://github.com/BCStudentSoftwareDevTeam/bcsr#readme)
 **End User Documentation:**
+New IP: 192.68.112.138
 
 ## Course Administration & Scheduling
 Facilitates scheduling and room selection prior to course entry in Banner.
@@ -60,7 +61,7 @@ Tracks chemicals from the Berea College chemical bunker and their movements to l
 **Repository:** https://github.com/BCStudentSoftwareDevTeam/chemical-inventory
 **Setup Documentation:** [README.md](https://github.com/BCStudentSoftwareDevTeam/chemical-inventory#readme)
 **End User Documentation:**
-
+New IP: 192.68.112.137
 
 ## Ulmann Galleries
 Ulmann Galleries is a management tool for gallery application entries. It provides an easy way to accept applications from artists that want to show their work in a Berea College Gallery Showing.
