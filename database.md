@@ -2,7 +2,7 @@
 title: Databases
 description: 
 published: true
-date: 2022-06-01T18:49:07.572Z
+date: 2023-06-22T15:28:53.515Z
 tags: 
 editor: markdown
 dateCreated: 2020-02-07T14:19:53.408Z
@@ -36,6 +36,14 @@ By default, the mysql root user has no password and is only accessible when your
     mysql> FLUSH PRIVILEGES;
 
 Replace \<PASS> with the password you want, or with nothing for an empty password.
+
+#### MySQL Password Does Not Meet Requirements
+As of version 8.0 of MySQL, the password validation package `validate_password` has been added as a MySQL component. The default level of password checking in `validate_password` is `MEDIUM` which causes our default password for `celts_user` to fail due to not meeting the medium requirements. If you are using MySQL version 8.0 or higher or you have the `validate_password` package installed on an older version, then you can check your password level with: `mysql> SHOW VARIABLES LIKE 'validate_password';`.
+
+To use the default password you will need to change the level to `LOW`, which is done with: `mysql> SET GLOBAL validate_password.policy=LOW;`, or disable the component with: `mysql> UNINSTALL COMPONENT 'file://component_validate_password';`.
+
+One thing to be aware of, if you restart your MySQL server after changing your password level, the level is reset back to the default of `MEDIUM`.
+ 
 
 ### Using
 https://dev.mysql.com/doc/mysql-getting-started/en/#mysql-getting-started-basic-ops
