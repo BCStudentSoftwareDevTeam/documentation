@@ -2,7 +2,7 @@
 title: Virtual Machine Management
 description: Creating, Maintaining, and Destroying Virtual Machines
 published: true
-date: 2022-09-14T19:13:16.966Z
+date: 2023-08-25T15:34:44.755Z
 tags: infra
 editor: markdown
 dateCreated: 2021-06-02T14:47:57.713Z
@@ -64,3 +64,18 @@ You can get a view into the disk image without booting the VM with `virt-filesys
 [virt-filesystems man page](https://libguestfs.org/virt-filesystems.1.html)
 [Red Hat virt-resize guide](https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/7/html/virtualization_deployment_and_administration_guide/sect-guest_virtual_machine_disk_access_with_offline_tools-virt_resize_resizing_guest_virtual_machines_offline)
 
+
+## Remove Inactive Virtual Machines
+
+### Stop running VMs that you want to remove
+`echo "domain1 domain2etc " | xargs -d " " -L1 virsh destroy`
+
+### Save list of inactive domains to remove
+`virsh list --inactive | cut -c 8-38 | tr -d [:blank:] | grep -v Base | grep -v '^base$' | tail -n +3 > inactive_domains.txt`
+Remove domains from `inactive_domains.txt` if you wish to keep them.
+
+### Undefine domains
+`cat inactive_domains.txt | xargs -L1 virsh undefine`
+
+### Remove disk image
+`cat inactive_domains.txt | awk '$0="/vm/vm0/"$0".img"' | xargs rm`
