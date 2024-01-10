@@ -2,7 +2,7 @@
 title: Runbooks
 description: Common system administration tasks
 published: true
-date: 2024-01-10T20:16:56.031Z
+date: 2024-01-10T20:17:24.873Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-10T15:23:20.283Z
@@ -21,7 +21,7 @@ dateCreated: 2023-03-10T15:23:20.283Z
 | CELTS       | Y    | Y         | app/scripts/import_users.py | [details](/runbook/celts-users)
 | CAS         | Y    | X         | sync_faculty.py             | [details](/runbook/new-cas-user)
 | LSF         | Y    | Y         | scripts/app/\*.py           | [details](/runbook/lsf-users)
-| Chemical    | X    | X         | N/A                         | [details](/runbook/new-bcsr-user)
+| Chemical    | X    | X         | N/A                         | [details](/runbook/new-chemical-user)
 
 ### BCSR
 - [Add a new instructor](/runbook/new-bcsr-user)
