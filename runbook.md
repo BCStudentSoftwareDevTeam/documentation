@@ -2,7 +2,7 @@
 title: Runbooks
 description: Common system administration tasks
 published: true
-date: 2024-01-10T19:47:29.804Z
+date: 2024-01-10T20:16:56.031Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-10T15:23:20.283Z
@@ -13,15 +13,15 @@ dateCreated: 2023-03-10T15:23:20.283Z
 ### User Management
 "User/instructor/student X is not in system Y"
 
-- BCSR
-- URCPP
-- CELTS
-- BCAC
-- CAS
-- LSF
-- Chemical
 
-
+| Application | LDAP | Ultratime | Script                      |  |
+|-------------|------|-----------|-----------------------------|---------|
+| BCSR        | X    | X         | addNewTerm.py               | [details](/runbook/new-bcsr-user) 
+| URCPP       | Y    | X         | sync_faculty.py             | [details](/runbook/new-urcpp-user)
+| CELTS       | Y    | Y         | app/scripts/import_users.py | [details](/runbook/celts-users)
+| CAS         | Y    | X         | sync_faculty.py             | [details](/runbook/new-cas-user)
+| LSF         | Y    | Y         | scripts/app/\*.py           | [details](/runbook/lsf-users)
+| Chemical    | X    | X         | N/A                         | [details](/runbook/new-bcsr-user)
 
 ### BCSR
 - [Add a new instructor](/runbook/new-bcsr-user)
