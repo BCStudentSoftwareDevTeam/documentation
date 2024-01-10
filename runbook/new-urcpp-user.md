@@ -2,14 +2,16 @@
 title: URCPP Users
 description: 
 published: true
-date: 2024-01-10T21:22:05.116Z
+date: 2024-01-10T21:34:08.459Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-10T21:22:05.116Z
 ---
 
 # URCPP Users
-URCPP users can be faculty or staff, and . Permissions are set in the application
+URCPP users can be faculty or staff. There are unused tables for students in the database. Permissions are set in the application.
+
+Automatic syncing daily via cron.
 
 ## Importing Users
 
@@ -20,3 +22,6 @@ FAILS:
  - LDAP query doesn't handle descriptions beyond 'Faculty' or 'Staff'
  
  ## User Permissions
+ 
+ TBD
+ 
