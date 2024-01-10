@@ -2,13 +2,26 @@
 title: Runbooks
 description: Common system administration tasks
 published: true
-date: 2023-05-19T18:06:44.600Z
+date: 2024-01-10T19:47:29.804Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-10T15:23:20.283Z
 ---
 
 ## Common Requests
+
+### User Management
+"User/instructor/student X is not in system Y"
+
+- BCSR
+- URCPP
+- CELTS
+- BCAC
+- CAS
+- LSF
+- Chemical
+
+
 
 ### BCSR
 - [Add a new instructor](/runbook/new-bcsr-user)
