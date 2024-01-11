@@ -2,7 +2,7 @@
 title: Runbooks
 description: Common system administration tasks
 published: true
-date: 2024-01-11T19:59:06.248Z
+date: 2024-01-11T20:07:59.109Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-10T15:23:20.283Z
@@ -30,4 +30,4 @@ dateCreated: 2023-03-10T15:23:20.283Z
 
 ## Upgrading Servers
 * [Upgrade Jenkins](/runbook/upgrade-jenkins)
-* [Upgrade wiki documentation](/runbook/upgrade-wiki)
+* [Upgrade wiki documentation server](/runbook/upgrade-wiki)
