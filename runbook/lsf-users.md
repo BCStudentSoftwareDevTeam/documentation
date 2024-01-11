@@ -2,7 +2,7 @@
 title: LSF User Management
 description: 
 published: true
-date: 2024-01-11T18:53:11.278Z
+date: 2024-01-11T18:53:19.210Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-11T18:47:47.257Z
@@ -21,7 +21,7 @@ The script [`scripts/updateDBRecords.py`](https://github.com/BCStudentSoftwareDe
 
 The script [`scripts/sync_preferred_name.py`](https://github.com/BCStudentSoftwareDevTeam/lsf/blob/development/scripts/sync_preferred_name.py) will retrieve names from LDAP for students and faculty or staff, and update `preferred_name` in the relevant lsf table (`Student` or `Supervisor`).
 
-The scripts must be run in tandem, and in this order, in order for preferred name preferences to be preserved.
+The scripts must be run in tandem and in this order, in order for preferred name preferences to be preserved.
  
  ## User Permissions
  
