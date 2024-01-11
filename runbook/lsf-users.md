@@ -2,7 +2,7 @@
 title: LSF User Management
 description: 
 published: true
-date: 2024-01-11T18:47:47.257Z
+date: 2024-01-11T18:52:55.892Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-11T18:47:47.257Z
@@ -25,4 +25,4 @@ The scripts must be run in tandem, and in this order, in order for preferred nam
  
  ## User Permissions
  
-There are 5 types of permissions, Administrators (Labor, SAAS, or Financial Aid), Supervisors, and Students. Administrator permissions can be updated in the application admin page: https://lsf.berea.edu/admin/adminManagement. Supervisor and Student permissions are not alterable.
+There are 5 types of permissions, Administrators (Labor, SAAS, or Financial Aid), Supervisors, and Students. Administrator permissions can be updated in the application admin page: https://lsf.berea.edu/admin/adminManagement. Supervisor and Student roles are not alterable.
