@@ -2,7 +2,7 @@
 title: URCPP Users
 description: 
 published: true
-date: 2024-01-11T19:16:46.230Z
+date: 2024-01-11T20:07:26.595Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-10T21:22:05.116Z
@@ -23,7 +23,7 @@ The script [`sync_faculty.py`](https://github.com/BCStudentSoftwareDevTeam/urcpp
 >LDAP query doesn't handle descriptions beyond 'Faculty' or 'Staff' (ie, no combinations)
 {.is-danger}
 
- ## User Permissions
+## User Permissions
  
- TBD
+Users can be Chair, IRB Chair, Staff Support, or a Committee Member. Chair, IRB Chair, and Staff Support are updated when setting parameters for a new year: https://urcpp.berea.edu/chair/setParameters. The Committee Members are updated on the Manage Committee page: https://urcpp.berea.edu/chair/manageCommittee.
  
