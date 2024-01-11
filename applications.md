@@ -2,7 +2,7 @@
 title: Applications
 description: The applications in development or managed by the SSDT
 published: true
-date: 2024-01-11T18:19:47.417Z
+date: 2024-01-11T18:20:09.113Z
 tags: 
 editor: markdown
 dateCreated: 2019-10-04T20:30:08.140Z
@@ -142,18 +142,6 @@ All of the documentation for our team and applications is contained in Wiki.js. 
 **Setup Documentation:** 
 **End User Documentation:**
 
-## SSDT Jenkins
-Our continuous integration and deployment server runs Jenkins in a docker container. SETUP IN PROGRESS.
-
-**Point of Contact:** Brian Ramsay <ramsayb2@berea.edu>
-**Application Link:** http://172.31.2.60
-**Production IP(s):** 172.31.2.60
-**Production VM(s):** CS VM - `jenkins`
-**Available Externally:** No
-**Repository:** 
-**Setup Documentation:** 
-**End User Documentation:**
-
 ## CELTS Staging
 A staging server for the celts-link application.
 
@@ -222,3 +210,16 @@ Records volunteer, labor, and service learning hours for CELTS across different 
 **Repository:** https://bitbucket.org/laborstudents/celts-tracker-google-app-script/
 **Setup Documentation:** [README.md](https://bitbucket.org/laborstudents/celts-tracker-google-app-script/src/master/README.md)
 **End User Documentation:** [Wiki](celts)
+
+
+## SSDT Jenkins
+Our continuous integration and deployment server runs Jenkins in a docker container. SETUP IN PROGRESS.
+
+**Point of Contact:** Brian Ramsay <ramsayb2@berea.edu>
+**Application Link:** http://172.31.2.60
+**Production IP(s):** 172.31.2.60
+**Production VM(s):** CS VM - `jenkins`
+**Available Externally:** No
+**Repository:** 
+**Setup Documentation:** 
+**End User Documentation:**
