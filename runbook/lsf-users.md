@@ -2,7 +2,7 @@
 title: LSF User Management
 description: 
 published: true
-date: 2024-01-11T18:55:42.433Z
+date: 2024-01-11T19:15:43.456Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-11T18:47:47.257Z
@@ -23,9 +23,10 @@ The script [`scripts/sync_preferred_name.py`](https://github.com/BCStudentSoftwa
 
 The scripts must be run in tandem and in this order, in order for preferred name preferences to be preserved.
 
-FAILS:
- - LDAP limits the number of records returned by a query to 1500. The last hundred or so student records are probably not retrieved, which means no preferred name update.
- 
+>LDAP limits the number of records returned by a query to 1500. The last hundred or so student records are probably not retrieved, which means no preferred name update.
+{.is-danger}
+
+
  ## User Permissions
  
 There are 5 types of permissions, Administrators (Labor, SAAS, or Financial Aid), Supervisors, and Students. Administrator permissions can be updated in the application admin page: https://lsf.berea.edu/admin/adminManagement. Supervisor and Student roles are based on the presence of data and are not alterable.
