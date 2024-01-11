@@ -1,8 +1,8 @@
 ---
-title: New BCSR user
+title: BCSR User Management
 description: 
 published: true
-date: 2024-01-11T19:55:25.048Z
+date: 2024-01-11T20:00:23.798Z
 tags: 
 editor: markdown
 dateCreated: 2023-05-10T19:41:49.946Z
