@@ -2,7 +2,7 @@
 title: Runbooks
 description: Common system administration tasks
 published: true
-date: 2024-01-11T19:57:26.493Z
+date: 2024-01-11T19:59:06.248Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-10T15:23:20.283Z
@@ -23,7 +23,6 @@ dateCreated: 2023-03-10T15:23:20.283Z
 | Chemical    | X    | X         | N/A            | N/A                           | [details](/runbook/new-chemical-user)
 
 ### BCSR
-- [Add a new instructor](/runbook/new-bcsr-user)
 - [Add courses for upcoming term](/runbook/add-term)
 
 ## Creating Servers
