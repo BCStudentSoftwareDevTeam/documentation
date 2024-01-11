@@ -2,7 +2,7 @@
 title: LSF User Management
 description: 
 published: true
-date: 2024-01-11T18:53:19.210Z
+date: 2024-01-11T18:55:42.433Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-11T18:47:47.257Z
@@ -22,6 +22,9 @@ The script [`scripts/updateDBRecords.py`](https://github.com/BCStudentSoftwareDe
 The script [`scripts/sync_preferred_name.py`](https://github.com/BCStudentSoftwareDevTeam/lsf/blob/development/scripts/sync_preferred_name.py) will retrieve names from LDAP for students and faculty or staff, and update `preferred_name` in the relevant lsf table (`Student` or `Supervisor`).
 
 The scripts must be run in tandem and in this order, in order for preferred name preferences to be preserved.
+
+FAILS:
+ - LDAP limits the number of records returned by a query to 1500. The last hundred or so student records are probably not retrieved, which means no preferred name update.
  
  ## User Permissions
  
