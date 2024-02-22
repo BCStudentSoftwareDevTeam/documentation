@@ -2,26 +2,36 @@
 title: Pull Request
 description: 
 published: true
-date: 2021-04-06T16:03:42.317Z
+date: 2024-02-22T19:31:36.361Z
 tags: 
+editor: markdown
+dateCreated: 2021-04-06T15:43:33.577Z
 ---
 
 # What Should My Pull Request Look Like?
 
-1. My PR has a helpful title that gives a brief overview of the PR's change to the application 
+## My PR description...
+1. Has a helpful, descriptive title that gives a brief overview of the PR's change to the application. 
 
-2. The issue I am fixing has a link to the PR: "Fixes issue #124"
+2. Includes a link to the issue it is fixing: "Fixes issue #124".
 
-3. My PR has a description of its functionality: What does it do? What problem does it solve?
+3. Has a description of its functionality: What does it do? What problem does it solve? How did you solve it?
 
-4. My PR includes clear, detailed instructions to test
+4. Includes **clear**, **detailed** instructions to test.
 
-5. My PR does not conflict with development 
+5. Includes any helpful images, gifs, or notes that are relevant and useful to the reviewers.
 
-6. My PR addresses any known issues or bugs
+## The code I am attempting to merge...
+1. Does not conflict with development.
 
-7. My PR includes any helpful images, gifs, or notes that are relevant and useful to the reviewers
+2. Addresses all known issues or bugs included in the issue.
 
-**PR Example:**
+3. Does not contain **any** debug statements.
 
-![4.png](/4.png)
+4. Is properly documented (see [Documenting Your Code](/ssdt-program/documenting-your-code).
+
+5. Properly tests all new functionality I have created or modified in the backend.
+
+## PR Example
+
+https://github.com/BCStudentSoftwareDevTeam/celts/pull/1119
