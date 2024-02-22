@@ -2,7 +2,7 @@
 title: Pull Request
 description: 
 published: true
-date: 2024-02-22T19:31:36.361Z
+date: 2024-02-22T19:33:06.665Z
 tags: 
 editor: markdown
 dateCreated: 2021-04-06T15:43:33.577Z
@@ -28,7 +28,7 @@ dateCreated: 2021-04-06T15:43:33.577Z
 
 3. Does not contain **any** debug statements.
 
-4. Is properly documented (see [Documenting Your Code](/ssdt-program/documenting-your-code).
+4. Is properly documented (see [Documenting Your Code](/ssdt-program/documenting-your-code)).
 
 5. Properly tests all new functionality I have created or modified in the backend.
 
