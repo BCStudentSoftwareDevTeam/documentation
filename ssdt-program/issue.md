@@ -2,20 +2,28 @@
 title: What Should My Issue Look Like?
 description: 
 published: true
-date: 2021-04-19T14:45:51.052Z
+date: 2024-02-22T19:42:54.784Z
 tags: 
+editor: markdown
+dateCreated: 2021-04-07T15:34:06.067Z
 ---
 
 # What Should My Issue Look Like?
 Before adding a new issue to the issue queue, make sure you are following the guidelines provided below. 
 
-1. Have a descriptive title
-1. Have an informative description about the issue
-1. Include files that may be associated with the issue
-1. Include possible solutions (If applicable)
+## My issue...
+
+1. Has a descriptive title.
+2. Has an informative description about the issue
+3. Includes images of what thw problem is.
+4. Includes files that may be associated with the issue
+5. Include possible solutions (If applicable)
+6. Was added to **both** Trello and GitHub.
 
 
 **Issue Example** 
-For more examples go to Issues in Bitbucket. 
 
-![issue.png](/issue.png)
+![issue_example.png](/issue_example.png)
+
+For more examples go to the issue queue in CELTS: https://github.com/BCStudentSoftwareDevTeam/celts/issues. 
+
