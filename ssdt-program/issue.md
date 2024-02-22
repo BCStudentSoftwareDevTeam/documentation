@@ -2,7 +2,7 @@
 title: What Should My Issue Look Like?
 description: 
 published: true
-date: 2024-02-22T19:42:54.784Z
+date: 2024-02-22T19:43:33.450Z
 tags: 
 editor: markdown
 dateCreated: 2021-04-07T15:34:06.067Z
@@ -21,7 +21,7 @@ Before adding a new issue to the issue queue, make sure you are following the gu
 6. Was added to **both** Trello and GitHub.
 
 
-**Issue Example** 
+## Issue Example
 
 ![issue_example.png](/issue_example.png)
 
