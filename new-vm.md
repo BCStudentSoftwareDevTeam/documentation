@@ -2,7 +2,7 @@
 title: New Development VM
 description: Using your new development virtual machine
 published: true
-date: 2024-02-27T16:34:46.163Z
+date: 2024-02-27T16:36:57.029Z
 tags: 
 editor: markdown
 dateCreated: 2020-02-06T01:44:48.302Z
@@ -32,6 +32,9 @@ https://xkcd.com/149/
 ## Personal Website
 
 If you navigate to http://172.31.2.118/ in your browser, using your own IP address, you will see a website that is run from your new VM. You can edit this site to be whatever you want (nothing illegal, please) by changing the files in the `www/` directory inside your home directory. If you wanted to run it using Python, PHP, or NodeJS (installed), or other server tech, you can find documentation on the web for it.
+
+Using `www/` for these applications may not work the same way. Some applications will require Apache configuration to run permanently.
+
 *Note: Class-specific or application-specific virtual machines may have this functionality removed or altered.*
 
 ## MySQL
