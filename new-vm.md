@@ -2,8 +2,10 @@
 title: New Development VM
 description: Using your new development virtual machine
 published: true
-date: 2020-02-07T14:06:17.249Z
+date: 2024-02-27T16:34:46.163Z
 tags: 
+editor: markdown
+dateCreated: 2020-02-06T01:44:48.302Z
 ---
 
 # What is a VM?
@@ -18,7 +20,7 @@ These VMs run Ubuntu, a **Linux** distribution. Linux is the operating system th
 
 ## Login Credentials
 
-You can access your VM with a username and password. The initial password is the same as your username (likely the same as your Berea College username - check your email), and you will be prompted to change it on your first login. A better way to access your VM is with public key authentication for SSH. A single key can access multiple VMs, and you will not have to enter your password every time you log in. Read our [SSH documentation](/ssh) to learn how to set that up!
+You can access your VM with a username and password. The initial password is the same as your username (likely the same as your Berea College username - check your email), and you may be prompted to change it on your first login. A better way to access your VM is with public key authentication for SSH. A single key can access multiple VMs, and you will not have to enter your password every time you log in. Read our [SSH documentation](/ssh) to learn how to set that up!
 
 ## Administrator Privileges
 
