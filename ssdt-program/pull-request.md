@@ -2,7 +2,7 @@
 title: Pull Request
 description: 
 published: true
-date: 2024-02-22T19:42:40.363Z
+date: 2024-02-27T18:42:56.023Z
 tags: 
 editor: markdown
 dateCreated: 2021-04-06T15:43:33.577Z
@@ -13,7 +13,7 @@ dateCreated: 2021-04-06T15:43:33.577Z
 ## My PR description...
 1. Has a helpful, descriptive title that gives a brief overview of the PR's change to the application. 
 
-2. Includes a link to the issue it is fixing: "Fixes issue #124".
+2. Includes a link to the issue it is fixing: "Fixes issue #124". The language is important. "Fixes", "Closes", and "Resolves" are keywords GitHub uses to link issues and PRs.
 
 3. Has a description of its functionality: What does it do? What problem does it solve? How did you solve it?
 
@@ -22,13 +22,13 @@ dateCreated: 2021-04-06T15:43:33.577Z
 5. Includes any helpful images, gifs, or notes that are relevant and useful to the reviewers.
 
 ## The code I am attempting to merge...
-1. Does not conflict with development.
+1. Does not conflict with development. Address merge conflicts before asking for review.
 
 2. Addresses all known issues or bugs included in the issue.
 
-3. Does not contain **any** debug statements.
+3. Does not contain **any** debug statements or superfluous output.
 
-4. Is properly documented (see [Documenting Your Code](/ssdt-program/documenting-your-code))!.
+4. Is properly documented (see [Documenting Your Code](/ssdt-program/documenting-your-code))!
 
 5. Properly tests all new functionality I have created or modified in the backend.
 
