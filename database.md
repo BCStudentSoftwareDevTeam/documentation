@@ -2,7 +2,7 @@
 title: Databases
 description: 
 published: true
-date: 2023-06-22T17:10:01.131Z
+date: 2024-04-24T15:00:37.896Z
 tags: 
 editor: markdown
 dateCreated: 2020-02-07T14:19:53.408Z
@@ -31,7 +31,7 @@ If you want a graphical interface to your database, install the package `phpmyad
 By default, the mysql root user has no password and is only accessible when your host user is the superuser (root). This means that this command, `mysql -u root`, will not work out of the box as your normal user. You would need to use sudo, like `sudo mysql -u root`. It is generally not good to have an unsecured root login anywhere, but if you are setting this up in a development environment it is probably ok. To change the user so you can access it without sudo, connect to mysql and run the following SQL:
 
     mysql> DROP USER 'root'@'localhost';
-    mysql> CREATE USER 'root'@'%' IDENTIFIED WITH  mysql_native_password BY '<PASS>';
+    mysql> CREATE USER 'root'@'%' IDENTIFIED VIA  mysql_native_password USING PASSWORD('<PASS>');
     mysql> GRANT ALL PRIVILEGES ON *.* TO 'root'@'%' WITH GRANT OPTION;
     mysql> FLUSH PRIVILEGES;
 
